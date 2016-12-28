@@ -18,7 +18,8 @@ permalink: /bookmarks/
 
 [Madoka is a terrible philosophical trainwreck, with spoilers | Fine Whining and Breathing](https://finewhiningandbreathing.wordpress.com/2014/04/17/madoka-sucks/)
 
-[Zen Buddhism and Enlightenment in Ping Pong the Animation | Fine Whining and Breathing](https://finewhiningandbreathing.wordpress.com/2014/07/01/(the-journey-to-enlightenment-in-ping-pong-the-animation/)
+[Zen Buddhism and Enlightenment in Ping Pong the Animation | Fine Whining and Breathing](https://finewhiningandbreathing.wordpress.com/2014/07/01/the-journey-to-enlightenment-in-ping-pong-the-animation/)
+
 [Ping Pong: On Heroism and the False Sense of Enlightenment | Fine Whining and Breathing](https://finewhiningandbreathing.wordpress.com/2014/07/10/ping-pong-on-heroism-and-the-false-sense-of-enlightenment/)
 
 [Why over sixty years of animation history still remains obscure | Wave Motion Cannon](https://wavemotioncannon.com/2016/01/08/why-over-sixty-years-of-animation-history-still-remains-obscure/)
@@ -46,5 +47,7 @@ permalink: /bookmarks/
 ## Magic the Gathering
 
 [What I Know About Magic: The Gathering | Magic: The Gathering | BoardGameGeek](https://boardgamegeek.com/thread/370207/what-i-know-about-magic-gathering)
+
 [Finding the Tinker Deck](https://www.wizards.com/sideboard/article.asp?x=sb20010607a)
+
 [Understanding Aggro-Combo by Conley Woods - Magic the Gathering (MTG)](http://magic.tcgplayer.com/db/article.asp?ID=12834)
