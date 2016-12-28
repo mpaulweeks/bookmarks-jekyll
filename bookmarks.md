@@ -18,6 +18,10 @@ permalink: /bookmarks/
 
 [Madoka is a terrible philosophical trainwreck, with spoilers &#124; Fine Whining and Breathing](https://finewhiningandbreathing.wordpress.com/2014/04/17/madoka-sucks/)
 
+[Heroism in Ping Pong: the Animation, episodes 1 and 2 &#124; Fine Whining and Breathing](https://finewhiningandbreathing.wordpress.com/2014/04/23/heroism-in-ping-pong-the-animation-episodes-1-and-2/)
+
+[What it means to be a hero – episode 3 of Ping Pong: the Animation &#124; Fine Whining and Breathing](https://finewhiningandbreathing.wordpress.com/2014/04/25/what-it-means-to-be-a-hero-episode-3-of-ping-pong-the-animation/)
+
 [Zen Buddhism and Enlightenment in Ping Pong the Animation &#124; Fine Whining and Breathing](https://finewhiningandbreathing.wordpress.com/2014/07/01/the-journey-to-enlightenment-in-ping-pong-the-animation/)
 
 [Ping Pong: On Heroism and the False Sense of Enlightenment &#124; Fine Whining and Breathing](https://finewhiningandbreathing.wordpress.com/2014/07/10/ping-pong-on-heroism-and-the-false-sense-of-enlightenment/)
