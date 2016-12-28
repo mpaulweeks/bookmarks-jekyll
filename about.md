@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Personal blog for tracking/storing articles and other neat bookmarks and then sharing them with people.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+For more about me, see [www.mpaulweeks.com](http://www.mpaulweeks.com)
