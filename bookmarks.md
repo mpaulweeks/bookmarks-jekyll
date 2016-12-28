@@ -8,29 +8,29 @@ permalink: /bookmarks/
 
 ## Film
 
-[Your Taste is Bad and So Are You | Wrong Every Time](http://wrongeverytime.com/2014/09/08/your-taste-is-bad-and-so-are-you/)
+[Your Taste is Bad and So Are You &#124; Wrong Every Time](http://wrongeverytime.com/2014/09/08/your-taste-is-bad-and-so-are-you/)
 
-[Film Crit Hulk Smash: HULK VS. SPOILERS AND THE 4 LEVELS OF HOW WE CONSUME ART | Birth.Movies.Death.](http://birthmoviesdeath.com/2013/06/05/film-crit-hulk-smash-hulk-vs.-spoilers-and-the-4-levels-of-how-we-consume-a)
+[Film Crit Hulk Smash: HULK VS. SPOILERS AND THE 4 LEVELS OF HOW WE CONSUME ART &#124; Birth.Movies.Death.](http://birthmoviesdeath.com/2013/06/05/film-crit-hulk-smash-hulk-vs.-spoilers-and-the-4-levels-of-how-we-consume-a)
 
 ## Animation
 
 [Tokyo Scum Brigade: Tiger & Bunny: Criminally Bad CG or Heroic Effort?](http://tokyoscum.blogspot.com/2011/06/tiger-bunny-criminally-bad-cg-or-heroic.html?m=1)
 
-[Madoka is a terrible philosophical trainwreck, with spoilers | Fine Whining and Breathing](https://finewhiningandbreathing.wordpress.com/2014/04/17/madoka-sucks/)
+[Madoka is a terrible philosophical trainwreck, with spoilers &#124; Fine Whining and Breathing](https://finewhiningandbreathing.wordpress.com/2014/04/17/madoka-sucks/)
 
-[Zen Buddhism and Enlightenment in Ping Pong the Animation | Fine Whining and Breathing](https://finewhiningandbreathing.wordpress.com/2014/07/01/the-journey-to-enlightenment-in-ping-pong-the-animation/)
+[Zen Buddhism and Enlightenment in Ping Pong the Animation &#124; Fine Whining and Breathing](https://finewhiningandbreathing.wordpress.com/2014/07/01/the-journey-to-enlightenment-in-ping-pong-the-animation/)
 
-[Ping Pong: On Heroism and the False Sense of Enlightenment | Fine Whining and Breathing](https://finewhiningandbreathing.wordpress.com/2014/07/10/ping-pong-on-heroism-and-the-false-sense-of-enlightenment/)
+[Ping Pong: On Heroism and the False Sense of Enlightenment &#124; Fine Whining and Breathing](https://finewhiningandbreathing.wordpress.com/2014/07/10/ping-pong-on-heroism-and-the-false-sense-of-enlightenment/)
 
-[Why over sixty years of animation history still remains obscure | Wave Motion Cannon](https://wavemotioncannon.com/2016/01/08/why-over-sixty-years-of-animation-history-still-remains-obscure/)
+[Why over sixty years of animation history still remains obscure &#124; Wave Motion Cannon](https://wavemotioncannon.com/2016/01/08/why-over-sixty-years-of-animation-history-still-remains-obscure/)
 
-[Shinbo is Dead: A New Generation of Shaft | Wave Motion Cannon](https://wavemotioncannon.com/2016/03/21/shinbo-is-dead-a-new-generation-of-shaft/)
+[Shinbo is Dead: A New Generation of Shaft &#124; Wave Motion Cannon](https://wavemotioncannon.com/2016/03/21/shinbo-is-dead-a-new-generation-of-shaft/)
 
-[Yuri Kuma Arashi | The Chuuni Corner](https://thechuunicorner.com/tag/yuri-kuma-arashi/)
+[Yuri Kuma Arashi &#124; The Chuuni Corner](https://thechuunicorner.com/tag/yuri-kuma-arashi/)
 
 ## Manga
 
-[Inio Asano interview — “Reality is tough, so read this manga about cute girls and feel better” | manga brog](https://mangabrog.wordpress.com/2014/07/06/inio-asano-interview-reality-is-tough-so-read-this-manga-about-cute-girls-and-feel-better/)
+[Inio Asano interview — “Reality is tough, so read this manga about cute girls and feel better” &#124; manga brog](https://mangabrog.wordpress.com/2014/07/06/inio-asano-interview-reality-is-tough-so-read-this-manga-about-cute-girls-and-feel-better/)
 
 ## World
 
@@ -42,11 +42,11 @@ permalink: /bookmarks/
 
 ## Fighting Games
 
-[Reaction Speeds in Gaming | [K]ayinworks](https://kayin.moe/?p=2047)
+[Reaction Speeds in Gaming &#124; [K]ayinworks](https://kayin.moe/?p=2047)
 
 ## Magic the Gathering
 
-[What I Know About Magic: The Gathering | Magic: The Gathering | BoardGameGeek](https://boardgamegeek.com/thread/370207/what-i-know-about-magic-gathering)
+[What I Know About Magic: The Gathering &#124; Magic: The Gathering &#124; BoardGameGeek](https://boardgamegeek.com/thread/370207/what-i-know-about-magic-gathering)
 
 [Finding the Tinker Deck](https://www.wizards.com/sideboard/article.asp?x=sb20010607a)
 
