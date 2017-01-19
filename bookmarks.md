@@ -55,3 +55,7 @@ permalink: /bookmarks/
 [Finding the Tinker Deck](https://www.wizards.com/sideboard/article.asp?x=sb20010607a)
 
 [Understanding Aggro-Combo by Conley Woods - Magic the Gathering (MTG)](http://magic.tcgplayer.com/db/article.asp?ID=12834)
+
+# Video
+
+[RLM: Boyhood and stories](https://youtu.be/lampOM4AhAk?t=7m59s)
