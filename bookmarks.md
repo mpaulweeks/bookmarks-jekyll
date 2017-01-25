@@ -32,6 +32,8 @@ permalink: /bookmarks/
 
 [Yuri Kuma Arashi &#124; The Chuuni Corner](https://thechuunicorner.com/tag/yuri-kuma-arashi/)
 
+[The Compatible Aesthetics of Big O](http://www.uk-anime.net/articles/The_Compatible_Aesthetics_of_Big_O/1)
+
 ## Manga
 
 [Inio Asano interview — “Reality is tough, so read this manga about cute girls and feel better” &#124; manga brog](https://mangabrog.wordpress.com/2014/07/06/inio-asano-interview-reality-is-tough-so-read-this-manga-about-cute-girls-and-feel-better/)
