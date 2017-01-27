@@ -284,13 +284,32 @@ footer {
 }
 
 .bookmarks-author {
-   color: $gray;
-   font-size: 80%;
+  color: $gray;
+  font-size: 80%;
 }
 
 .bookmarks-tag {
-   color: $gray;
-   font-size: 60%;
+  font-size: 60%;
+  
+  color: #39739d;
+  background-color: #E1ECF4;
+  border-color: transparent;
+
+  position: relative;
+  display: inline-block;
+  padding: .4em .5em;
+  margin: 2px 2px 2px 0;
+  line-height: 1;
+  white-space: nowrap;
+  text-decoration: none;
+  text-align: center;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 0;
+}
+
+.block.hide {
+  display: none;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
