@@ -283,6 +283,16 @@ footer {
   text-align: center;
 }
 
+.bookmarks-author {
+   color: $gray;
+   font-size: 80%;
+}
+
+.bookmarks-tag {
+   color: $gray;
+   font-size: 60%;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
