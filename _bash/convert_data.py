@@ -77,7 +77,7 @@ def main():
             })
         elif len(line) > 0:
             title = line.split(']')[0][1:]
-            url = line.split("(")[1][0:-2]
+            url = line.split("(")[1][0:-1]
             tags = []
             current_bucket.append({
                 'author': '',
