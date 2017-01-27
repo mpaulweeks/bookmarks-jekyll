@@ -4,6 +4,8 @@ title: Bookmarks
 permalink: /bookmarks/
 ---
 
+Articles and videos I am eager to share and preserve.
+
 <a href="?" id="bookmarks-back" class="bookmarks-back hide">go back to full list</a>
 
 {% for category in site.data.bookmarks %}
