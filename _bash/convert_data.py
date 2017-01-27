@@ -1,5 +1,5 @@
 
-# python3 -m _bash.convert_data && python -m json.tool _data/bookmarks_raw.json > _data/bookmarks.json 
+# python3 -m _bash.convert_data
 
 raw_data = """
 
@@ -70,20 +70,23 @@ def main():
     for line in lines:
         if "# " in line:
             title = line.split("# ")[1]
-            current_bucket = {'links': []}
+            current_bucket = []
             data.append({
-                'section': title,
+                'title': title,
                 'children': current_bucket,
             })
         elif len(line) > 0:
             title = line.split(']')[0][1:]
             url = line.split("(")[1][0:-2]
-            current_bucket['links'].append({
+            tags = []
+            current_bucket.append({
+                'author': '',
                 'title': title,
                 'url': url,
+                'tags': tags,
             })
     import json
-    with open("_data/bookmarks_raw.json", "w") as f:
+    with open("_data/bookmarks.json", "w") as f:
         json.dump(data, f)
 
 

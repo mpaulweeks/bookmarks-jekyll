@@ -1,144 +1,176 @@
 [
     {
-        "children": {
-            "links": []
-        },
-        "section": "Articles"
+        "children": [
+            {
+                "author": "Wrong Every Time",
+                "tags": [],
+                "title": "Your Taste is Bad and So Are You",
+                "url": "http://wrongeverytime.com/2014/09/08/your-taste-is-bad-and-so-are-you"
+            },
+            {
+                "author": "Film Crit Hulk Smash",
+                "tags": [],
+                "title": "HULK VS. SPOILERS AND THE 4 LEVELS OF HOW WE CONSUME ART",
+                "url": "http://birthmoviesdeath.com/2013/06/05/film-crit-hulk-smash-hulk-vs.-spoilers-and-the-4-levels-of-how-we-consume-"
+            }
+        ],
+        "title": "Film"
     },
     {
-        "children": {
-            "links": [
-                {
-                    "title": "Your Taste is Bad and So Are You &#124; Wrong Every Time",
-                    "url": "http://wrongeverytime.com/2014/09/08/your-taste-is-bad-and-so-are-you"
-                },
-                {
-                    "title": "Film Crit Hulk Smash: HULK VS. SPOILERS AND THE 4 LEVELS OF HOW WE CONSUME ART &#124; Birth.Movies.Death.",
-                    "url": "http://birthmoviesdeath.com/2013/06/05/film-crit-hulk-smash-hulk-vs.-spoilers-and-the-4-levels-of-how-we-consume-"
-                }
-            ]
-        },
-        "section": "Film"
+        "children": [
+            {
+                "author": "Tokyo Scum Brigade",
+                "tags": [],
+                "title": "Tiger & Bunny: Criminally Bad CG or Heroic Effort?",
+                "url": "http://tokyoscum.blogspot.com/2011/06/tiger-bunny-criminally-bad-cg-or-heroic.html?m="
+            },
+            {
+                "author": "Fine Whining and Breathing",
+                "tags": [
+                    "Madoka"
+                ],
+                "title": "Madoka is a terrible philosophical trainwreck, with spoilers",
+                "url": "https://finewhiningandbreathing.wordpress.com/2014/04/17/madoka-sucks"
+            },
+            {
+                "author": "Fine Whining and Breathing",
+                "tags": [
+                    "Ping Pong"
+                ],
+                "title": "Heroism in Ping Pong: the Animation, episodes 1 and 2",
+                "url": "https://finewhiningandbreathing.wordpress.com/2014/04/23/heroism-in-ping-pong-the-animation-episodes-1-and-2"
+            },
+            {
+                "author": "Fine Whining and Breathing",
+                "tags": [
+                    "Ping Pong"
+                ],
+                "title": "What it means to be a hero \u2013 episode 3 of Ping Pong: the Animation",
+                "url": "https://finewhiningandbreathing.wordpress.com/2014/04/25/what-it-means-to-be-a-hero-episode-3-of-ping-pong-the-animation"
+            },
+            {
+                "author": "Fine Whining and Breathing",
+                "tags": [
+                    "Ping Pong"
+                ],
+                "title": "Zen Buddhism and Enlightenment in Ping Pong the Animation",
+                "url": "https://finewhiningandbreathing.wordpress.com/2014/07/01/the-journey-to-enlightenment-in-ping-pong-the-animation"
+            },
+            {
+                "author": "Fine Whining and Breathing",
+                "tags": [
+                    "Ping Pong"
+                ],
+                "title": "Ping Pong: On Heroism and the False Sense of Enlightenment",
+                "url": "https://finewhiningandbreathing.wordpress.com/2014/07/10/ping-pong-on-heroism-and-the-false-sense-of-enlightenment"
+            },
+            {
+                "author": "Wave Motion Cannon",
+                "tags": [
+                    "History"
+                ],
+                "title": "Why over sixty years of animation history still remains obscure",
+                "url": "https://wavemotioncannon.com/2016/01/08/why-over-sixty-years-of-animation-history-still-remains-obscure"
+            },
+            {
+                "author": "Wave Motion Cannon",
+                "tags": [
+                    "History"
+                ],
+                "title": "Shinbo is Dead: A New Generation of Shaft",
+                "url": "https://wavemotioncannon.com/2016/03/21/shinbo-is-dead-a-new-generation-of-shaft"
+            },
+            {
+                "author": "The Chuuni Corner",
+                "tags": [],
+                "title": "Yuri Kuma Arashi",
+                "url": "https://thechuunicorner.com/tag/yuri-kuma-arashi"
+            },
+            {
+                "author": "",
+                "tags": [],
+                "title": "The Compatible Aesthetics of Big O",
+                "url": "http://www.uk-anime.net/articles/The_Compatible_Aesthetics_of_Big_O/"
+            }
+        ],
+        "title": "Animation"
     },
     {
-        "children": {
-            "links": [
-                {
-                    "title": "Tokyo Scum Brigade: Tiger & Bunny: Criminally Bad CG or Heroic Effort?",
-                    "url": "http://tokyoscum.blogspot.com/2011/06/tiger-bunny-criminally-bad-cg-or-heroic.html?m="
-                },
-                {
-                    "title": "Madoka is a terrible philosophical trainwreck, with spoilers &#124; Fine Whining and Breathing",
-                    "url": "https://finewhiningandbreathing.wordpress.com/2014/04/17/madoka-sucks"
-                },
-                {
-                    "title": "Heroism in Ping Pong: the Animation, episodes 1 and 2 &#124; Fine Whining and Breathing",
-                    "url": "https://finewhiningandbreathing.wordpress.com/2014/04/23/heroism-in-ping-pong-the-animation-episodes-1-and-2"
-                },
-                {
-                    "title": "What it means to be a hero \u2013 episode 3 of Ping Pong: the Animation &#124; Fine Whining and Breathing",
-                    "url": "https://finewhiningandbreathing.wordpress.com/2014/04/25/what-it-means-to-be-a-hero-episode-3-of-ping-pong-the-animation"
-                },
-                {
-                    "title": "Zen Buddhism and Enlightenment in Ping Pong the Animation &#124; Fine Whining and Breathing",
-                    "url": "https://finewhiningandbreathing.wordpress.com/2014/07/01/the-journey-to-enlightenment-in-ping-pong-the-animation"
-                },
-                {
-                    "title": "Ping Pong: On Heroism and the False Sense of Enlightenment &#124; Fine Whining and Breathing",
-                    "url": "https://finewhiningandbreathing.wordpress.com/2014/07/10/ping-pong-on-heroism-and-the-false-sense-of-enlightenment"
-                },
-                {
-                    "title": "Why over sixty years of animation history still remains obscure &#124; Wave Motion Cannon",
-                    "url": "https://wavemotioncannon.com/2016/01/08/why-over-sixty-years-of-animation-history-still-remains-obscure"
-                },
-                {
-                    "title": "Shinbo is Dead: A New Generation of Shaft &#124; Wave Motion Cannon",
-                    "url": "https://wavemotioncannon.com/2016/03/21/shinbo-is-dead-a-new-generation-of-shaft"
-                },
-                {
-                    "title": "Yuri Kuma Arashi &#124; The Chuuni Corner",
-                    "url": "https://thechuunicorner.com/tag/yuri-kuma-arashi"
-                },
-                {
-                    "title": "The Compatible Aesthetics of Big O",
-                    "url": "http://www.uk-anime.net/articles/The_Compatible_Aesthetics_of_Big_O/"
-                }
-            ]
-        },
-        "section": "Animation"
+        "children": [
+            {
+                "author": "",
+                "tags": [],
+                "title": "Inio Asano interview \u2014 \u201cReality is tough, so read this manga about cute girls and feel better\u201d &#124; manga brog",
+                "url": "https://mangabrog.wordpress.com/2014/07/06/inio-asano-interview-reality-is-tough-so-read-this-manga-about-cute-girls-and-feel-better"
+            }
+        ],
+        "title": "Manga"
     },
     {
-        "children": {
-            "links": [
-                {
-                    "title": "Inio Asano interview \u2014 \u201cReality is tough, so read this manga about cute girls and feel better\u201d &#124; manga brog",
-                    "url": "https://mangabrog.wordpress.com/2014/07/06/inio-asano-interview-reality-is-tough-so-read-this-manga-about-cute-girls-and-feel-better"
-                }
-            ]
-        },
-        "section": "Manga"
+        "children": [
+            {
+                "author": "Michael Malice",
+                "tags": [],
+                "title": "My Week in North Korea",
+                "url": "http://reason.com/archives/2013/07/23/my-week-in-north-korea/prin"
+            }
+        ],
+        "title": "World"
     },
     {
-        "children": {
-            "links": [
-                {
-                    "title": "My Week in North Korea - Reason.com",
-                    "url": "http://reason.com/archives/2013/07/23/my-week-in-north-korea/prin"
-                }
-            ]
-        },
-        "section": "World"
+        "children": [
+            {
+                "author": "Dave Rapoza",
+                "tags": [],
+                "title": "There are no Absolutes - General Rant",
+                "url": "http://daverapoza.blogspot.com/2016/05/there-are-no-absolutes-general-rant.htm"
+            }
+        ],
+        "title": "Life"
     },
     {
-        "children": {
-            "links": [
-                {
-                    "title": "Dave Rapoza: There are no Absolutes - General Rant",
-                    "url": "http://daverapoza.blogspot.com/2016/05/there-are-no-absolutes-general-rant.htm"
-                }
-            ]
-        },
-        "section": "Life"
+        "children": [
+            {
+                "author": "kayin",
+                "tags": [],
+                "title": "Reaction Speeds in Gaming",
+                "url": "https://kayin.moe/?p=204"
+            }
+        ],
+        "title": "Fighting Games"
     },
     {
-        "children": {
-            "links": [
-                {
-                    "title": "Reaction Speeds in Gaming &#124; [K",
-                    "url": "https://kayin.moe/?p=204"
-                }
-            ]
-        },
-        "section": "Fighting Games"
+        "children": [
+            {
+                "author": "",
+                "tags": [],
+                "title": "What I Know About Magic: The Gathering",
+                "url": "https://boardgamegeek.com/thread/370207/what-i-know-about-magic-gatherin"
+            },
+            {
+                "author": "",
+                "tags": [],
+                "title": "Finding the Tinker Deck",
+                "url": "https://www.wizards.com/sideboard/article.asp?x=sb20010607"
+            },
+            {
+                "author": "Conley Woods",
+                "tags": [],
+                "title": "Understanding Aggro-Combo",
+                "url": "http://magic.tcgplayer.com/db/article.asp?ID=12834"
+            }
+        ],
+        "title": "Magic the Gathering"
     },
     {
-        "children": {
-            "links": [
-                {
-                    "title": "What I Know About Magic: The Gathering &#124; Magic: The Gathering &#124; BoardGameGeek",
-                    "url": "https://boardgamegeek.com/thread/370207/what-i-know-about-magic-gatherin"
-                },
-                {
-                    "title": "Finding the Tinker Deck",
-                    "url": "https://www.wizards.com/sideboard/article.asp?x=sb20010607"
-                },
-                {
-                    "title": "Understanding Aggro-Combo by Conley Woods - Magic the Gathering (MTG)",
-                    "url": "MTG"
-                }
-            ]
-        },
-        "section": "Magic the Gathering"
-    },
-    {
-        "children": {
-            "links": [
-                {
-                    "title": "RLM: Boyhood and stories",
-                    "url": "https://youtu.be/lampOM4AhAk?t=7m59"
-                }
-            ]
-        },
-        "section": "Video"
+        "children": [
+            {
+                "author": "RedLetterMedia",
+                "tags": [],
+                "title": "Boyhood and stories",
+                "url": "https://youtu.be/lampOM4AhAk?t=7m59"
+            }
+        ],
+        "title": "Video"
     }
 ]
