@@ -287,6 +287,9 @@ footer {
   color: $gray;
   font-size: 80%;
 }
+.bookmarks-author:hover {
+  color: inherit;
+}
 
 .bookmarks-tag {
   font-size: 60%;
@@ -308,8 +311,12 @@ footer {
   border-radius: 0;
 }
 
-.block.hide {
+.hide {
   display: none;
+}
+
+a.hover:hover {
+  text-decoration: underline;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
