@@ -214,6 +214,9 @@
         "children": [
             {
                 "author": "RedLetterMedia",
+                "meta": [
+                    "video"
+                ],
                 "tags": [
                     "critical"
                 ],
@@ -222,6 +225,9 @@
             },
             {
                 "author": "FrankJavCee",
+                "meta": [
+                    "video"
+                ],
                 "tags": [
                     "technical"
                 ],
