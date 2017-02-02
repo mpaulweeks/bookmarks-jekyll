@@ -63,6 +63,7 @@
             {
                 "author": "Wave Motion Cannon",
                 "tags": [
+                    "auteur",
                     "history"
                 ],
                 "title": "Shinbo is Dead: A New Generation of Shaft",
@@ -129,9 +130,21 @@
             },
             {
                 "author": "Wave Motion Cannon",
-                "tags": ["critical"],
+                "tags": [
+                    "auteur",
+                    "critical"
+                ],
                 "title": "Luluco – Imaishi’s Refusal to Make Normal Anime",
                 "url": "https://wavemotioncannon.com/2016/07/02/luluco-imaishis-refusal-to-make-normal-anime/"
+            },
+            {
+                "author": "Wave Motion Cannon",
+                "tags": [
+                    "auteur",
+                    "technical"
+                ],
+                "title": "Iron-Blooded Orphans is NOT \"Mari Okada’s Gundam\"",
+                "url": "https://wavemotioncannon.com/2017/02/01/iron-blooded-orphans-is-not-mari-okadas-gundam/"
             }
         ],
         "title": "Anime"
