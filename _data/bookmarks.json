@@ -4,7 +4,7 @@
             {
                 "author": "Wrong Every Time",
                 "tags": [
-                    "theory"
+                    "psych"
                 ],
                 "title": "Your Taste is Bad and So Are You",
                 "url": "http://wrongeverytime.com/2014/09/08/your-taste-is-bad-and-so-are-you/"
@@ -12,7 +12,7 @@
             {
                 "author": "Film Crit Hulk Smash",
                 "tags": [
-                    "theory"
+                    "psych"
                 ],
                 "title": "HULK VS. SPOILERS AND THE 4 LEVELS OF HOW WE CONSUME ART",
                 "url": "http://birthmoviesdeath.com/2013/06/05/film-crit-hulk-smash-hulk-vs.-spoilers-and-the-4-levels-of-how-we-consume-a"
@@ -124,7 +124,9 @@
             },
             {
                 "author": "Wave Motion Cannon",
-                "tags": [],
+                "tags": [
+                    "psych"
+                ],
                 "title": "Anime Guilt",
                 "url": "https://wavemotioncannon.com/2016/04/26/anime-guilt/"
             },
