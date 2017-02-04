@@ -4,7 +4,7 @@
             {
                 "author": "Wrong Every Time",
                 "tags": [
-                    "theory"
+                    "psych"
                 ],
                 "title": "Your Taste is Bad and So Are You",
                 "url": "http://wrongeverytime.com/2014/09/08/your-taste-is-bad-and-so-are-you/"
@@ -12,7 +12,7 @@
             {
                 "author": "Film Crit Hulk Smash",
                 "tags": [
-                    "theory"
+                    "psych"
                 ],
                 "title": "HULK VS. SPOILERS AND THE 4 LEVELS OF HOW WE CONSUME ART",
                 "url": "http://birthmoviesdeath.com/2013/06/05/film-crit-hulk-smash-hulk-vs.-spoilers-and-the-4-levels-of-how-we-consume-a"
@@ -63,6 +63,7 @@
             {
                 "author": "Wave Motion Cannon",
                 "tags": [
+                    "auteur",
                     "history"
                 ],
                 "title": "Shinbo is Dead: A New Generation of Shaft",
@@ -123,9 +124,29 @@
             },
             {
                 "author": "Wave Motion Cannon",
-                "tags": [],
+                "tags": [
+                    "psych"
+                ],
                 "title": "Anime Guilt",
                 "url": "https://wavemotioncannon.com/2016/04/26/anime-guilt/"
+            },
+            {
+                "author": "Wave Motion Cannon",
+                "tags": [
+                    "auteur",
+                    "critical"
+                ],
+                "title": "Luluco – Imaishi’s Refusal to Make Normal Anime",
+                "url": "https://wavemotioncannon.com/2016/07/02/luluco-imaishis-refusal-to-make-normal-anime/"
+            },
+            {
+                "author": "Wave Motion Cannon",
+                "tags": [
+                    "auteur",
+                    "technical"
+                ],
+                "title": "Iron-Blooded Orphans is NOT \"Mari Okada’s Gundam\"",
+                "url": "https://wavemotioncannon.com/2017/02/01/iron-blooded-orphans-is-not-mari-okadas-gundam/"
             }
         ],
         "title": "Anime"
@@ -206,6 +227,14 @@
                 ],
                 "title": "Understanding Aggro-Combo",
                 "url": "http://magic.tcgplayer.com/db/article.asp?ID=12834"
+            },
+            {
+                "author": "Aaron Forsythe",
+                "tags": [
+                    "MagicTheGathering"
+                ],
+                "title": "Skullclamp, We Hardly Knew Ye",
+                "url": "http://magic.wizards.com/en/articles/archive/skullclamp-we-hardly-knew-ye-2004-06-04"
             }
         ],
         "title": "Games"
