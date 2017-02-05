@@ -197,12 +197,29 @@
                 "url": "https://kayin.moe/?p=2047"
             },
             {
-                "author": "",
+                "author": "Blake Reynolds",
+                "tags": [
+                    "FightingGames"
+                ],
+                "title": "A Pixel Artist Renounces Pixel Art",
+                "url": "http://www.dinofarmgames.com/a-pixel-artist-renounces-pixel-art/"
+            },
+            {
+                "author": "BoardGameGeek",
                 "tags": [
                     "MagicTheGathering"
                 ],
                 "title": "What I Know About Magic: The Gathering",
                 "url": "https://boardgamegeek.com/thread/370207/what-i-know-about-magic-gathering"
+            },
+            {
+                "author": "EDH Source",
+                "tags": [
+                    "MagicTheGathering",
+                    "EDH"
+                ],
+                "title": "Lessons from EDH",
+                "url": "http://edhsource.com/?p=45"
             },
             {
                 "author": "Mike Flores",
