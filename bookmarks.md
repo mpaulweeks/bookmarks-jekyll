@@ -6,10 +6,11 @@ permalink: /bookmarks/
 
 Articles and videos I am eager to share and preserve.
 
-<a href="?" id="bookmarks-back" class="bookmarks-back hide">go back to full list</a>
+<h3> Tags <a href="?"> (reset) </a></h3>
+<div id="tag-holder"></div>
 
 {% for category in site.data.bookmarks %}
-<h1 class="block" id="{{category.title}}"> {{ category.title }} </h1>
+<h1 class="block" id="{{category.title}}"><hr/>{{ category.title }} </h1>
 {% for link in category.children %}
 <p class="block" data-category="{{category.title}}">
 {% if link.author.size > 0 %}
@@ -27,6 +28,33 @@ Articles and videos I am eager to share and preserve.
 {% endfor %}
 
 <script>
+
+function addTag(tagName){
+  var aNode = document.createElement("a");
+  aNode.href = '?tags=' + tagName;
+  aNode.className = "bookmarks-tag";
+  var textnode = document.createTextNode(tagName);
+  aNode.appendChild(textnode);
+  document.getElementById("tag-holder").appendChild(aNode);
+}
+var siteData = {{ site.data | jsonify }};
+var allTags = {};
+for (var ci = 0; ci < siteData.bookmarks.length; ci++){
+  var category = siteData.bookmarks[ci];
+  for (var li = 0; li < category.children.length; li++){
+    var link = category.children[li];
+    for (var ti = 0; ti < link.tags.length; ti++){
+      var tag = link.tags[ti];
+      allTags[tag] = true;
+    }
+  }
+}
+var sortedTags = Object.keys(allTags).sort();
+for (var ti = 0; ti < sortedTags.length; ti++){
+  var tag = sortedTags[ti];
+  addTag(tag);
+}
+
 var read_url_param = function(param_name, as_list){
   as_list = as_list || false;
   var vars = {};
@@ -77,8 +105,6 @@ var filterBookmarks = function(filterTags, tagClass, tagData){
     var block = toHide[i];
     hideElement(block);
   }
-  var backLink = document.getElementById("bookmarks-back");
-  backLink.className = backLink.className.replace(/\bhide\b/,'');
 }
 
 var filter = read_url_param("tags", true);
