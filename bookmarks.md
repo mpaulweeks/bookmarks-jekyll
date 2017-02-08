@@ -9,10 +9,12 @@ Articles and videos I am eager to share and preserve.
 <h3> Tags <a href="?"> (reset) </a></h3>
 <div id="tag-holder"></div>
 
-{% for category in site.data.bookmarks %}
-<h1 class="block" id="{{category.title}}"><hr/>{{ category.title }} </h1>
-{% for link in category.children %}
-<p class="block" data-category="{{category.title}}">
+{% assign categories = site.data.bookmarks.categories %}
+{% for category in categories %}
+<h1 class="block" id="{{category}}"><hr/>{{ category }} </h1>
+{% assign links = site.data.bookmarks.links | where: 'category', category %}
+{% for link in links %}
+<p class="block" data-category="{{category}}">
 {% if link.author.size > 0 %}
 <a href="?author={{link.author}}" class="hover bookmarks-author" data-author="{{link.author}}"> {{link.author}} </a><br/>
 {% endif %}
@@ -37,16 +39,13 @@ function addTag(tagName){
   aNode.appendChild(textnode);
   document.getElementById("tag-holder").appendChild(aNode);
 }
-var siteData = {{ site.data | jsonify }};
+var siteData = {{ site.data | jsonify }}.bookmarks;
 var allTags = {};
-for (var ci = 0; ci < siteData.bookmarks.length; ci++){
-  var category = siteData.bookmarks[ci];
-  for (var li = 0; li < category.children.length; li++){
-    var link = category.children[li];
-    for (var ti = 0; ti < link.tags.length; ti++){
-      var tag = link.tags[ti];
-      allTags[tag] = true;
-    }
+for (var li = 0; li < siteData.links.length; li++){
+  var link = siteData.links[li];
+  for (var ti = 0; ti < link.tags.length; ti++){
+    var tag = link.tags[ti];
+    allTags[tag] = true;
   }
 }
 var sortedTags = Object.keys(allTags).sort();
