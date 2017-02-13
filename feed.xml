@@ -1,0 +1,20 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Paul Weeks - Bookmarks</title>
+    <description>Dank Articles</description>
+    <link>{{ site.url }}</link>
+    {% assign links = site.data.bookmarks.links | sort: 'added' | reverse %}
+    {% for link in links %}
+      <item>
+        <title>{{ link.title | xml_escape }}</title>
+        <pubDate>{{ link.added | date_to_xmlschema }}</pubDate>
+        <link>{{ link.url }}</link>
+        <guid isPermaLink="true">{{ link.url }}</guid>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>
