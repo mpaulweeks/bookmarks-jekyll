@@ -4,9 +4,7 @@
       {
         "title": "Ozanari-kun",
         "author": "Inio Asano",
-        "images": [
-          "/images/conventions/ozanari-kun.jpg"
-        ],
+        "image": "/ozanari-kun.jpg",
         "links": [
           {
             "title": "Interview that mentions Ozanari-kun",
@@ -16,16 +14,15 @@
       },
       {
         "title": "Iguana Girl",
-        "author": "???",
-        "images": [
-          "/images/conventions/iguana-girl.jpg"
-        ],
+        "image": "/iguana-girl.jpg"
       },
       {
-        "title": "Watashitachi no Shiawase na Jikan"
+        "title": "Watashitachi no Shiawase na Jikan",
+        "image": "watashitachi.png"
       },
       {
-        "title": "Soshite, Hare ni Naru"
+        "title": "Soshite, Hare ni Naru",
+        "image": "soshite.png"
       }
     ]
   }

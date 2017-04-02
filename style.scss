@@ -311,11 +311,14 @@ footer {
   border-radius: 0;
 }
 
-.manga-title {
+.manga-list {
+  position: relative;
+}
+.manga-page-title {
   font-size: 30pt;
   font-weight: bold;
 }
-.manga-subtitle {
+.manga-page-subtitle {
   font-size: 25pt;
   font-weight: bold;
   color: grey;
@@ -326,6 +329,23 @@ footer {
 }
 .manga-link {
 
+}
+.manga-img {
+  display: none;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 300px;
+}
+.manga-img.default {
+  text-align: center;
+  line-height: 300px;
+  height: 300px;
+  display: block;
+  background-color: #dddddd;
+}
+.manga-item:hover .manga-img {
+  display: block;
 }
 
 .hide {
