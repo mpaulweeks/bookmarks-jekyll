@@ -1,10 +1,12 @@
 ---
-layout: default
+layout: page
+title: Conventions
+permalink: /conventions/
 ---
 
 <div class="posts">
   {% for post in site.posts %}
-    {% unless post.isPanel %}
+    {% if post.isPanel %}
       <article class="post">
 
         <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -15,6 +17,6 @@ layout: default
 
         <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       </article>
-    {% endunless %}
+    {% endif %}
   {% endfor %}
 </div>

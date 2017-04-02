@@ -293,7 +293,7 @@ footer {
 
 .bookmarks-tag {
   font-size: 60%;
-  
+
   color: #39739d;
   background-color: #E1ECF4;
   border-color: transparent;
@@ -309,6 +309,23 @@ footer {
   border-width: 1px;
   border-style: solid;
   border-radius: 0;
+}
+
+.manga-title {
+  font-size: 30pt;
+  font-weight: bold;
+}
+.manga-subtitle {
+  font-size: 25pt;
+  font-weight: bold;
+  color: grey;
+}
+.manga-header {
+  font-size: 20pt;
+  margin: 20px 0px;
+}
+.manga-link {
+
 }
 
 .hide {

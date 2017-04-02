@@ -1,0 +1,27 @@
+{
+  "acen-2017":{
+    "underappreciated-manga":[
+      {
+        "title": "Ozanari-kun",
+        "author": "Inio Asano",
+        "images": [
+          "/images/conventions/ozanari-kun.jpg"
+        ],
+        "links": [
+          {
+            "title": "Interview about PunPun",
+            "url": "https://mangabrog.wordpress.com/2014/07/06/inio-asano-interview-reality-is-tough-so-read-this-manga-about-cute-girls-and-feel-better/"
+          }
+        ]
+      },
+      {
+        "title": "Iguana Girl",
+        "author": "???",
+        "images": [
+          "/images/conventions/iguana-girl.jpg"
+        ],
+        "links": []
+      }
+    ]
+  }
+}
