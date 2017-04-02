@@ -6,6 +6,8 @@ permalink: /bookmarks/
 
 Articles and videos I am eager to share and preserve.
 
+<a href="/feed.xml"><i class="svg-icon rss"></i></a>
+
 <h3> Tags <a href="?"> (reset) </a></h3>
 <div id="tag-holder"></div>
 
