@@ -1,29 +1,35 @@
 {
   "acen-2017":{
-    "underappreciated-manga":[
-      {
-        "title": "Ozanari-kun",
-        "author": "Inio Asano",
-        "image": "/ozanari-kun.jpg",
-        "links": [
-          {
-            "title": "Interview that mentions Ozanari-kun",
-            "url": "https://mangabrog.wordpress.com/2014/07/06/inio-asano-interview-reality-is-tough-so-read-this-manga-about-cute-girls-and-feel-better/"
-          }
-        ]
-      },
-      {
-        "title": "Iguana Girl",
-        "image": "/iguana-girl.jpg"
-      },
-      {
-        "title": "Watashitachi no Shiawase na Jikan",
-        "image": "watashitachi.png"
-      },
-      {
-        "title": "Soshite, Hare ni Naru",
-        "image": "soshite.png"
-      }
-    ]
+    "underappreciated-manga":{
+      "links": [
+        {
+          "title": "Interview that mentions Ozanari-kun",
+          "url": "https://mangabrog.wordpress.com/2014/07/06/inio-asano-interview-reality-is-tough-so-read-this-manga-about-cute-girls-and-feel-better/"
+        },
+        {
+          "title": "Katsuhiro Otomo Career Timeline",
+          "url": "https://postimg.cc/image/qzadps21v/full/#"
+        }
+      ],
+      "manga": [
+        {
+          "title": "Ozanari-kun",
+          "author": "Inio Asano",
+          "image": "ozanari-kun.jpg"
+        },
+        {
+          "title": "Iguana Girl",
+          "image": "iguana-girl.jpg"
+        },
+        {
+          "title": "Watashitachi no Shiawase na Jikan",
+          "image": "watashitachi.png"
+        },
+        {
+          "title": "Soshite, Hare ni Naru",
+          "image": "soshite.png"
+        }
+      ]
+    }
   }
 }
