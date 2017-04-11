@@ -1,5 +1,16 @@
 {
   "acen-2017": {
+    "diagnosing-taste": {
+      "references": [
+        {
+          "title": "Sample 1",
+          "url": "http://example.com"
+        },
+        {
+          "title": "Sample 2"
+        }
+      ]
+    },
     "underappreciated-manga": {
       "links": [
         {
