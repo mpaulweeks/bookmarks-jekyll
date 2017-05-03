@@ -20,6 +20,6 @@ permalink: /acen-2017/diagnosing-taste/
 {% endfor %}
 {% for link in data.videos %}
   <div class="video-embed">
-    <iframe width="560" height="315" src="{{link.url}}" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/{{link.youtube}}" frameborder="0" allowfullscreen></iframe>
   </div>
 {% endfor %}

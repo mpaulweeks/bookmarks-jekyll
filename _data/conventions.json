@@ -18,27 +18,27 @@
       "videos": [
         {
           "title": "RedLetterMedia - Plinkett Reviews",
-          "url": "https://www.youtube.com/watch?v=FxKtZmQgxrI&list=PL5919C8DE6F720A2D"
+          "youtube": "FxKtZmQgxrI?list=PL5919C8DE6F720A2D"
         },
         {
           "title": "Your Movie Sucks - Walking Dead",
-          "url": "https://www.youtube.com/watch?v=DDbi7P93Np8&list=PLMlgrDUDraaYeriYHEPGyj4xtc3H2zbex"
+          "youtube": "DDbi7P93Np8?list=PLMlgrDUDraaYeriYHEPGyj4xtc3H2zbex"
         },
         {
           "title": "Folding Ideas - Art of Editing and Suicide Squad",
-          "url": "https://www.youtube.com/watch?v=mDclQowcE9I"
+          "youtube": "mDclQowcE9I"
         },
         {
           "title": "Wisecrack - Philosophy of Attack on Titan",
-          "url": "https://www.youtube.com/watch?v=1XJhZVmORlM"
+          "youtube": "1XJhZVmORlM"
         },
         {
           "title": "Movies with Mikey - Prisoner of Azkaban",
-          "url": "https://www.youtube.com/watch?v=FAGh-_xVFq0"
+          "youtube": "FAGh-_xVFq0"
         },
         {
           "title": "Every Frame a Painting - Edgar Wright's Visual Comedy",
-          "url": "https://www.youtube.com/watch?v=3FOzD4Sfgag"
+          "youtube": "3FOzD4Sfgag"
         }
       ]
     },
