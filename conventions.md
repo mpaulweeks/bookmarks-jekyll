@@ -7,16 +7,16 @@ permalink: /conventions/
 <div class="posts">
   {% for post in site.posts %}
     {% if post.isPanel %}
-      <article class="post">
+    {% unless post.isHidden %}
+      <div class="convention-post">
 
-        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          <div class="convention-list-title">{{ post.title }}</div>
+        </a>
+        <div class="convention-list-subtitle">{{ post.convention }}</div>
 
-        <div class="entry">
-          {{ post.excerpt }}
-        </div>
-
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-      </article>
+      </div>
+    {% endunless %}
     {% endif %}
   {% endfor %}
 </div>

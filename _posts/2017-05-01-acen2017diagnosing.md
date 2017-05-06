@@ -3,6 +3,7 @@ layout: panel
 title: Diagnosing Your Anime Taste
 convention: Anime Central 2017
 isPanel: true
+isHidden: true
 permalink: /acen-2017/diagnosing-taste/
 ---
 
