@@ -9,7 +9,7 @@ permalink: /acen-2017/diagnosing-taste/
 
 {% assign data = site.data.conventions.acen-2017.diagnosing-taste %}
 
-<div class="manga-header"> References </div>
+<div class="manga-header"> Articles </div>
 {% for link in data.articles %}
   <li class="manga-link">
     {% if link.url %}
@@ -19,8 +19,9 @@ permalink: /acen-2017/diagnosing-taste/
     {% endif %}
   </li>
 {% endfor %}
+<div class="manga-header"> Videos </div>
 {% for link in data.videos %}
-  <div class="video-embed">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/{{link.youtube}}" frameborder="0" allowfullscreen></iframe>
-  </div>
+  <li class="manga-link">
+    <a href="https://youtu.be/{{link.youtube}}" target="_blank">{{link.title}}</a>
+  </li>
 {% endfor %}
