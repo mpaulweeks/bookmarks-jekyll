@@ -59,20 +59,52 @@
       ],
       "manga": [
         {
-          "title": "Dorohedoro",
-          "image": "dorohedoro.png"
-        },
-        {
-          "title": "Ping Pong",
-          "image": "ping-pong.png"
+          "title": "and it will be sunny",
+          "image": "and-it-will-be-sunny.png"
         },
         {
           "title": "National Quiz",
           "image": "national-quiz.png"
         },
         {
+          "title": "Ran and the Grey World",
+          "image": "ran-grey-world.png"
+        },
+        {
           "title": "Sayonara Nippon",
           "image": "sayonara-japan.png"
+        },
+        {
+          "title": "Boogie Woogie Waltz",
+          "image": "boogie-woogie-waltz.png"
+        },
+        {
+          "title": "Iguana Girl",
+          "image": "iguana-girl.jpg"
+        },
+        {
+          "title": "Dorohedoro",
+          "image": "dorohedoro.png"
+        },
+        {
+          "title": "Helter Skelter",
+          "image": "helter-skelter.png"
+        },
+        {
+          "title": "Book of Human Insects",
+          "image": "human-insects.jpg"
+        },
+        {
+          "title": "Ozanari-kun",
+          "image": "ozanari-kun.jpg"
+        },
+        {
+          "title": "Nickelodeon",
+          "image": "nickelodeon.png"
+        },
+        {
+          "title": "Ping Pong",
+          "image": "ping-pong.png"
         },
         {
           "title": "Cosplayers",
@@ -81,35 +113,6 @@
         {
           "title": "Death Cult",
           "image": "death-cult.png"
-        },
-        {
-          "title": "Helter Skelter",
-          "image": "helter-skelter.png"
-        },
-        {
-          "title": "Nickelodeon",
-          "image": "nickelodeon.png"
-        },
-        {
-          "title": "Boogie Woogie Waltz",
-          "image": "boogie-woogie-waltz.png"
-        },
-        {
-          "title": "Ozanari-kun",
-          "author": "Inio Asano",
-          "image": "ozanari-kun.jpg"
-        },
-        {
-          "title": "Iguana Girl",
-          "image": "iguana-girl.jpg"
-        },
-        {
-          "title": "Watashitachi no Shiawase na Jikan",
-          "image": "watashitachi.png"
-        },
-        {
-          "title": "Soshite, Hare ni Naru",
-          "image": "soshite.png"
         }
       ]
     }
