@@ -59,6 +59,38 @@
       ],
       "manga": [
         {
+          "title": "Dorohedoro",
+          "image": "dorohedoro.png"
+        },
+        {
+          "title": "Ping Pong",
+          "image": "ping-pong.png"
+        },
+        {
+          "title": "National Quiz",
+          "image": "national-quiz.png"
+        },
+        {
+          "title": "Sayonara Nippon",
+          "image": "sayonara-japan.png"
+        },
+        {
+          "title": "Cosplayers",
+          "image": "cosplayers.png"
+        },
+        {
+          "title": "Death Cult",
+          "image": "death-cult.png"
+        },
+        {
+          "title": "Helter Skelter",
+          "image": "helter-skelter.png"
+        },
+        {
+          "title": "Nickelodeon",
+          "image": "nickelodeon.png"
+        },
+        {
           "title": "Ozanari-kun",
           "author": "Inio Asano",
           "image": "ozanari-kun.jpg"
