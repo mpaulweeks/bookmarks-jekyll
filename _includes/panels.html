@@ -1,17 +1,13 @@
 
 <div class="posts">
   {% for post in include.panels %}
-    {% if post.isPanel %}
-    {% unless post.isHidden %}
-      <div class="convention-post">
+    <div class="convention-post">
 
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          <div class="convention-list-title">{{ post.title }}</div>
-        </a>
-        <div class="convention-list-subtitle">{{ post.convention }}</div>
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <div class="convention-list-title">{{ post.title }}</div>
+      </a>
+      <div class="convention-list-subtitle">{{ post.convention }}</div>
 
-      </div>
-    {% endunless %}
-    {% endif %}
+    </div>
   {% endfor %}
 </div>
