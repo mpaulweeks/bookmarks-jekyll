@@ -1,6 +1,16 @@
 {
   "acen-2017": {
     "diagnosing-taste": {
+      "resources": [
+        {
+          "title": "End of Evangelion clip #1",
+          "url": "https://sakugabooru.com/post/show/17072"
+        },
+        {
+          "title": "End of Evangelion clip #2",
+          "url": "https://sakugabooru.com/post/show/17081"
+        }
+      ],
       "articles": [
         {
           "author": "Film Crit Hulk",
@@ -24,6 +34,10 @@
         }
       ],
       "videos": [
+        {
+          "title": "Sakuga Panel from Anime Central 2013",
+          "url": "https://www.youtube.com/watch?v=LLNHSrJoqFM"
+        },
         {
           "author": "Shaun and Jen",
           "title": "Everything Wrong with CinemaSins",

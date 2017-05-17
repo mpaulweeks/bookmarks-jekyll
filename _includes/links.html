@@ -1,0 +1,15 @@
+
+{% for link in include.links %}
+  <div class="manga-link">
+    {% if link.author %}
+      <span> {{link.author}} - </span>
+    {% endif %}
+    {% if link.youtube %}
+      <a href="https://youtu.be/{{link.youtube}}" target="_blank">{{link.title}}</a>
+    {% else if %}
+      <a href="{{link.url}}" target="_blank">{{link.title}}</a>
+    {% else %}
+      <span> {{link.title}} </span>
+    {% endif %}
+  </div>
+{% endfor %}
