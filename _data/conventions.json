@@ -97,69 +97,83 @@
       ],
       "manga": [
         {
+          "author": "Kirin Tendou",
           "title": "and it will be sunny",
           "image": "and-it-will-be-sunny.png",
           "mal": 45179
         },
         {
+          "author": "Reiichi Sugimoto, Shinkichi Katou",
           "title": "National Quiz",
           "image": "national-quiz.png",
           "mal": 3026
         },
         {
+          "author": "Asano Inio",
           "title": "Ozanari-kun",
           "image": "ozanari-kun.jpg",
           "mal": 41011
         },
         {
+          "author": "Katsuhiro Otomo",
           "title": "Sayonara Nippon",
           "image": "sayonara-japan.png",
           "mal": 21473
         },
         {
+          "author": "Katsuhiro Otomo",
           "title": "Boogie Woogie Waltz",
           "image": "boogie-woogie-waltz.png"
         },
         {
+          "author": "Moto Hagio",
           "title": "Iguana Girl",
           "image": "iguana-girl.jpg",
           "mal": 7558
         },
         {
+          "author": "Aki Irie",
           "title": "Ran and the Grey World",
           "image": "ran-grey-world.png",
           "mal": 22986
         },
         {
+          "author": "Q Hayashida",
           "title": "Dorohedoro",
           "image": "dorohedoro.png",
           "mal": 1133
         },
         {
+          "author": "Kyoko Okazaki",
           "title": "Helter Skelter",
           "image": "helter-skelter.png",
           "mal": 3104
         },
         {
+          "author": "Tezuka",
           "title": "Book of Human Insects",
           "image": "human-insects.jpg",
           "mal": 22305
         },
         {
+          "author": "Dowman Sayman",
           "title": "Nickelodeon",
           "image": "nickelodeon.png",
           "mal": 35673
         },
         {
+          "author": "Taiyo Matsumoto",
           "title": "Ping Pong",
           "image": "ping-pong.png",
           "mal": 5744
         },
         {
+          "author": "",
           "title": "Cosplayers",
           "image": "cosplayers.png"
         },
         {
+          "author": "",
           "title": "Death Cult",
           "image": "death-cult.png"
         }

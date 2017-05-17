@@ -1,15 +1,20 @@
 
 {% for link in include.links %}
-  <div class="manga-link">
+  <div class="manga-item">
     {% if link.author %}
       <span> {{link.author}} - </span>
     {% endif %}
-    {% if link.youtube %}
+    {% if link.mal %}
+      <a href="https://myanimelist.net/manga/{{link.mal}}/" target="_blank">{{link.title}}</a>
+    {% else if link.youtube %}
       <a href="https://youtu.be/{{link.youtube}}" target="_blank">{{link.title}}</a>
-    {% else if %}
+    {% else if link.url %}
       <a href="{{link.url}}" target="_blank">{{link.title}}</a>
     {% else %}
       <span> {{link.title}} </span>
+    {% endif %}
+    {% if link.image %}
+      <img class="manga-img" src="/images/conventions/{{link.image}}" />
     {% endif %}
   </div>
 {% endfor %}
