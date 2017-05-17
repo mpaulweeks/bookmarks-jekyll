@@ -15,23 +15,23 @@ permalink: /acen-2017/diagnosing-taste/
 
 <div class="manga-header"> Articles </div>
 {% for link in data.articles %}
-  <li class="manga-link">
+  <div class="manga-link">
     {{link.author}} -
     {% if link.url %}
       <a href="{{link.url}}" target="_blank">{{link.title}}</a>
     {% else %}
       <span>{{link.title}}</span>
     {% endif %}
-  </li>
+  </div>
 {% endfor %}
 <div class="manga-header"> Videos </div>
 {% for link in data.videos %}
-  <li class="manga-link">
+  <div class="manga-link">
     {{link.author}} -
     {% if link.youtube %}
       <a href="https://youtu.be/{{link.youtube}}" target="_blank">{{link.title}}</a>
     {% else %}
       <a href="{{link.url}}" target="_blank">{{link.title}}</a>
     {% endif %}
-  </li>
+  </div>
 {% endfor %}
