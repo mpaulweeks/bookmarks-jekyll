@@ -6,9 +6,9 @@
     {% endif %}
     {% if link.mal %}
       <a href="https://myanimelist.net/manga/{{link.mal}}/" target="_blank">{{link.title}}</a>
-    {% else if link.youtube %}
+    {% elsif link.youtube %}
       <a href="https://youtu.be/{{link.youtube}}" target="_blank">{{link.title}}</a>
-    {% else if link.url %}
+    {% elsif link.url %}
       <a href="{{link.url}}" target="_blank">{{link.title}}</a>
     {% else %}
       <span> {{link.title}} </span>
