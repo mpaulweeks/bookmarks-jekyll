@@ -31,6 +31,10 @@
           "author": "Now I Know",
           "title": "No Necks Allowed",
           "url": "http://nowiknow.com/no-necks-allowed/"
+        },
+        {
+          "title": "sakugabooru blog",
+          "url": "https://blog.sakugabooru.com/"
         }
       ],
       "videos": [
@@ -47,8 +51,12 @@
         {
           "author": "bobvids",
           "title": "Everything Wrong With \"Everything Wrong With\"",
-          "url": "https://www.youtube.com/playlist?list=PLlLOd9IiBWLE3pl_dxB3hASeSOvguJE_6",
-          "buffer": true
+          "url": "https://www.youtube.com/playlist?list=PLlLOd9IiBWLE3pl_dxB3hASeSOvguJE_6"
+        },
+        {
+          "author": "RedLetterMedia",
+          "title": "Plinkett Review of Star Wars: The Phantom Menace",
+          "youtube": "FxKtZmQgxrI?list=PL5919C8DE6F720A2D"
         },
         {
           "author": "The Canipa Effect",
@@ -63,13 +71,7 @@
         {
           "author": "sudoStef",
           "title": "Evangelion: Asuka Analysis",
-          "youtube": "ArapHa9N87Y",
-          "buffer": true
-        },
-        {
-          "author": "RedLetterMedia",
-          "title": "Plinkett Review of Star Wars: The Phantom Menace",
-          "youtube": "FxKtZmQgxrI?list=PL5919C8DE6F720A2D"
+          "youtube": "ArapHa9N87Y"
         },
         {
           "author": "Your Movie Sucks",
