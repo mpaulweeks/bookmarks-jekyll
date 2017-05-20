@@ -36,7 +36,8 @@
       "videos": [
         {
           "title": "Sakuga Panel from Anime Central 2013",
-          "url": "https://www.youtube.com/watch?v=LLNHSrJoqFM"
+          "url": "https://www.youtube.com/watch?v=LLNHSrJoqFM",
+          "buffer": true
         },
         {
           "author": "Shaun and Jen",
@@ -46,7 +47,24 @@
         {
           "author": "bobvids",
           "title": "Everything Wrong With \"Everything Wrong With\"",
-          "url": "https://www.youtube.com/playlist?list=PLlLOd9IiBWLE3pl_dxB3hASeSOvguJE_6"
+          "url": "https://www.youtube.com/playlist?list=PLlLOd9IiBWLE3pl_dxB3hASeSOvguJE_6",
+          "buffer": true
+        },
+        {
+          "author": "The Canipa Effect",
+          "title": "The Importance of New Anime Character Designs",
+          "youtube": "rrBH3IYRjaw"
+        },
+        {
+          "author": "Anime Everyday",
+          "title": "The Stylistic Evolution of Anime",
+          "youtube": "dwj2ahYnci4"
+        },
+        {
+          "author": "sudoStef",
+          "title": "Evangelion: Asuka Analysis",
+          "youtube": "ArapHa9N87Y",
+          "buffer": true
         },
         {
           "author": "RedLetterMedia",
