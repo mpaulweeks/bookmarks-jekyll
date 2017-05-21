@@ -16,7 +16,9 @@ permalink: /acen-2017/diagnosing-taste/
 
 
 <div class="manga-header">Resources</div>
-(slides coming soon)
+<a target="_blank" href="https://docs.google.com/presentation/d/1Bzgt5U00oz6c3WLcuUWUGKHxQIp6675hmSazMR78RFU/edit?usp=sharing">
+  Slideshow
+</a>
 {% include links.html links=data.resources %}
 
 <div class="manga-header"> Articles </div>
