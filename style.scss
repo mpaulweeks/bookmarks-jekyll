@@ -359,7 +359,7 @@ footer {
 .manga-item:hover .manga-img {
   display: block;
 }
-# Always hide images on small screens
+/* Always hide images on small screens */
 @media (max-width: 720px) {
   .manga-img.default    {
     display: none;
