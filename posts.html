@@ -1,0 +1,26 @@
+---
+layout: default
+title: Posts
+permalink: /posts/
+---
+
+<div class="posts">
+  {% for post in site.posts %}
+    {% unless post.isPanel %}
+      <article class="post">
+
+        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+        <div class="entry">
+        {% if post.descrip %}
+          <p>{{ post.descrip }}</p>
+        {% else %}
+          {{ post.excerpt }}
+        {% endif %}
+        </div>
+
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      </article>
+    {% endunless %}
+  {% endfor %}
+</div>
