@@ -5,12 +5,13 @@ convention: Anime Central 2017
 type: panel
 isLive: true
 permalink: /acen-2017/diagnosing-taste/
+descrip: Resources for a panel hosted at Anime Central 2007
 ---
 
 {% assign data = site.data.conventions.acen-2017.diagnosing-taste %}
 
+<div class="manga-header">Panel Description</div>
 <div class="panel-description">
-<br/>
   Have you ever started a show based on the promising premise/studio/director, only to be disappointed? Then you probably just weren’t looking at the right things! Come to this panel, where we explore why we like what we like. Together, we will gain a new awareness of how art affects us.
 </div>
 
