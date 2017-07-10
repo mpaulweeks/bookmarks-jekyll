@@ -1,18 +1,19 @@
 ---
 layout: panel
-title: How to Diagnose Your Anime Taste
-convention: Anime Central 2017
+title: How to Taste
+convention: Anime NYC 2017
 type: panel
-isLive: true
-permalink: /acen-2017/diagnosing-taste/
-descrip: Resources for a panel hosted at Anime Central 2007
+isLive: false
+permalink: /animenyc-2017/taste/
+descrip: Resources for a panel hosted at Anime NYC 2007
 ---
 
-{% assign data = site.data.conventions.acen-2017.diagnosing-taste %}
+{% assign data = site.data.conventions.animenyc-2017.taste %}
 
 <div class="manga-header">Panel Description</div>
 <div class="panel-description">{{data.description}}</div>
 
+An earlier version of this panel: <a href="/acen-2017/diagnosing-taste/">How to Diagnose Your Anime Taste</a>
 
 <div class="manga-header">Resources</div>
 {% include links.html links=data.resources %}

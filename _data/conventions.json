@@ -1,6 +1,115 @@
 {
+  "animenyc-2017": {
+    "taste": {
+      "description": "Have you ever started a show based on the promising premise/studio/director, only to be disappointed? Then you probably just weren’t looking at the right things! Come to this panel, where we explore why we like what we like. Together, we will gain a new awareness of how art affects us.",
+      "resources": [
+        {
+          "title": "Slideshow coming soon...",
+          "buffer": true
+        },
+        {
+          "title": "End of Evangelion clip #1",
+          "url": "https://sakugabooru.com/post/show/17072"
+        },
+        {
+          "title": "End of Evangelion clip #2",
+          "url": "https://sakugabooru.com/post/show/17081"
+        }
+      ],
+      "articles": [
+        {
+          "author": "Film Crit Hulk",
+          "title": "4 Levels of How We Consume Art",
+          "url": "http://birthmoviesdeath.com/2013/06/05/film-crit-hulk-smash-hulk-vs.-spoilers-and-the-4-levels-of-how-we-consume-a"
+        },
+        {
+          "author": "Wrong Every Time",
+          "title": "Your Taste Is Bad and So Are You",
+          "url": "http://wrongeverytime.com/2014/09/08/your-taste-is-bad-and-so-are-you/"
+        },
+        {
+          "author": "Wave Motion Cannon",
+          "title": "Anime Guilt",
+          "url": "https://wavemotioncannon.com/2016/04/26/anime-guilt/"
+        },
+        {
+          "author": "Now I Know",
+          "title": "No Necks Allowed",
+          "url": "http://nowiknow.com/no-necks-allowed/"
+        },
+        {
+          "author": "sakugabooru blog",
+          "title": "Major Mainstream Misunderstanding",
+          "url": "https://blog.sakugabooru.com/2017/01/27/anime-craft-weekly-28-major-mainstream-misunderstanding-part-1/"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Sakuga Panel from Anime Central 2013",
+          "youtube": "LLNHSrJoqFM?list=PLuPNSyztkHPqV-M4ePSmN_2BLhONu0WLg",
+          "buffer": true
+        },
+        {
+          "author": "Shaun and Jen",
+          "title": "Everything Wrong with CinemaSins",
+          "url": "https://www.youtube.com/playlist?list=PLB8NXe_on1cV3bJvw_FA1FX-FI7PGZnV_"
+        },
+        {
+          "author": "bobvids",
+          "title": "Everything Wrong With \"Everything Wrong With\"",
+          "url": "https://www.youtube.com/playlist?list=PLlLOd9IiBWLE3pl_dxB3hASeSOvguJE_6"
+        },
+        {
+          "author": "RedLetterMedia",
+          "title": "Plinkett Review of Star Wars: The Phantom Menace",
+          "youtube": "FxKtZmQgxrI?list=PL5919C8DE6F720A2D"
+        },
+        {
+          "author": "The Canipa Effect",
+          "title": "The Importance of New Anime Character Designs",
+          "youtube": "rrBH3IYRjaw"
+        },
+        {
+          "author": "Anime Everyday",
+          "title": "The Stylistic Evolution of Anime",
+          "youtube": "dwj2ahYnci4"
+        },
+        {
+          "author": "sudoStef",
+          "title": "Evangelion: Asuka Analysis",
+          "youtube": "ArapHa9N87Y"
+        },
+        {
+          "author": "Your Movie Sucks",
+          "title": "Walking Dead Seasons 1-2",
+          "youtube": "DDbi7P93Np8?list=PLMlgrDUDraaYeriYHEPGyj4xtc3H2zbex"
+        },
+        {
+          "author": "Folding Ideas",
+          "title": "Art of Editing and Suicide Squad",
+          "youtube": "mDclQowcE9I"
+        },
+        {
+          "author": "Wisecrack",
+          "title": "Philosophy of Attack on Titan",
+          "youtube": "1XJhZVmORlM"
+        },
+        {
+          "author": "Movies with Mikey",
+          "title": "Prisoner of Azkaban",
+          "youtube": "FAGh-_xVFq0"
+        },
+        {
+          "author": "Every Frame a Painting",
+          "title": "Edgar Wright's Visual Comedy",
+          "youtube": "3FOzD4Sfgag"
+        }
+      ]
+    }
+  },
   "acen-2017": {
     "diagnosing-taste": {
+      "description": "Have you ever started a show based on the promising premise/studio/director, only to be disappointed? Then you probably just weren’t looking at the right things! Come to this panel, where we explore why we like what we like. Together, we will gain a new awareness of how art affects us.",
       "resources": [
         {
           "title": "Slideshow",
@@ -107,6 +216,7 @@
       ]
     },
     "underappreciated-manga": {
+      "description": "Members of AnimeChicago's Manga Jam book club start a conversation on what manga we love to read. Going beyond the standard shounen action series or the shoujo romance we are going to recommend works that show the sheer diversity of Japans take on the comics medium.",
       "links": [
         {
           "title": "Katsuhiro Otomo Career Timeline",
