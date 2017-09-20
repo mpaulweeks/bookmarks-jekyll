@@ -8,6 +8,7 @@
         "World",
         "Life",
         "News",
+        "Tech",
         "Video"
     ],
     "links": [
@@ -381,6 +382,36 @@
             "tags": [],
             "title": "2017/03 How Donald Trump Could Build an Autocracy in the U.S.",
             "url": "https://www.theatlantic.com/magazine/archive/2017/03/how-to-build-an-autocracy/513872/"
-        }
+        },
+        {
+            "added": "2017/09/20",
+            "author": "Scott Meyers",
+            "category": "Video",
+            "tags": [
+                "coding"
+            ],
+            "title": "Cpu Caches and Why You Care",
+            "url": "https://youtu.be/WDIkqP4JbkE"
+        },
+        {
+            "added": "2017/09/20",
+            "author": "Medium",
+            "category": "Tech",
+            "tags": [
+                "coding"
+            ],
+            "title": "(Almost) everything that’s wrong with nowadays software development",
+            "url": "https://binarypassion.net/almost-everything-that-s-wrong-with-nowadays-software-development-bd18fa32c26b"
+        },
+        {
+            "added": "2017/09/20",
+            "author": "John Allspaw",
+            "category": "Tech",
+            "tags": [
+                "coding"
+            ],
+            "title": "On Being A Senior Engineer",
+            "url": "https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/"
+        }        
     ]
 }
