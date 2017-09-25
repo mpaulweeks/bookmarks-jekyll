@@ -1,14 +1,14 @@
 ---
 layout: panel
 title: How to Taste
-convention: Anime NYC 2017
+convention: ???
 type: panel
 isLive: false
-permalink: /animenyc-2017/taste/
-descrip: Resources for a panel hosted at Anime NYC 2007
+permalink: /pending/taste/
+descrip: Resources for a panel hosted at ???
 ---
 
-{% assign data = site.data.conventions.animenyc-2017.taste %}
+{% assign data = site.data.conventions.pending.taste %}
 
 <div class="manga-header">Panel Description</div>
 <div class="panel-description">{{data.description}}</div>
