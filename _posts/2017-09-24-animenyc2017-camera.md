@@ -3,7 +3,7 @@ layout: panel
 title: The Simulated Camera
 convention: Anime NYC 2017
 type: panel
-isLive: true
+isLive: false
 permalink: /animenyc-2017/simulated-camera/
 descrip: Resources for a panel hosted at Anime NYC 2017
 ---
