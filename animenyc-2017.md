@@ -4,6 +4,8 @@ title: Anime NYC 2017
 permalink: /animenyc-2017/
 ---
 
+<a href="http://animenyc.com/panels/">Full AnimeNYC Panel Schedule</a>
+
 <p>
   Coming soon...
 </p>
