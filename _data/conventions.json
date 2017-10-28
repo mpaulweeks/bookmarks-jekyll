@@ -114,15 +114,38 @@
   },
   "animenyc-2017": {
     "simulated-camera": {
-      "description": "Animation can display anything, from any angle, in any space.<br/>Yet, it often imitates the mechanics of a real camera - lens flare, the shakiness of a handheld, an out-of-focus shot - to leverage the existing emotions and associations created by live action film.<br/>In this panel, we cover the history of anime director as auteur, some visual storytelling techniques, and the effect these cultural shorthands have on narrative and audience empathy.",
-      "resources": [
+      "description": "Animation can display anything, from any angle, in any space. Yet, it often imitates the mechanics of a real camera - lens flare, the shakiness of a handheld, an out-of-focus shot - to leverage the existing emotions and associations created by live action film. In this panel, we cover the history of anime director as auteur, some visual storytelling techniques, and the effect these cultural shorthands have on narrative and audience empathy.",
+      "clips": [
         {
-          "title": "End of Evangelion clip #1",
+          "title": "Cowboy Bebop: The Movie",
+          "url": "https://www.sakugabooru.com/post/show/15827"
+        },
+        {
+          "title": "Tsuki ga Kirei",
+          "url": "https://www.sakugabooru.com/post/show/35811"
+        },
+        {
+          "title": "My Hero Academia",
+          "url": "https://www.sakugabooru.com/post/show/35108"
+        },
+        {
+          "title": "End of Evangelion (fluid)",
           "url": "https://sakugabooru.com/post/show/17072"
         },
         {
-          "title": "End of Evangelion clip #2",
+          "title": "End of Evangelion (rigid)",
           "url": "https://sakugabooru.com/post/show/17081"
+        },
+        {
+          "title": "Snow White and the Seven Dwarfs",
+          "url": "https://www.sakugabooru.com/post/show/15904"
+        },
+        {
+          "title": "Daffy Duck - Baby Bottleneck",
+          "url": "https://www.sakugabooru.com/post/show/17097"
+        },
+        {
+          "title": "The Sweatbox"
         }
       ],
     }
