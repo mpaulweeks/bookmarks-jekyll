@@ -1,5 +1,5 @@
 prettify() {
-  python -c "import sys,json;print json.dumps(json.load(sys.stdin),indent=2,separators=(',', ': '))"
+  python -c "import sys,json;print json.dumps(json.load(sys.stdin),indent=2,separators=(',', ': '),sort_keys=True)"
 }
 
 cp _data/bookmarks.json temp.json
