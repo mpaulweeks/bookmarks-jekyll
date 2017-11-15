@@ -4,7 +4,7 @@ title: Anime NYC 2017
 permalink: /animenyc-2017/
 ---
 
-<a href="http://animenyc.com/panels/">Full AnimeNYC Panel Schedule</a>
+<a href="http://animenyc.com/panels/">AnimeNYC Panel Schedule</a>
 
 {% assign panels = site.posts | where: "type", "panel" %}
 {% assign panels = panels | where: "convention", "Anime NYC 2017" %}
