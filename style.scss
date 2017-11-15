@@ -338,7 +338,7 @@ footer {
 }
 .manga-header {
   font-size: 20pt;
-  margin: 20px 0px;
+  padding: 20px 0px;
 }
 .manga-img {
   z-index: -1;
@@ -358,6 +358,12 @@ footer {
 }
 .manga-item:hover .manga-img {
   display: block;
+}
+.minor {
+  font-size: 12pt;
+  color: #606060;
+  padding-bottom: 10px;
+
 }
 /* Always hide images on small screens */
 @media (max-width: 720px) {

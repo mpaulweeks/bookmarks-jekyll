@@ -14,4 +14,8 @@ descrip: Resources for a panel hosted at Anime NYC 2017
 <div class="panel-description">{{data.description}}</div>
 
 <div class="manga-header"> Clips </div>
+<div class="minor">video sources linked where available</div>
 {% include links.html links=data.clips %}
+
+<div class="manga-header"> Sources and Inspiration </div>
+{% include links.html links=data.articles %}

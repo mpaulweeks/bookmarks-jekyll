@@ -114,7 +114,7 @@
   },
   "animenyc-2017": {
     "simulated-camera": {
-      "description": "Animation can display anything, from any angle, in any space. Yet, it often imitates the mechanics of a real camera - lens flare, the shakiness of a handheld, an out-of-focus shot - to leverage the existing emotions and associations created by live action film. In this panel, we cover the history of anime director as auteur, some visual storytelling techniques, and the effect these cultural shorthands have on narrative and audience empathy.",
+      "description": "Animation can display anything, from any angle, in any space. Yet, it often imitates the mechanics of a real camera - lens flare, the shakiness of a handheld, an out-of-focus shot - to leverage the existing emotions and associations created by live action film.<br/><br/>In this panel, we cover the history of anime director as auteur, some visual storytelling techniques, and the effect these cultural shorthands have on narrative and audience empathy.",
       "clips": [
         {
           "title": "Cowboy Bebop: The Movie",
@@ -129,7 +129,7 @@
           "url": "https://www.sakugabooru.com/post/show/35108"
         },
         {
-          "title": "End of Evangelion (fluid)",
+          "title": "The End of Evangelion",
           "url": "https://sakugabooru.com/post/show/17072"
         },
         {
@@ -137,64 +137,108 @@
           "url": "https://www.sakugabooru.com/post/show/15904"
         },
         {
-          "title": "Daffy Duck - Baby Bottleneck",
+          "title": "Baby Bottleneck (Daffy Duck)",
           "url": "https://www.sakugabooru.com/post/show/17097"
         },
         {
           "title": "The Sweatbox"
         },
         {
-          "title": "Steven Universe (clip with foreign animator)"
+          "title": "Scooby-Doo, Where Are You! (Background vs Foreground)"
         },
         {
-          "title": "Steven Universe (Trigger fight scene)",
-          "url": "https://www.sakugabooru.com/post/show/25046"
+          "title": "Scooby-Doo, Where Are You! (Limited Acting)"
+        },
+        {
+          "title": "Steven Universe"
+        },
+        {
+          "title": ".hack//Sign"
+        },
+        {
+          "title": "Revolutionary Girl Utena"
+        },
+        {
+          "title": "The SoulTaker"
         },
         {
           "title": "Your Name",
           "url": "https://www.sakugabooru.com/post/show/36787"
         },
         {
-          "title": "JoJo's Bizarre Adventure - Stardust Crusaders"
+          "title": "JoJo's Bizarre Adventure: Stardust Crusaders"
         },
         {
-          "title": "Neon Genesis Evangelion ep1"
+          "title": "Hyouka (Fisheye)"
+        },
+        {
+          "title": "Hyouka (Dolly Zoom)"
+        },
+        {
+          "title": "Neon Genesis Evangelion"
         },
         {
           "title": "Kill la Kill"
         },
         {
-          "title": "Sound! Euphonium ep1"
+          "title": "Sound! Euphonium"
         },
         {
-          "title": "Terror in Resonance - POV",
+          "title": "Terror in Resonance (POV)",
           "url": "https://www.sakugabooru.com/post/show/7149"
         },
         {
-          "title": "Terror in Resonance - Driving",
-          "url": "https://www.sakugabooru.com/post/show/28366"
-        },
-        {
-          "title": "Terror in Resonance - External",
+          "title": "Terror in Resonance (Following Action)",
           "url": "https://www.sakugabooru.com/post/show/28372"
         },
         {
-          "title": "Terror in Resonance - Pseudo Pov",
+          "title": "Terror in Resonance (Driving)",
+          "url": "https://www.sakugabooru.com/post/show/28366"
+        },
+        {
+          "title": "Terror in Resonance (Localized Anxiety)"
+        },
+        {
+          "title": "Terror in Resonance (Exposition)"
+        },
+        {
+          "title": "Terror in Resonance (Impossible Camera)",
           "url": "https://www.sakugabooru.com/post/show/28368"
         },
         {
-          "title": "End of Evangelion (fluid)",
+          "title": "Yurikuma Arashi"
+        },
+        {
+          "title": "The End of Evangelion (Suspenseful)",
           "url": "https://sakugabooru.com/post/show/17072"
         },
         {
-          "title": "End of Evangelion (rigid)",
+          "title": "The End of Evangelion (Triumphant)",
           "url": "https://sakugabooru.com/post/show/17081"
         },
         {
-          "title": "Cowboy Bebop ep20",
+          "title": "Cowboy Bebop",
           "url": "https://www.sakugabooru.com/post/show/15502"
         }
       ],
+      "articles": [
+        {
+          "title": "Sakuga Panel from Anime Central 2013",
+          "youtube": "LLNHSrJoqFM?list=PLuPNSyztkHPqV-M4ePSmN_2BLhONu0WLg"
+        },
+        {
+          "title": "Why over sixty years of animation history still remains obscure",
+          "url": "https://wavemotioncannon.com/2016/01/08/why-over-sixty-years-of-animation-history-still-remains-obscure/"
+        },
+        {
+          "title": "No Necks Allowed",
+          "url": "http://nowiknow.com/no-necks-allowed/"
+        },
+        {
+          "title": "David Fincher | And the Other Way is Wrong",
+          "youtube": "QPAloq5MCUA"
+        }
+      ]
     }
   },
   "acen-2017": {
