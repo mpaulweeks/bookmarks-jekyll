@@ -10,4 +10,4 @@ permalink: /conventions/
 
 {% assign panels = site.posts | where: "type", "panel" %}
 {% assign panels = panels | where: "isLive", "true" %}
-{% include panels.html panels=panels %}
+{% include panels.html panels=panels convention=true location=false %}

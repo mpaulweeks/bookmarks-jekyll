@@ -2,6 +2,7 @@
 layout: panel
 title: The Simulated Camera
 convention: Anime NYC 2017
+location: Friday 3:30PM in Panel Room 2
 type: panel
 isLive: true
 permalink: /animenyc-2017/simulated-camera/

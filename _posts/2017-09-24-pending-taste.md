@@ -2,6 +2,7 @@
 layout: panel
 title: How to Taste
 convention: ???
+location: ???
 type: panel
 isLive: false
 permalink: /pending/taste/

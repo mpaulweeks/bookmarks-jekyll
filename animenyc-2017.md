@@ -9,4 +9,4 @@ permalink: /animenyc-2017/
 {% assign panels = site.posts | where: "type", "panel" %}
 {% assign panels = panels | where: "convention", "Anime NYC 2017" %}
 {% assign panels = panels | where: "isLive", "true" %}
-{% include panels.html panels=panels %}
+{% include panels.html panels=panels convention=false location=true %}

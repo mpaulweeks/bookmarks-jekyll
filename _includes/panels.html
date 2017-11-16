@@ -6,7 +6,12 @@
       <a href="{{ site.baseurl }}{{ post.url }}">
         <div class="convention-list-title">{{ post.title }}</div>
       </a>
-      <div class="convention-list-subtitle">{{ post.convention }}</div>
+      {% if include.convention %}
+        <div class="convention-list-subtitle">{{ post.convention }}</div>
+      {% endif %}
+      {% if include.location %}
+        <div class="convention-list-subtitle">{{ post.location }}</div>
+      {% endif %}
 
     </div>
   {% endfor %}
