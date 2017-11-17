@@ -14,6 +14,11 @@ descrip: Resources for a panel hosted at Anime NYC 2017
 <div class="manga-header">Panel Description</div>
 <div class="panel-description">{{data.description}}</div>
 
+<div>
+  <br/>
+  <a href="{{data.slides}}" target="_blank">Opening Slides</a>
+</div>
+
 <div class="manga-header">
   Clips
   <div class="minor">video sources linked where available</div>
