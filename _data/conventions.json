@@ -230,6 +230,9 @@
       ],
       "clips": [
         {
+          "title": "Part 1 - Why the camera?",
+        },
+        {
           "title": "Cowboy Bebop: The Movie",
           "url": "https://www.sakugabooru.com/post/show/15827"
         },
@@ -247,6 +250,9 @@
           "url": "https://sakugabooru.com/post/show/17072"
         },
         {
+          "title": "Part 2 - East vs West",
+        },
+        {
           "title": "Snow White and the Seven Dwarfs",
           "url": "https://www.sakugabooru.com/post/show/15904"
         },
@@ -255,55 +261,82 @@
           "url": "https://www.sakugabooru.com/post/show/17097"
         },
         {
-          "title": "The Sweatbox"
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p2+03+sweatbox.mkv",
+          "title": "The Sweatbox (clip 1)"
+        },
+        {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p2+04+sweatbox.mkv",
+          "title": "The Sweatbox (clip 2)"
         },
         {
           "title": "Star Driver",
           "url": "https://www.sakugabooru.com/post/show/10938"
         },
         {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p2+06+scooby+doo.mkv",
           "title": "Scooby-Doo, Where Are You! (Background vs Foreground)"
         },
         {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p2+07+scooby+doo+necks.mkv",
           "title": "Scooby-Doo, Where Are You! (Limited Acting)"
         },
         {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p2+08+steven+universe.mkv",
           "title": "Steven Universe"
         },
         {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p2+09+hack+sign.mkv",
           "title": ".hack//Sign"
         },
         {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p2+10+revolutionary+girl+utena.mkv",
           "title": "Revolutionary Girl Utena"
         },
         {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p2+11+kill+la+kill.mkv",
+          "title": "Kill la Kill (comedy)"
+        },
+        {
           "buffer": true,
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p2+12+soultaker.mkv",
           "title": "The SoulTaker"
+        },
+        {
+          "title": "Part 3 - Common Techniques",
         },
         {
           "title": "Your Name",
           "url": "https://www.sakugabooru.com/post/show/36787"
         },
         {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p3+02+jojo.mkv",
           "title": "JoJo's Bizarre Adventure: Stardust Crusaders"
         },
         {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p3+03+hyouka+fisheye.mkv",
           "title": "Hyouka (Fisheye)"
         },
         {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p3+04+hyouka+vertigo+zoom.mkv",
           "title": "Hyouka (Dolly Zoom)"
         },
         {
-          "title": "Neon Genesis Evangelion"
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p3+05+neon+genesis+evangelion.mkv",
+          "title": "Neon Genesis Evangelion (POV)"
         },
         {
-          "title": "Kill la Kill"
-        },
-        {
-          "title": "Sound! Euphonium"
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p3+06+kill+la+kill.mkv",
+          "title": "Kill la Kill (POV)"
         },
         {
           "buffer": true,
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p3+07+sound+euphonium.mkv",
+          "title": "Sound! Euphonium"
+        },
+        {
+          "title": "Part 4 - Serving the Narrative",
+        },
+        {
           "title": "Terror in Resonance (POV)",
           "url": "https://www.sakugabooru.com/post/show/7149"
         },
@@ -316,9 +349,11 @@
           "url": "https://www.sakugabooru.com/post/show/28366"
         },
         {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p4+04+terror+in+resonance+flare.mkv",
           "title": "Terror in Resonance (Localized Anxiety)"
         },
         {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p4+05+terror+in+resonance+exposition.mkv",
           "title": "Terror in Resonance (Exposition)"
         },
         {
@@ -326,6 +361,7 @@
           "url": "https://www.sakugabooru.com/post/show/28368"
         },
         {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p4+07+yuri+kuma+arashi+parallax.mkv",
           "title": "Yurikuma Arashi"
         },
         {

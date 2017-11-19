@@ -21,7 +21,7 @@ descrip: Resources for a panel hosted at Anime NYC 2017
 
 <div class="manga-header">
   Clips
-  <div class="minor">video sources linked where available</div>
+  <div class="minor">sakugabooru linked where available</div>
 </div>
 {% include links.html links=data.clips %}
 
