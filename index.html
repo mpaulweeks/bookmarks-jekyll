@@ -3,20 +3,49 @@ layout: default
 ---
 
 <article class="post">
-  <h1>Welcome</h1>
+  <h1 class="center">Welcome</h1>
 
   <div class="entry">
     <p>
       This is my general dumping ground / sharing center for text-based information.
     </p>
-    <p>
-      Information and resources from my lectures at <a href="/conventions">conventions</a>.
-    </p>
-    <p>
-      My public <a href="/bookmarks">bookmarks</a>, a collection of articles and videos I find valuable.
-    </p>
-    <p>
-      Books I've read recently on <a href="https://www.goodreads.com/review/list/38476555?shelf=read&sort=date_read">Goodreads</a>.
-    </p>
+    <ul>
+      <li>
+        Information and resources from my lectures at <a href="/conventions">conventions</a>.
+      </li>
+      <li>
+        My public <a href="/bookmarks">bookmarks</a>, a collection of articles and videos I find valuable.
+      </li>
+      <li>
+        Books I've read recently on <a href="https://www.goodreads.com/review/list/38476555?shelf=read&sort=date_read">Goodreads</a>.
+      </li>
+    </ul>
   </div>
 </article>
+
+<div class="posts">
+  <h1 class="center"> Blog Posts </h1>
+  {% for post in site.posts %}
+    {% unless post.type == 'panel' %}
+      <article class="post">
+
+        <h1>
+          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        </h1>
+        <span class="date">
+          {{ post.date | date: "%B %e, %Y" }}
+        </span>
+
+        <div class="entry">
+        {% if post.descrip %}
+          <p>{{ post.descrip }}</p>
+        {% else %}
+          {{ post.excerpt }}
+        {% endif %}
+        </div>
+
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      </article>
+    {% endunless %}
+  {% endfor %}
+</div>
