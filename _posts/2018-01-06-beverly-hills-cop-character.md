@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Character Growth in Beverly Hills Cop
+type: post
 isLive: true
 permalink: /beverly-hills-cop-character
 ---

@@ -23,9 +23,12 @@ layout: default
   </div>
 </article>
 
+{% assign posts = site.posts | where: "type", "post" %}
+{% assign posts = posts | where: "isLive", "true" %}
+
 <div class="posts">
   <h1 class="center"> Blog Posts </h1>
-  {% for post in site.posts %}
+  {% for post in posts %}
     {% unless post.type == 'panel' %}
       <article class="post">
 
