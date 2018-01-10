@@ -16,8 +16,8 @@ permalink: /feed/blog.xml
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ site.baseurl }}{{ post.permalink }}</link>
-        <guid isPermaLink="true">{{ site.baseurl }}{{ post.permalink }}</guid>
+        <link>{{ site.url }}{{ post.permalink }}</link>
+        <guid isPermaLink="true">{{ site.url }}{{ post.permalink }}</guid>
       </item>
     {% endfor %}
   </channel>
