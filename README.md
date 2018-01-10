@@ -11,3 +11,4 @@ gem install github-pages
 - http://jekyll.tips/jekyll-casts/rss-feed/
 - make diagnosing prettier
 - add more shit to mange page
+- resize all blog images to 800px width
