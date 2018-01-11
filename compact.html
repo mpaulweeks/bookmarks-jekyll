@@ -1,0 +1,27 @@
+---
+layout: default
+title: Compact Bookmarks
+permalink: /compact/
+---
+
+<h1 class="center">
+  Bookmarks by Date
+  <br/>
+  <a href="/feed/bookmarks.xml"><i class="svg-icon rss"></i></a>
+</h1>
+
+{% assign links = site.data.bookmarks.links | sort: 'added' | reverse %}
+{% for link in links %}
+  <p class="block" data-category="{{category}}">
+    <span class="bookmarks-author">
+      {{ link.added }}
+      {% if link.author.size > 0 %}
+          - {{link.author}}
+      {% endif %}
+    </span>
+  <br/>
+  <a href="{{link.url}}" class="hover">{{link.title}}</a>
+  <br/>
+
+  </p>
+{% endfor %}
