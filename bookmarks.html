@@ -1,34 +1,36 @@
 ---
-layout: page
+layout: default
 title: Bookmarks
 permalink: /bookmarks/
 ---
 
-Articles and videos I am eager to share and preserve.
+<h1 class="center">
+  Bookmarks
+  <br/>
+  <a href="/feed/blog.xml"><i class="svg-icon rss"></i></a>
+</h1>
 
-<a href="/feed/bookmarks.xml"><i class="svg-icon rss"></i></a>
-
-<h3> Tags <a href="?"> (reset) </a></h3>
-<div id="tag-holder"></div>
+<h3 class="center"> Tags <a href="?"> (reset) </a></h3>
+<div class="center" id="tag-holder"></div>
 
 {% assign categories = site.data.bookmarks.categories %}
 {% for category in categories %}
-<h1 class="block" id="{{category}}"><hr/>{{ category }} </h1>
-{% assign links = site.data.bookmarks.links | where: 'category', category %}
-{% for link in links %}
-<p class="block" data-category="{{category}}">
-{% if link.author.size > 0 %}
-<a href="?author={{link.author}}" class="hover bookmarks-author" data-author="{{link.author}}"> {{link.author}} </a><br/>
-{% endif %}
-<a href="{{link.url}}" class="hover">{{link.title}}</a>
-{% if link.tags.size > 0 %}
-<br/>
-{% for tag in link.tags %}
-<a href="?tags={{tag}}" class="bookmarks-tag" data-tag="{{tag}}"> {{tag}} </a>
-{% endfor %}
-{% endif %}
-</p>
-{% endfor %}
+  <h1 class="block" id="{{category}}"><hr/>{{ category }} </h1>
+  {% assign links = site.data.bookmarks.links | where: 'category', category %}
+  {% for link in links %}
+    <p class="block" data-category="{{category}}">
+    {% if link.author.size > 0 %}
+      <a href="?author={{link.author}}" class="hover bookmarks-author" data-author="{{link.author}}"> {{link.author}} </a><br/>
+    {% endif %}
+    <a href="{{link.url}}" class="hover">{{link.title}}</a>
+    {% if link.tags.size > 0 %}
+      <br/>
+      {% for tag in link.tags %}
+        <a href="?tags={{tag}}" class="bookmarks-tag" data-tag="{{tag}}"> {{tag}} </a>
+      {% endfor %}
+    {% endif %}
+    </p>
+  {% endfor %}
 {% endfor %}
 
 <script>

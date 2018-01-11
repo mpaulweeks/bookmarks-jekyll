@@ -1,8 +1,12 @@
 ---
-layout: page
+layout: default
 title: Conventions
 permalink: /conventions/
 ---
+
+<h1 class="center">
+  Conventions
+</h1>
 
 <p>
   Linked below are convention panels I've presented, with citations and further readings.

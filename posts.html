@@ -4,12 +4,24 @@ title: Posts
 permalink: /posts/
 ---
 
+{% assign posts = site.posts | where: "type", "post" %}
+{% assign posts = posts | where: "isLive", "true" %}
 <div class="posts">
-  {% for post in site.posts %}
-    {% unless post.isPanel %}
+  <h1 class="center">
+    Blog Posts
+    <br/>
+    <a href="/feed/blog.xml"><i class="svg-icon rss"></i></a>
+  </h1>
+  {% for post in posts %}
+    {% unless post.type == 'panel' %}
       <article class="post">
 
-        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+        <h1>
+          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        </h1>
+        <span class="date">
+          {{ post.date | date: "%B %e, %Y" }}
+        </span>
 
         <div class="entry">
         {% if post.descrip %}

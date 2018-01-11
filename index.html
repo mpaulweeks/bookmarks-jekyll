@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article class="post">
-  <h1 class="center">Welcome</h1>
+  <h1 class="center">Welcome to Stuff</h1>
 
   <div class="entry">
     <p>
@@ -11,48 +11,23 @@ layout: default
     </p>
     <ul>
       <li>
-        Information and resources from my lectures at <a href="/conventions">conventions</a>.
+        <a href="/posts">Blog posts</a>, mostly thoughts about art and games
       </li>
       <li>
-        My public <a href="/bookmarks">bookmarks</a>, a collection of articles and videos I find valuable.
+        My public <a href="/bookmarks">bookmarks</a>, a collection of articles and videos I find valuable
       </li>
       <li>
-        Books I've read recently on <a href="https://www.goodreads.com/review/list/38476555?shelf=read&sort=date_read">Goodreads</a>.
+        Information and resources from my lectures at <a href="/conventions">conventions</a>
+      </li>
+    </ul>
+    Other links of interest:
+    <ul>
+      <li>
+        <a href="http://www.mpaulweeks.com">www.mpaulweeks.com</a> with contact info and software projects
+      </li>
+      <li>
+        Books I've read recently on <a href="https://www.goodreads.com/review/list/38476555?shelf=read&sort=date_read">Goodreads</a>
       </li>
     </ul>
   </div>
 </article>
-
-{% assign posts = site.posts | where: "type", "post" %}
-{% assign posts = posts | where: "isLive", "true" %}
-
-<div class="posts">
-  <h1 class="center">
-    <a href="/feed/blog.xml"><i class="svg-icon rss"></i></a>
-    <br/>
-    Blog Posts
-  </h1>
-  {% for post in posts %}
-    {% unless post.type == 'panel' %}
-      <article class="post">
-
-        <h1>
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        </h1>
-        <span class="date">
-          {{ post.date | date: "%B %e, %Y" }}
-        </span>
-
-        <div class="entry">
-        {% if post.descrip %}
-          <p>{{ post.descrip }}</p>
-        {% else %}
-          {{ post.excerpt }}
-        {% endif %}
-        </div>
-
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-      </article>
-    {% endunless %}
-  {% endfor %}
-</div>
