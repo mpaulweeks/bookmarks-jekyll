@@ -16,7 +16,7 @@ permalink: /compact/
     <span class="bookmarks-author">
       {{ link.added }}
       {% if link.author.size > 0 %}
-          - {{link.author}}
+          - <a href="/bookmarks/?author={{link.author}}" class="hover"> {{link.author}} </a>
       {% endif %}
     </span>
   <br/>

@@ -290,11 +290,12 @@ footer {
 }
 
 .bookmarks-author {
-  color: $gray;
   font-size: 80%;
 }
+.bookmarks-author,
+.bookmarks-author a,
 .bookmarks-author:hover {
-  color: inherit;
+  color: $gray;
 }
 
 .bookmarks-tag {
