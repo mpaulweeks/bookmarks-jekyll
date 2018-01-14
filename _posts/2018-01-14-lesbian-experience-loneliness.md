@@ -20,7 +20,7 @@ I'll say it again, it moved me. But self-harm metaphor aside, not much stuck wit
 
 Reading it now, I was in awe of what the book had to say about self-acceptance. The text presents a clear blueprint for how to seek at personal fulfillment, and the associated pitfalls.
 
-Disclaimer: I realize it can be unwise (potentially unhealthy) to try and map any sort of narrative onto REAL LIFE™️. I merely seek to examine the text, as if it were a piece of fiction, with the goal of learning from the trials (and more trials) and eventual tribulations of this character in this book, henceforth referred to as Nagato.
+Disclaimer: I realize it can be unwise (potentially unhealthy) to try and map any sort of narrative onto REAL LIFE™️. I merely seek to examine the text, as if it were a piece of fiction, with the goal of learning from the trials (and more trials) and eventual tribulations of this character in this book, henceforth referred to as Nagata.
 
 Moving on!
 
@@ -30,7 +30,7 @@ My favorite aspect of the narrative is how much failure there is. Failure allows
 
 ## Mistake #1 - Peer Approval as Validation
 
-Nagato initially connects her depression with leaving school and, as a result, losing the place she belongs. Rather than confront the idea of being defined by external actors, she instead seeks to fill this void with coworkers.
+Nagata initially connects her depression with leaving school and, as a result, losing the place she belongs. Rather than confront the idea of being defined by external actors, she instead seeks to fill this void with coworkers.
 
 ![](images/lesbian-experience-loneliness/p009.png)
 
@@ -38,7 +38,7 @@ However, she soon realizes this was a false equivalence
 
 ![](images/lesbian-experience-loneliness/p011.png)
 
-She has a similarly hollow experience at a bakery, then lives with her parents, unemployed, for quite some time. Taking the advice from bakers who turned her down, Nagato eventually channels this free time and energy into her manga and makes her debut, seemingly fixing everything.
+She has a similarly hollow experience at a bakery, then lives with her parents, unemployed, for quite some time. Taking the advice from bakers who turned her down, Nagata eventually channels this free time and energy into her manga and makes her debut, seemingly fixing everything.
 
 ![](images/lesbian-experience-loneliness/p041.png)
 
@@ -50,7 +50,7 @@ However, the salvation is fleeting. The success carries with it new and exciting
 
 It eventually gets to the point that she seeks medical treatment, which is immediately helpful. Around this time, she starts re-examining her relationship with her parents.
 
-Nagato comes to realize that a large source of her low self-esteem comes from her parents.
+Nagata comes to realize that a large source of her low self-esteem comes from her parents.
 
 ## Mistake #3 - Familial Approval as Validation
 
@@ -58,7 +58,7 @@ On a surface level, yes, they were often less than supportive.
 
 ![](images/lesbian-experience-loneliness/p038.png)
 
-But the important lesson Nagato learns from this isn't "Mother knows best" or "I'm cutting you out of my life". She realizes the true problem is how much she let herself rely on her parents approval, on their recognition. She describes and draws it almost like a split personality.
+But the important lesson Nagata learns from this isn't "Mother knows best" or "I'm cutting you out of my life". She realizes the true problem is how much she let herself rely on her parents approval, on their recognition. She describes and draws it almost like a split personality.
 
 ![](images/lesbian-experience-loneliness/p056.png)
 
@@ -78,7 +78,7 @@ It normalizes her. She no longer feels like an outsider. And yet there wasn't an
 
 ## Success - Looking Inward
 
-This catalyst in turn inspires the production of this book, and the arc is complete. Through her autobiographical manga, Nagato finally achieves actualization through self-acceptance.
+This catalyst in turn inspires the production of this book, and the arc is complete. Through her autobiographical manga, Nagata finally achieves actualization through self-acceptance.
 
 Yes, this is inextricably tied to the manga's success and the subsequent audience filling her need for connection, but she achieved similar external validation during her debut to no avail.
 
