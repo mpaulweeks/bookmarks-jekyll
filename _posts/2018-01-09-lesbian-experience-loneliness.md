@@ -28,9 +28,41 @@ Moving on!
 
 My favorite part of about the narrative is how much failure there is. Failure allows one to learn from their (or other's) mistakes. I also much prefer the strategy of "learning what not do", as it's often more actionable than "hey this worked for me, you try it!"
 
+Nagato initially connects her depression with leaving school and, as a result, losing the place she belongs. Rather than confront the idea of being defined by external actors, she instead seeks to fill this void with coworkers
+
+![](images/lesbian-experience-loneliness/p009.png)
+
+However, she soon realizes this was a false equivalence
+
+![](images/lesbian-experience-loneliness/p011.png)
+
+She has a similarly hollow experience at a bakery, then lives with her parents in unemployment for quite some time. She eventually channels this free time and energy into manga and makes her debut, seemingly solving the problem.
+
+![](images/lesbian-experience-loneliness/p041.png)
+
+However, the salvation is fleeting. The success carries with it new and exciting sources of stress and doubt.
+
+![](images/lesbian-experience-loneliness/p042.png)
+
+It eventually gets the point that she seeks medical treatment, and it is immensely helpful. Around this time, she starts re-examining her relationship with her parents.
+
+Nagato comes to realize that a large source of her low self-esteem comes from her relationship with her parents.
+
+On a surface level, yes, they were often less than supportive.
+
+![](images/lesbian-experience-loneliness/p038.png)
+
+But the important lesson Nagato learns from this isn't "Mother knows best" or "I'm cutting you out of my life". She realizes the true problem is how much she let herself rely on her parents approval, on their recognition. She describes and draws it almost like a split personality.
+
+![](images/lesbian-experience-loneliness/p056.png)
+
+And this is the recurring theme. She spends these formative years trying to get validation and recognition from her peers, her audience, her parents. But this will never work! If she is constantly straining herself to appeal to her coworkers, to her audience, to her parents, how can she be at peace?
+
 ...
 
-The author finally achieves actualization through self-acceptance. Yes, this is inextricably tied to the manga's success and the subsequent audience filling her need for connection, but she achieved similar external validation during her debut to no avail.
+Through her autobiographical manga, Nagato finally achieves actualization through self-acceptance.
+
+Yes, this is inextricably tied to the manga's success and the subsequent audience filling her need for connection, but she achieved similar external validation during her debut to no avail.
 
 This time was different, in part because her autobiographical work was so tied to her identity. Her TRUE identity.
 
