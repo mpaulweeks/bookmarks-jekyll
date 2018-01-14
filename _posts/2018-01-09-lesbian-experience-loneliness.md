@@ -58,9 +58,17 @@ But the important lesson Nagato learns from this isn't "Mother knows best" or "I
 
 And this is the recurring theme. She spends these formative years trying to get validation and recognition from her peers, her audience, her parents. But this will never work! If she is constantly straining herself to appeal to her coworkers, to her audience, to her parents, how can she be at peace?
 
-...
+Seeking to confront one of her remaining areas of discomfort, physical intimacy, she attempts to lose her virginity to an escort. The immediate impact is similarly unsatisfying and alienating.
 
-Through her autobiographical manga, Nagato finally achieves actualization through self-acceptance.
+![](images/lesbian-experience-loneliness/p111-112.png)
+
+But the end result is euphoria. Not only for trying new things and putting herself out there, but because the act of seeking a female escort at all carries with it an implicit self-acceptance of her sexuality.
+
+It normalizes her. She no longer feels like an outsider. And yet there wasn't any witness, any external arbiter per se. The triumph lies not only in accomplishment, but in self-awareness.
+
+![](images/lesbian-experience-loneliness/p114.png)
+
+This catalyst in turn inspires the production of this book, and the arc is complete. Through her autobiographical manga, Nagato finally achieves actualization through self-acceptance.
 
 Yes, this is inextricably tied to the manga's success and the subsequent audience filling her need for connection, but she achieved similar external validation during her debut to no avail.
 
@@ -68,24 +76,12 @@ This time was different, in part because her autobiographical work was so tied t
 
 ![](images/lesbian-experience-loneliness/p123.png)
 
-Now, this is not completely naive. It's not as trite as "be yourself". On the way she made significant changes and self-investments.
+Now, this is not completely naive. The lesson isn't as simple or trite as "be yourself". On the way she made significant changes and self-investments.
 
-For all of her angst leading up to it, and ennui immediately afterwards, her initial visit to a prostitute was instrumental in demystifying sex and giving her the experience to channel into her art, and resulting self-exploration on page.
+For all of her angst leading up to it, and ennui immediately afterwards, her initial visit to a prostitute was instrumental in demystifying sex and growing more comfortable with her body and her self-image.
 
 Let's not forget the several pages on personal hygiene and the realization that (a) it takes work and (b) it's worth it.
 
 ![](images/lesbian-experience-loneliness/p067.png)
 
-
-
----
-## notes
-
-- job is where you belong, jk its a contract
-- family expectations, and the cycle of guilt
-
-
-Goals as fleeting
-Job but no validation from parents
-Debut but not easier
-Sex but still hollow
+My Lesbian Experience with Loneliness is a heart-warming and often funny story about self-discovery and success. But it stand out to me so much than other works of it's genre (autobiographical here's-how-I-did-it) because of the mistakes made and lessons learned along the way.
