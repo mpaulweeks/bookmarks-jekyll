@@ -26,7 +26,7 @@ Moving on!
 
 ![](images/lesbian-experience-loneliness/p022.png)
 
-My favorite part of about the narrative is how much failure there is. Failure allows one to learn from their (or other's) mistakes. I also much prefer the strategy of "learning what not do", as it's often more actionable than "hey this worked for me, you try it!"
+My favorite aspect of the narrative is how much failure there is. Failure allows one to learn from their (or other's) mistakes. I also much prefer the strategy of "learning what not do", as it's often more actionable than "hey this worked for me, you try it!"
 
 ## Mistake #1 - Peer Approval as Validation
 
@@ -38,7 +38,7 @@ However, she soon realizes this was a false equivalence
 
 ![](images/lesbian-experience-loneliness/p011.png)
 
-She has a similarly hollow experience at a bakery, then lives with her parents, unemploymed, for quite some time. Taking the advice from employer who turned her down, Nagato eventually channels this free time and energy into her manga and makes her debut, seemingly fixing everything.
+She has a similarly hollow experience at a bakery, then lives with her parents, unemployed, for quite some time. Taking the advice from bakers who turned her down, Nagato eventually channels this free time and energy into her manga and makes her debut, seemingly fixing everything.
 
 ![](images/lesbian-experience-loneliness/p041.png)
 
@@ -48,7 +48,7 @@ However, the salvation is fleeting. The success carries with it new and exciting
 
 ![](images/lesbian-experience-loneliness/p042.png)
 
-It eventually gets the point that she seeks medical treatment, which is immediately helpful. Around this time, she starts re-examining her relationship with her parents.
+It eventually gets to the point that she seeks medical treatment, which is immediately helpful. Around this time, she starts re-examining her relationship with her parents.
 
 Nagato comes to realize that a large source of her low self-esteem comes from her parents.
 
