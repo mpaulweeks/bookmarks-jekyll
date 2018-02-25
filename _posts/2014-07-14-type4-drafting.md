@@ -18,9 +18,9 @@ Query: How long do you think it takes people who are brand new to the format to 
 
 There are so many words! Is Intet’s ability good? What about Infernal Spawn? And just what the heck does Hellcarver Demon even do?!? And don’t forget, there’s no “locking into a color”. You have to read them all, every time.
 
-Whenever I drafted Type 4, it usually took about two hours to get through 3 packs of 15 cards. And unless you go ham and pick every counterspell or fat guy, your experience isn’t going to feel any different than if you did sealed or stack.
+Whenever I drafted Type 4, it usually took about two hours to get through 3 packs of 15 cards. And unless you go ham and pick every counterspell or fat guy, your experience isn’t going to feel any different than if you played sealed or stack.
 
-Which is really the problem. In normal Magic, drafting is fun because you get to make tough calls about committing to a color and assessing cards that have different value depending on timing. In Type 4, this simply isn’t true. Drafting usually involves just grabbing at the seemingly truly broken stuff, only to be disappointed when your 10th pick is “only a 9/9 shroud”.
+Which is really the problem. In normal Magic, drafting is fun because you get to make tough calls about committing to a color and assessing cards that have different value depending on timing. In Type 4, this simply isn’t true. Drafting usually involves grabbing at the seemingly truly broken stuff, only to be disappointed when your 10th pick is "just a 9/9 shroud”.
 
 <div class="center">
   <card-image name="Kalonian Behemoth"></card-image>
