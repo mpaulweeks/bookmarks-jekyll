@@ -24,7 +24,7 @@ Whenever I drafted Type 4, it usually took about two hours to get through 3 pack
 Which is really the problem. In normal Magic, drafting is fun because you get to make tough calls about committing to a color and assessing cards that have different value depending on timing. In Type 4, this simply isn’t true. Drafting usually involves grabbing at the seemingly truly broken stuff, only to be disappointed when your 10th pick is "just a 9/9 shroud”.
 
 <div class="center">
-  <card-image name="Kalonian Behemoth"></card-image>
+  <card-image>Kalonian Behemoth</card-image>
 </div>
 
 Granted, everything I just said is wrong and drafting is essential IF you want to run combos in your cube, and I’ll discuss those in a later post. I don’t run any in mine, and it’s largely because I don’t believe the setup cost of a 2+ hour draft is worth it. Two hours is several games!
@@ -32,6 +32,6 @@ Granted, everything I just said is wrong and drafting is essential IF you want t
 Compound that with how hard it is assess card value in Type 4 (and don’t forget the politics involved with it being FFA), and drafting Type 4 just isn’t a fun experience. I mean, how good can you feel when you open a pack with Reiterate and Memnarch and can only chose one?!?
 
 <div class="center">
-  <card-image name="Reiterate"></card-image>
-  <card-image name="Memnarch"></card-image>
+  <card-image>Reiterate</card-image>
+  <card-image>Memnarch</card-image>
 </div>
