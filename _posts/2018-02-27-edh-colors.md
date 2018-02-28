@@ -55,13 +55,32 @@ Basically, the two most important things in EDH are Draw and Mana. I don't think
 
 Now, every deck can run artifacts. For better or worse, the good artifact options for Draw tend are limited and slow. Artifacts provide great Mana acceleration and fixing with rocks, but thanks to color identity rules, your options are limited the less colors your deck. For example, the Signets are some of the best ramp cards for their speed and fixing. This is how many you can run in your deck depending on your number of colors:
 
-todo: replace with table
-- 0 colors: 0
-- 1 color:  0
-- 2 colors: 1
-- 3 colors: 3
-- 4 colors: 6
-- 5 colors: 10
+<div class="center">
+  <table>
+    <thead>
+      <tr>
+        <th>colors</th>
+        <th>0</th>
+        <th>1</th>
+        <th>2</th>
+        <th>3</th>
+        <th>4</th>
+        <th>5</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>signets</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+        <td>3</td>
+        <td>6</td>
+        <td>10</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 The fewer colors your running, the less options you have for artifact ramp, and you have to start digging into slower options like <card-text>Fire Diamond</card-text> or less useful ones like <card-text>Fractured Powerstone</card-text>
 
