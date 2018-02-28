@@ -17,7 +17,7 @@ That said, I like to give my friends four gentle suggestions:
 2. Don't play colorless
 3. Don't play mono White
 4. Don't play mono Red
-4. Don't play Red/White
+4. Don't play Boros
 
 Let's go through those in order, shall we?
 
@@ -55,6 +55,7 @@ Basically, the two most important things in EDH are Draw and Mana. I don't think
 
 Now, every deck can run artifacts. For better or worse, the good artifact options for Draw tend are limited and slow. Artifacts provide great Mana acceleration and fixing with rocks, but thanks to color identity rules, your options are limited the less colors your deck. For example, the Signets are some of the best ramp cards for their speed and fixing. This is how many you can run in your deck depending on your number of colors:
 
+todo: replace with table
 - 0 colors: 0
 - 1 color:  0
 - 2 colors: 1
@@ -96,4 +97,40 @@ So what about White?
 
 White's Draw options are bad. Land Tax is good, but only draws you threats with Scroll Rack. Mentor of the Meek might like a mini-<card-text name="Soul of the Harvest"></card-text>, until you realize you'd rather just spend that 1 mana per creature equipping Skullclamp. White has good tutors to grab these tools, but it is overly dependant on them, and the result of your two-card combo is still weaker than a single Blue enchantment.
 
-White's even worse off the in mana department, sporting merely 1-2 "Tithe" style cards which won't work half the time. White has promiment strengths, with some of the best answers both <card-text name="Swords to Plowshares">small</card-text> and <card-text name="Austere Command">large</card-text>, but it's just too brittle by itself, and will inevitably fall behind in the mid-game unless you start blowing up lands.
+White's even worse off the in mana department, sporting merely 1-2 "Tithe" style cards which won't work half the time.
+
+White has promiment strengths, with some of the best answers both <card-text name="Swords to Plowshares">small</card-text> and <card-text name="Austere Command">large</card-text>, but it's just too brittle by itself, and will inevitably fall behind in the mid-game unless you start blowing up lands.
+
+<div class="center">
+  <card-image name="Faithless Looting"></card-image>
+  <card-image name="Reforge the Soul"></card-image>
+  <card-image name="Mana Geyser"></card-image>
+</div>
+
+## Don't play mono Red
+
+Red is almost as impoverished as White, trading White's few true engines for unpredictable one-shots.
+
+Yes, Red has lots of looting (and <card-text name="Cathartic Reunion">rummaging</card-text>) effects, but unless you can fill your hand with chaff with a card like Land Tax, you're still (at best) neutral on cards.
+
+Most of Red's draw is "this turn only", which does little to expand your options in the long run, and often flips cards you can't afford or don't want to cast. <card-text name="Outpost Siege"></card-text> is probably the best engine you've got, and I'd still place it below any of Blue's <card-name name="Shrine of Seeing Wind">more expensive and rarely-seen enchantments</card-name>.
+
+Red's standout asset and strongest Draw tool are it's various "wheels", named after the original <card-text name="Wheel of Fortune"></card-text>. Wheels are powerful, and some of the most efficient (card per mana spent) draw spells in the game. But they came at great cost. Each wheel requires tossing your hand, undoing any long-term planning. They also massively help your opponents, ensuring that anyone behind is now caught up. Whereas Draw is supposed to make your position stronger, wheels mostly serve to even the playing field.
+
+In the mana department, all of Red's mana cards are one-shot flares, whether it's a <card-text name="Rite of Flame">small ritual</card-text> or <card-text name="Mana Geyser">giant surplus</card-text>. This makes Red a great supporting color for combo decks, but alone, just serves to empty your hand twice as fast, and mono Red doesn't have enough wheels to make the math work.
+
+Red does have some limited artifact and graveyard recursion which you can use to try and build some draw, but you need to run a commander like <card-text name="Daretti, Scrap Savant"></card-text> and even then, the payoff is inconsistent due to lack of tutoring and sparse threats/rewards.
+
+Played alone, Red mostly does what you'd expect from 60 card constructed - flare out early, then lose. Except you're fighting against not 20 life, but 80-160 depending on play group. In a format favoring late game, Red is designed to fail. You can run an aggresive <card-text name="Purphoros, God of the Forge"></card-text> engine or a straight up combo, but if your key pieces are removed, it is almost impossible for mono Red to recover.
+
+## Don't play Boros
+
+Which brings us to my last point, which should be pretty obvious by this point.
+
+White and Red can be great assist colors, but they both lack key tools. Unfortunately, combining them doesn't cover any weaknesses. While you gain with a few very powerful gold cards, you lose the mono artifact doublers like <card-text name="Caged Sun"></card-text>.
+
+You can make good Boros decks. I've seen solid wins from <card-text name="Aurelia"></card-text> and other powerhouses. But I have seen just as many (if not more) games where the Boros player just...fizzled out. One too many wraths later, they can no longer afford their Commander tax and enter top deck mode. These colors alone just aren't well equipped for long, multiplayer games.
+
+You can make it work, but it's a handicap. So while it's entirely possilbe (I have a mono Red deck as of writing), I try to steer newcomers away, lest they spend their first experinces with the format staring at a small mana base and empty hand.
+
+
