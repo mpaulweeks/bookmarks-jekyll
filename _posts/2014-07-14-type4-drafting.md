@@ -2,6 +2,7 @@
 layout: post_type4
 title: Type 4 | Drafting Isn't Worth It
 type: post
+category: mtg
 isLive: true
 permalink: /type4-drafting
 ---

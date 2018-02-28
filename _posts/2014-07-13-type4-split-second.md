@@ -2,6 +2,7 @@
 layout: post_type4
 title: Type 4 | The Tragedy of Split Second
 type: post
+category: mtg
 isLive: true
 permalink: /type4-split-second
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: The Static Action Hero
 type: post
+category: art
 isLive: false
 permalink: /static-action-hero
 ---

@@ -4,35 +4,28 @@ title: Posts
 permalink: /posts/
 ---
 
-{% assign posts = site.posts | where: "type", "post" %}
-{% assign posts = posts | where: "isLive", "true" %}
-<div class="posts">
-  <h1 class="center">
+<div class="center">
+  <h1>
     Blog Posts
     <br/>
     <a href="/feed/blog.xml"><i class="svg-icon rss"></i></a>
   </h1>
-  {% for post in posts %}
-    {% unless post.type == 'panel' %}
-      <article class="post">
-
-        <h1>
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        </h1>
-        <span class="date">
-          {{ post.date | date: "%B %e, %Y" }}
-        </span>
-
-        <div class="entry">
-        {% if post.descrip %}
-          <p>{{ post.descrip }}</p>
-        {% else %}
-          {{ post.excerpt }}
-        {% endif %}
-        </div>
-
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-      </article>
-    {% endunless %}
-  {% endfor %}
+  <div>
+    short essays about whatever interests me
+  </div>
 </div>
+<br/>
+<hr/>
+
+<div class="center">
+  <h1>Critical Theory</h1>
+</div>
+{% assign posts = site.posts | where: "category", "art" %}
+{% include posts.html posts=posts %}
+<hr/>
+
+<div class="center">
+  <h1>Magic: the Gathering</h1>
+</div>
+{% assign posts_mtg = site.posts | where: "category", "mtg" %}
+{% include posts.html posts=posts_mtg %}

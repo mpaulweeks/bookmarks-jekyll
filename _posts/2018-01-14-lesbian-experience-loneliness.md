@@ -2,6 +2,7 @@
 layout: post
 title: Where To Find Acceptance
 type: post
+category: art
 isLive: true
 permalink: /lesbian-experience-loneliness
 ---
