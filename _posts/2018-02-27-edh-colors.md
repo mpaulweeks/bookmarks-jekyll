@@ -36,7 +36,7 @@ If you're just starting out in EDH, you probably don't have the goofy singleton 
 - a full suite of fetches + duals/shocks/tangos/etc
 - all 10 trilands
 - all 5 Vivids
-- some assortment of one-off all color lands like <card-image name="City of Brass"></card-image>
+- some assortment of one-off all color lands like <card-text name="City of Brass"></card-text>
 - a bunch of two-color lands to fill in the gaps
 
 ...and half of those options come into play tapped. You can pretty easily get a working 3 color mana base on your first try, but 4-5 colors turns your mana base into a deck building decision, when you should be focusing on more interesting stuff like deck themes, threats, and answers
@@ -63,7 +63,7 @@ todo: replace with table
 - 4 colors: 6
 - 5 colors: 10
 
-The fewer colors your running, the less options you have for artifact ramp, and you have to start digging into slower options like <card-text name="Fire Dimaond"></card-text> or less useful ones like <card-text name="Fractured Powerstone"></card-text>
+The fewer colors your running, the less options you have for artifact ramp, and you have to start digging into slower options like <card-text name="Fire Diamond"></card-text> or less useful ones like <card-text name="Fractured Powerstone"></card-text>
 
 All this is to say: a mono colored deck doesn't get much help from artifacts in fulfilling the two core needs of a deck: Draw and Mana. You can force artifacts to work for the mana in 1 color, but that color really needs to pick up the slack.
 
@@ -85,7 +85,7 @@ Blue has great draw options. It has strongest one-shots like <card-text name="Di
 
 Green is the opposite. Sporting the best ramp, not only for efficiency but resiliency (mass land destruction is less common than <card-text name="Vandalblast"></card-text> and <card-text name="Bane of Progress"></card-text>). Green is completely lost ramping into nothing though, as it has some very powerful Draw strategies around both going wide (<card-text name="Shamanic Revelation"></card-text>) and going tall (<card-text name="Soul's Majesty"></card-text>). It forces you to specialize, but you have options, and the rewards are worth it.
 
-Black has an interesting mix of both. Black had the second best draw after Blue, with decent one-shots like <card-text name="Promise of Power"></card-text> and recurring draw like <card-text name="Phyrexian Arena"></card-text> and <card-text name="Underworld Connections"></card-text>. And let's not forget the grand daddy of degenerate draw, <card-text name="Necropotence"></card-text>. On the Mana side, mono Black has some unique advantages with all the Swamp-matters synergies. Luckily you're in great colors to tutor out <card-text name="Cabal Coffers"></card-text> every game, not to mention the mana doublers like <card-text name="Crypt Ghast"></card-text>. Combine Black's tutors and doublers with the few similar artifacts like <card-text name="Explanar Lens"></card-text> and you can get a lot of mana, very consistently, very fast. Black isn't the best at either category, but it's probably 2nd best in both, making it very versatile and popular for mono color builds.
+Black has an interesting mix of both. Black had the second best draw after Blue, with decent one-shots like <card-text name="Promise of Power"></card-text> and recurring draw like <card-text name="Phyrexian Arena"></card-text> and <card-text name="Underworld Connections"></card-text>. And let's not forget the grand daddy of degenerate draw, <card-text name="Necropotence"></card-text>. On the Mana side, mono Black has some unique advantages with all the Swamp-matters synergies. Luckily you're in great colors to tutor out <card-text name="Cabal Coffers"></card-text> every game, not to mention the mana doublers like <card-text name="Crypt Ghast"></card-text>. Combine Black's tutors and doublers with the few similar artifacts like <card-text name="Extraplanar Lens"></card-text> and you can get a lot of mana, very consistently, very fast. Black isn't the best at either category, but it's probably 2nd best in both, making it very versatile and popular for mono color builds.
 
 So what about White?
 
@@ -129,7 +129,7 @@ Which brings us to my last point, which should be pretty obvious by this point.
 
 White and Red can be great assist colors, but they both lack key tools. Unfortunately, combining them doesn't cover any weaknesses. While you gain with a few very powerful gold cards, you lose the mono artifact doublers like <card-text name="Caged Sun"></card-text>.
 
-You can make good Boros decks. I've seen solid wins from <card-text name="Aurelia"></card-text> and other powerhouses. But I have seen just as many (if not more) games where the Boros player just...fizzled out. One too many wraths later, they can no longer afford their Commander tax and enter top deck mode. These colors alone just aren't well equipped for long, multiplayer games.
+You can make good Boros decks. I've seen solid wins from <card-text name="Aurelia, the Warleader"></card-text> and other powerhouses. But I have seen just as many (if not more) games where the Boros player just...fizzled out. One too many wraths later, they can no longer afford their Commander tax and enter top deck mode. These colors alone just aren't well equipped for long, multiplayer games.
 
 You can make it work, but it's a handicap. So while it's entirely possilbe (I have a mono Red deck as of writing), I try to steer newcomers away, lest they spend their first experinces with the format staring at a small mana base and empty hand.
 
