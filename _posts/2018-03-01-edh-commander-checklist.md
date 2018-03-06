@@ -28,7 +28,7 @@ Let's look at my current 16 commanders and see how they shape their decks and ma
 ## Commander as Passive Buff
 
 <div class="center">
-  <card-image>Ephara, God of the Polis</card-image>
+  <auto-card-image>Ephara, God of the Polis</auto-card-image>
 </div>
 
 - Is cheap to cast
@@ -40,10 +40,10 @@ My Ephara deck is a strong build-around. It seeks to run out a Rebel and Ephara 
 The deck strongly relies on Ephara for the cards, and it generally works for 3 reasons:
 - Ephara comes out early, and doesn't cost tempo in later turns when I need to be answering threats
 - Ephara is rarely a creature, so very few removal spells can even hit her
-- Compared to cards like <card-text>Rhystic Study</card-text>, she flies a low profile and tends to avoid the few spells that could remove her, like <card-text>Return to Dust</card-text>
+- Compared to cards like <auto-card>Rhystic Study</auto-card>, she flies a low profile and tends to avoid the few spells that could remove her, like <auto-card>Return to Dust</auto-card>
 
 <div class="center">
-  <card-image>Mogis, God of Slaughter</card-image>
+  <auto-card-image>Mogis, God of Slaughter</auto-card-image>
 </div>
 
 - Is cheap to cast
@@ -54,51 +54,51 @@ Mogis on the other hand is merely on-theme.
 
 He's a solid play for his low cost and relevant body (the many enchantments in the 99 often give me devotion, 7 power is relevant!), but at the end of the day, he is one of many "slug" effects in the deck.
 
-He has a cute synergy with <card-text>Pestilence</card-text> and similar cards, but if he gets <card-text name="Sond of Dryads">turned into a Forest</card-text>, it's not the end of the world.
+He has a cute synergy with <auto-card>Pestilence</auto-card> and similar cards, but if he gets <auto-card name="Sond of Dryads">turned into a Forest</auto-card>, it's not the end of the world.
 
 <div class="center">
-  <card-image>Inalla, Archmage Ritualist</card-image>
+  <auto-card-image>Inalla, Archmage Ritualist</auto-card-image>
 </div>
 
 - Is cheap to cast
 - Very hard to remove
 
-I never cast Inalla. She just sits in my Command-zone like an emblem and allows me to clone my many wizards (or the occasional <card-text name="Arcane Adaptation">adapted</card-text> <card-text name="Grey Merchant of Asphodel">Gary</card-text>)
+I never cast Inalla. She just sits in my Command-zone like an emblem and allows me to clone my many wizards (or the occasional <auto-card name="Arcane Adaptation">adapted</auto-card> <auto-card name="Grey Merchant of Asphodel">Gary</auto-card>)
 
-She effectively costs 0, is impossible to remove, and provided value all game. Meanwhile the wizards (or <card-text name="Conspiracy">soon to be wizards</card-text>) vary greatly in effect. All resulting in a deck that can very consistently clone creatures for their ETBs!
+She effectively costs 0, is impossible to remove, and provided value all game. Meanwhile the wizards (or <auto-card name="Conspiracy">soon to be wizards</auto-card>) vary greatly in effect. All resulting in a deck that can very consistently clone creatures for their ETBs!
 
 <div class="center">
-  <card-image>Sygg, River Cutthroat</card-image>
+  <auto-card-image>Sygg, River Cutthroat</auto-card-image>
 </div>
 
 <div class="center">
-  <card-image>Nezahal, Primal Tide</card-image>
+  <auto-card-image>Nezahal, Primal Tide</auto-card-image>
 </div>
 
 ## Commander as Spell
 
 <div class="center">
-  <card-image>Prime Speaker Zegana</card-image>
+  <auto-card-image>Prime Speaker Zegana</auto-card-image>
 </div>
 
 - Has guaranteed payoff before my next turn
 
-The patron saint of UG. My Zegana deck revolves around <card-text>Maro</card-text> cards and effects. The line of play looks like this:
+The patron saint of UG. My Zegana deck revolves around <auto-card>Maro</auto-card> cards and effects. The line of play looks like this:
 
 1. Ramp heavily
-2. Play <card-text name="Sturmgeist">Maro-type</card-text> card
-3. Cast Zegana or <card-text name="Soul's Majesty">other "power matters" draw spell</card-text>
+2. Play <auto-card name="Sturmgeist">Maro-type</auto-card> card
+3. Cast Zegana or <auto-card name="Soul's Majesty">other "power matters" draw spell</auto-card>
 4. This doubles my hand size
 5. Repeat step 3-4
 
 At 6 cmc, I wouldn't call Zegana cheap, but for how much this deck ramps, it's not bad. It's also basically on rate, with the redundant copies of that effect elsewhere in my deck costing 5-6 mana.
 
-So if I want a hand-size matters, why not run <card-text>Tishana, Voice of Thunder</card-text>? It's because the strategy requires two types of cards: Maro + power draw spell. There have been a lot of Maros printed in the last 25 years of Magic, so I can run enough in the 99 to ensure I always find one. That's not the case for the draw spells.
+So if I want a hand-size matters, why not run <auto-card>Tishana, Voice of Thunder</auto-card>? It's because the strategy requires two types of cards: Maro + power draw spell. There have been a lot of Maros printed in the last 25 years of Magic, so I can run enough in the 99 to ensure I always find one. That's not the case for the draw spells.
 
-Being able to rely on Zegana for that extra redundancy is essential, but I still run the alternatives in case she gets stuck on the table or I get slapped with a <card-text>Nevermore</card-text>.
+Being able to rely on Zegana for that extra redundancy is essential, but I still run the alternatives in case she gets stuck on the table or I get slapped with a <auto-card>Nevermore</auto-card>.
 
 <div class="center">
-  <card-image>Derevi, Empyrial Tactician</card-image>
+  <auto-card-image>Derevi, Empyrial Tactician</auto-card-image>
 </div>
 
 Polymorph target
@@ -106,42 +106,42 @@ Polymorph target
 Some token cards solve multiple problems, while others are meh
 
 <div class="center">
-  <card-image>Derevi, Empyrial Tactician</card-image>
+  <auto-card-image>Derevi, Empyrial Tactician</auto-card-image>
 </div>
 
 Enchantress, something to do when Epic
 
 <div class="center">
-  <card-image>Surrak Dragonclaw</card-image>
+  <auto-card-image>Surrak Dragonclaw</auto-card-image>
 </div>
 
 <div class="center">
-  <card-image>Queen Marchesa</card-image>
+  <auto-card-image>Queen Marchesa</auto-card-image>
 </div>
 
 <div class="center">
-  <card-image>Maelstrom Wanderer</card-image>
+  <auto-card-image>Maelstrom Wanderer</auto-card-image>
 </div>
 
 <div class="center">
-  <card-image>Thrasios, Triton Hero</card-image>
-  <card-image>Bruse Tarl, Boorish Herder</card-image>
+  <auto-card-image>Thrasios, Triton Hero</auto-card-image>
+  <auto-card-image>Bruse Tarl, Boorish Herder</auto-card-image>
 </div>
 
 ## Commander with Haste
 
 <div class="center">
-  <card-image>Jeleva, Nephalia's Scourge</card-image>
+  <auto-card-image>Jeleva, Nephalia's Scourge</auto-card-image>
 </div>
 <div class="center">
-  <card-image>Arcum Dagsson</card-image>
+  <auto-card-image>Arcum Dagsson</auto-card-image>
 </div>
 
 ## I can't explain this shit
 
 <div class="center">
-  <card-image>Braids, Conjurer Adept</card-image>
+  <auto-card-image>Braids, Conjurer Adept</auto-card-image>
 </div>
 <div class="center">
-  <card-image>Chandra, Fire of Kaladesh</card-image>
+  <auto-card-image>Chandra, Fire of Kaladesh</auto-card-image>
 </div>
