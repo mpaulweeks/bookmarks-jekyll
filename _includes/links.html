@@ -9,7 +9,7 @@
     {% elsif link.youtube %}
       <a href="https://youtu.be/{{link.youtube}}" target="_blank">{{link.title}}</a>
     {% elsif link.s3 %}
-      <a href="/clip?s3={{link.s3}}" target="_blank">{{link.title}}</a>
+      <a href="/clip?title={{link.title}}&s3={{link.s3}}" target="_blank">{{link.title}}</a>
     {% elsif link.url %}
       <a href="{{link.url}}" target="_blank">{{link.title}}</a>
     {% else %}
