@@ -8,7 +8,7 @@ permalink: /clip/
 </video>
 
 <div>
-  Is the video not showing up? Try downloading the file (with the above arrow).
+  If the video is broken, please let me know <a href="https://twitter.com/mpaulweeks">@mpaulweeks</a>
 </div>
 
 <script defer>
