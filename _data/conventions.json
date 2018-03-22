@@ -381,6 +381,179 @@
       "slides": "https://docs.google.com/presentation/d/1dyDrK28xUGwSXJfr4fTYQII9hWF-EUMpT8tvS_tB3hQ/edit?usp=sharing"
     }
   },
+  "animeboston-2018": {
+    "simulated-camera": {
+      "articles": [
+        {
+          "title": "Sakuga Panel from Anime Central 2013",
+          "youtube": "LLNHSrJoqFM?list=PLuPNSyztkHPqV-M4ePSmN_2BLhONu0WLg"
+        },
+        {
+          "title": "Why over sixty years of animation history still remains obscure",
+          "url": "https://wavemotioncannon.com/2016/01/08/why-over-sixty-years-of-animation-history-still-remains-obscure/"
+        },
+        {
+          "title": "No Necks Allowed",
+          "url": "http://nowiknow.com/no-necks-allowed/"
+        },
+        {
+          "title": "David Fincher - And the Other Way is Wrong",
+          "youtube": "QPAloq5MCUA"
+        }
+      ],
+      "clips": [
+        {
+          "title": "Part 1 - Why the camera?"
+        },
+        {
+          "title": "Cowboy Bebop: The Movie",
+          "url": "https://www.sakugabooru.com/post/show/15827"
+        },
+        {
+          "title": "Tsuki ga Kirei",
+          "url": "https://www.sakugabooru.com/post/show/35811"
+        },
+        {
+          "title": "My Hero Academia",
+          "url": "https://www.sakugabooru.com/post/show/35108"
+        },
+        {
+          "buffer": true,
+          "title": "The End of Evangelion",
+          "url": "https://sakugabooru.com/post/show/17072"
+        },
+        {
+          "title": "Part 2 - East vs West"
+        },
+        {
+          "title": "Snow White and the Seven Dwarfs",
+          "url": "https://www.sakugabooru.com/post/show/15904"
+        },
+        {
+          "title": "Baby Bottleneck (Daffy Duck)",
+          "url": "https://www.sakugabooru.com/post/show/17097"
+        },
+        {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p2+03+sweatbox.mkv",
+          "title": "The Sweatbox (clip 1)"
+        },
+        {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p2+04+sweatbox.mkv",
+          "title": "The Sweatbox (clip 2)"
+        },
+        {
+          "title": "Star Driver",
+          "url": "https://www.sakugabooru.com/post/show/10938"
+        },
+        {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p2+06+scooby+doo.mkv",
+          "title": "Scooby-Doo, Where Are You! (Background vs Foreground)"
+        },
+        {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p2+07+scooby+doo+necks.mkv",
+          "title": "Scooby-Doo, Where Are You! (Limited Acting)"
+        },
+        {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p2+08+steven+universe.mkv",
+          "title": "Steven Universe"
+        },
+        {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p2+09+hack+sign.mkv",
+          "title": ".hack//Sign"
+        },
+        {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p2+10+revolutionary+girl+utena.mkv",
+          "title": "Revolutionary Girl Utena"
+        },
+        {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p2+11+kill+la+kill.mkv",
+          "title": "Kill la Kill (comedy)"
+        },
+        {
+          "buffer": true,
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p2+12+soultaker.mkv",
+          "title": "The SoulTaker"
+        },
+        {
+          "title": "Part 3 - Common Techniques"
+        },
+        {
+          "title": "Your Name",
+          "url": "https://www.sakugabooru.com/post/show/36787"
+        },
+        {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p3+02+jojo.mkv",
+          "title": "JoJo's Bizarre Adventure: Stardust Crusaders"
+        },
+        {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p3+03+hyouka+fisheye.mkv",
+          "title": "Hyouka (Fisheye)"
+        },
+        {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p3+04+hyouka+vertigo+zoom.mkv",
+          "title": "Hyouka (Dolly Zoom)"
+        },
+        {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p3+05+neon+genesis+evangelion.mkv",
+          "title": "Neon Genesis Evangelion (POV)"
+        },
+        {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p3+06+kill+la+kill.mkv",
+          "title": "Kill la Kill (POV)"
+        },
+        {
+          "buffer": true,
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p3+07+sound+euphonium.mkv",
+          "title": "Sound! Euphonium"
+        },
+        {
+          "title": "Part 4 - Serving the Narrative"
+        },
+        {
+          "title": "Terror in Resonance (POV)",
+          "url": "https://www.sakugabooru.com/post/show/7149"
+        },
+        {
+          "title": "Terror in Resonance (Following Action)",
+          "url": "https://www.sakugabooru.com/post/show/28372"
+        },
+        {
+          "title": "Terror in Resonance (Driving)",
+          "url": "https://www.sakugabooru.com/post/show/28366"
+        },
+        {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p4+04+terror+in+resonance+flare.mkv",
+          "title": "Terror in Resonance (Localized Anxiety)"
+        },
+        {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p4+05+terror+in+resonance+exposition.mkv",
+          "title": "Terror in Resonance (Exposition)"
+        },
+        {
+          "title": "Terror in Resonance (Impossible Camera)",
+          "url": "https://www.sakugabooru.com/post/show/28368"
+        },
+        {
+          "s3": "animenyc-2017-simulated-camera/AnimeNYC+2017+The+Simulated+Camera+p4+07+yuri+kuma+arashi+parallax.mkv",
+          "title": "Yurikuma Arashi"
+        },
+        {
+          "title": "The End of Evangelion (Suspenseful)",
+          "url": "https://sakugabooru.com/post/show/17072"
+        },
+        {
+          "title": "The End of Evangelion (Triumphant)",
+          "url": "https://sakugabooru.com/post/show/17081"
+        },
+        {
+          "title": "Cowboy Bebop",
+          "url": "https://www.sakugabooru.com/post/show/15502"
+        }
+      ],
+      "description": "Animation can display anything, from any angle, in any space. Yet, it often imitates the mechanics of a real camera - lens flare, the shakiness of a handheld, an out-of-focus shot - to leverage the existing emotions and associations created by live action film.<br/><br/>In this panel, we cover the history of anime director as auteur, animating on a budget, visual storytelling techniques, and how the simulated camera can support the narrative and drive audience empathy.",
+      "slides": "https://docs.google.com/presentation/d/1v0IDQgxZD4vuMwl6HbE7we9nvVQL6RPdRNxS0upUmv0/edit?usp=sharing"
+    }
+  },
   "pending": {
     "taste": {
       "articles": [
@@ -415,7 +588,7 @@
           "url": "https://blog.sakugabooru.com/2017/01/27/anime-craft-weekly-28-major-mainstream-misunderstanding-part-1/"
         }
       ],
-      "description": "Have you ever started a show based on the promising premise/studio/director, only to be disappointed? Then you probably just weren\u2019t looking at the right things! Come to this panel, where we explore why we like what we like. Together, we will gain a new awareness of how art affects us.",
+      "description": "Why do we like what we like? In this panel, we discuss the different ways people approach and appreciate anime. Together, we can foster better self-awareness and improve the dialogue!",
       "resources": [
         {
           "buffer": true,
