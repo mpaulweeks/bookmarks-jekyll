@@ -334,15 +334,6 @@ footer {
 .manga-list {
   position: relative;
 }
-.manga-page-title {
-  font-size: 30pt;
-  font-weight: bold;
-}
-.manga-page-subtitle {
-  font-size: 25pt;
-  font-weight: bold;
-  color: grey;
-}
 .manga-header {
   font-size: 20pt;
   padding: 20px 0px;
@@ -389,6 +380,23 @@ a.hover:hover {
   text-decoration: underline;
 }
 
+.panel-page-title {
+  text-align: center;
+  font-size: 30pt;
+  font-weight: bold;
+}
+.panel-page-subtitle {
+  text-align: center;
+  font-size: 25pt;
+  font-weight: bold;
+  color: grey;
+}
+.panel-page-location {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  color: grey;
+}
 .panel-footer {
   line-height: 2.0;
 }
