@@ -1,5 +1,5 @@
 
 {% assign panels = site.posts | where: "type", "panel" %}
-{% assign panels = panels | where: "convention", page.title %}
+{% assign panels = panels | where: "convention", include.convention %}
 {% assign panels = panels | where: "isLive", "true" %}
 {% include panels.html panels=panels convention=false location=true %}

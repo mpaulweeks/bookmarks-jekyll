@@ -13,5 +13,10 @@ permalink: /conventions/
 </p>
 
 {% assign panels = site.posts | where: "type", "panel" %}
-{% assign panels = panels | where: "isLive", "true" %}
-{% include panels.html panels=panels convention=true location=false %}
+{% assign conventions = panels | map: 'convention' | uniq %}
+
+{% for con in conventions %}
+  {% assign cpanels = panels | where: 'convention', con %}
+  <h1> {{ con }} </h1>
+  {% include convention.html convention=con %}
+{% endfor %}
