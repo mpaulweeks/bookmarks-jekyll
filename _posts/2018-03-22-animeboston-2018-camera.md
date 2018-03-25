@@ -18,6 +18,11 @@ An earlier version of this panel: <a href="/animenyc-2017/simulated-camera/">Ani
 <div class="manga-header">Panel Description</div>
 <div class="panel-description">{{data.description}}</div>
 
+<h3>panel details coming soon...</h3>
+
+
+{% comment %}
+
 <div>
   <br/>
   <a href="{{data.slides}}" target="_blank">Opening Slides</a>
@@ -31,3 +36,5 @@ An earlier version of this panel: <a href="/animenyc-2017/simulated-camera/">Ani
 
 <div class="manga-header"> Sources and Inspiration </div>
 {% include links.html links=data.articles %}
+
+{% endcomment %}
