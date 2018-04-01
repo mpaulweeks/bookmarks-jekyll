@@ -216,11 +216,6 @@
         "url": "https://wavemotioncannon.com/2016/04/26/anime-guilt/"
       },
       {
-        "author": "ANNCast",
-        "title": "Kyousougiga (Episode 290)",
-        "url": "https://youtu.be/09vYrqz4hZ4?t=1h13m"
-      },
-      {
         "author": "Now I Know",
         "title": "No Necks Allowed",
         "url": "http://nowiknow.com/no-necks-allowed/"
@@ -243,9 +238,14 @@
     ],
     "videos": [
       {
-        "buffer": true,
         "title": "Sakuga Panel from Anime Central 2013",
         "youtube": "LLNHSrJoqFM?list=PLuPNSyztkHPqV-M4ePSmN_2BLhONu0WLg"
+      },
+      {
+        "buffer": true,
+        "author": "ANNCast",
+        "title": "Kyousougiga (Episode 290)",
+        "url": "https://youtu.be/09vYrqz4hZ4?t=1h13m"
       },
       {
         "author": "Shaun and Jen",
@@ -259,19 +259,48 @@
       },
       {
         "author": "RedLetterMedia",
-        "buffer": true,
         "title": "Plinkett Review of Star Wars: The Phantom Menace",
         "youtube": "FxKtZmQgxrI?list=PL5919C8DE6F720A2D"
       },
+    ],
+    "recommendations": [
       {
-        "author": "sudoStef",
-        "title": "Evangelion: Asuka Analysis",
-        "youtube": "ArapHa9N87Y"
+        "author": "ThePedanticRomantic",
+        "title": "Koe No Katachi - It's Okay To Feel (A Silent Voice)",
+        "youtube": "atgTsLv1e-A"
+      },
+      {
+        "buffer": true,
+        "author": "Super Eyepatch Wolf",
+        "title": "The Genius of Dragon Ball",
+        "youtube": "jJK7oysHoMw"
+      },
+      {
+        "author": "Mother's Basement",
+        "title": "What's in a Scene? - How SAO Became the Worst Anime Ever",
+        "youtube": "qZ9NlThB3SY"
+      },
+      {
+        "buffer": true,
+        "author": "Movies with Mikey",
+        "title": "Princess Mononoke",
+        "youtube": "rLibXEawkTI"
       },
       {
         "author": "Wisecrack",
         "title": "Philosophy of Attack on Titan",
         "youtube": "1XJhZVmORlM"
+      },
+      {
+        "author": "Folding Ideas",
+        "title": "End of Evangelion and the Audience Author Membrane",
+        "youtube": "NAMAwErYRpQ",
+      },
+      {
+        "buffer": true,
+        "author": "Folding Ideas",
+        "title": "End of Evangelion Follow Up",
+        "youtube": "YTAQhgXD75I",
       },
       {
         "author": "Anime Everyday",
@@ -284,9 +313,9 @@
         "youtube": "rrBH3IYRjaw"
       },
       {
-        "author": "Movies with Mikey",
-        "title": "Prisoner of Azkaban",
-        "youtube": "FAGh-_xVFq0"
+        "author": "Every Frame a Painting",
+        "title": "Wolf Children (2012) - The Lateral Tracking Shot",
+        "youtube": "pdSKot0psNg"
       }
     ]
   }

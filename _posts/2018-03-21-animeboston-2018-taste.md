@@ -26,3 +26,6 @@ An earlier version of this panel: <a href="/acen-2017/diagnosing-taste/">Anime C
 
 <div class="manga-header"> Videos </div>
 {% include links.html links=data.videos %}
+
+<div class="manga-header"> Some Recommended Channels </div>
+{% include links.html links=data.recommendations %}
