@@ -18,10 +18,6 @@ An earlier version of this panel: <a href="/acen-2017/diagnosing-taste/">Anime C
 <div class="manga-header">Panel Description</div>
 <div class="panel-description">{{data.description}}</div>
 
-<h3>panel details coming soon...</h3>
-
-{% comment %}
-
 <div class="manga-header">Resources</div>
 {% include links.html links=data.resources %}
 
@@ -30,5 +26,3 @@ An earlier version of this panel: <a href="/acen-2017/diagnosing-taste/">Anime C
 
 <div class="manga-header"> Videos </div>
 {% include links.html links=data.videos %}
-
-{% endcomment %}

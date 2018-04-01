@@ -224,11 +224,6 @@
         "author": "Now I Know",
         "title": "No Necks Allowed",
         "url": "http://nowiknow.com/no-necks-allowed/"
-      },
-      {
-        "author": "sakugabooru blog",
-        "title": "Major Mainstream Misunderstanding",
-        "url": "https://blog.sakugabooru.com/2017/01/27/anime-craft-weekly-28-major-mainstream-misunderstanding-part-1/"
       }
     ],
     "description": "Why do we like what we like? In this panel, we discuss the different ways people approach and appreciate anime. Together, we can foster better self-awareness and improve the dialogue!",
@@ -264,18 +259,9 @@
       },
       {
         "author": "RedLetterMedia",
+        "buffer": true,
         "title": "Plinkett Review of Star Wars: The Phantom Menace",
         "youtube": "FxKtZmQgxrI?list=PL5919C8DE6F720A2D"
-      },
-      {
-        "author": "The Canipa Effect",
-        "title": "The Importance of New Anime Character Designs",
-        "youtube": "rrBH3IYRjaw"
-      },
-      {
-        "author": "Anime Everyday",
-        "title": "The Stylistic Evolution of Anime",
-        "youtube": "dwj2ahYnci4"
       },
       {
         "author": "sudoStef",
@@ -283,29 +269,24 @@
         "youtube": "ArapHa9N87Y"
       },
       {
-        "author": "Your Movie Sucks",
-        "title": "Walking Dead Seasons 1-2",
-        "youtube": "DDbi7P93Np8?list=PLMlgrDUDraaYeriYHEPGyj4xtc3H2zbex"
-      },
-      {
-        "author": "Folding Ideas",
-        "title": "Art of Editing and Suicide Squad",
-        "youtube": "mDclQowcE9I"
-      },
-      {
         "author": "Wisecrack",
         "title": "Philosophy of Attack on Titan",
         "youtube": "1XJhZVmORlM"
       },
       {
+        "author": "Anime Everyday",
+        "title": "The Stylistic Evolution of Anime",
+        "youtube": "dwj2ahYnci4"
+      },
+      {
+        "author": "The Canipa Effect",
+        "title": "The Importance of New Anime Character Designs",
+        "youtube": "rrBH3IYRjaw"
+      },
+      {
         "author": "Movies with Mikey",
         "title": "Prisoner of Azkaban",
         "youtube": "FAGh-_xVFq0"
-      },
-      {
-        "author": "Every Frame a Painting",
-        "title": "Edgar Wright's Visual Comedy",
-        "youtube": "3FOzD4Sfgag"
       }
     ]
   }
