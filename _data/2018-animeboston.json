@@ -222,6 +222,61 @@
       }
     ],
     "description": "Why do we like what we like? In this panel, we discuss the different ways people approach and appreciate anime. Together, we can foster better self-awareness and improve the dialogue!",
+    "recommendations": [
+      {
+        "author": "ThePedanticRomantic",
+        "title": "Koe No Katachi - It's Okay To Feel (A Silent Voice)",
+        "youtube": "atgTsLv1e-A"
+      },
+      {
+        "author": "Super Eyepatch Wolf",
+        "buffer": true,
+        "title": "The Genius of Dragon Ball",
+        "youtube": "jJK7oysHoMw"
+      },
+      {
+        "author": "Mother's Basement",
+        "title": "What's in a Scene? - How SAO Became the Worst Anime Ever",
+        "youtube": "qZ9NlThB3SY"
+      },
+      {
+        "author": "Movies with Mikey",
+        "buffer": true,
+        "title": "Princess Mononoke",
+        "youtube": "rLibXEawkTI"
+      },
+      {
+        "author": "Wisecrack",
+        "title": "Philosophy of Attack on Titan",
+        "youtube": "1XJhZVmORlM"
+      },
+      {
+        "author": "Folding Ideas",
+        "title": "End of Evangelion and the Audience Author Membrane",
+        "youtube": "NAMAwErYRpQ"
+      },
+      {
+        "author": "Folding Ideas",
+        "buffer": true,
+        "title": "End of Evangelion Follow Up",
+        "youtube": "YTAQhgXD75I"
+      },
+      {
+        "author": "Anime Everyday",
+        "title": "The Stylistic Evolution of Anime",
+        "youtube": "dwj2ahYnci4"
+      },
+      {
+        "author": "The Canipa Effect",
+        "title": "The Importance of New Anime Character Designs",
+        "youtube": "rrBH3IYRjaw"
+      },
+      {
+        "author": "Every Frame a Painting",
+        "title": "Wolf Children (2012) - The Lateral Tracking Shot",
+        "youtube": "pdSKot0psNg"
+      }
+    ],
     "resources": [
       {
         "buffer": true,
@@ -242,8 +297,8 @@
         "youtube": "LLNHSrJoqFM?list=PLuPNSyztkHPqV-M4ePSmN_2BLhONu0WLg"
       },
       {
-        "buffer": true,
         "author": "ANNCast",
+        "buffer": true,
         "title": "Kyousougiga (Episode 290)",
         "url": "https://youtu.be/09vYrqz4hZ4?t=1h13m"
       },
@@ -261,61 +316,6 @@
         "author": "RedLetterMedia",
         "title": "Plinkett Review of Star Wars: The Phantom Menace",
         "youtube": "FxKtZmQgxrI?list=PL5919C8DE6F720A2D"
-      }
-    ],
-    "recommendations": [
-      {
-        "author": "ThePedanticRomantic",
-        "title": "Koe No Katachi - It's Okay To Feel (A Silent Voice)",
-        "youtube": "atgTsLv1e-A"
-      },
-      {
-        "buffer": true,
-        "author": "Super Eyepatch Wolf",
-        "title": "The Genius of Dragon Ball",
-        "youtube": "jJK7oysHoMw"
-      },
-      {
-        "author": "Mother's Basement",
-        "title": "What's in a Scene? - How SAO Became the Worst Anime Ever",
-        "youtube": "qZ9NlThB3SY"
-      },
-      {
-        "buffer": true,
-        "author": "Movies with Mikey",
-        "title": "Princess Mononoke",
-        "youtube": "rLibXEawkTI"
-      },
-      {
-        "author": "Wisecrack",
-        "title": "Philosophy of Attack on Titan",
-        "youtube": "1XJhZVmORlM"
-      },
-      {
-        "author": "Folding Ideas",
-        "title": "End of Evangelion and the Audience Author Membrane",
-        "youtube": "NAMAwErYRpQ"
-      },
-      {
-        "buffer": true,
-        "author": "Folding Ideas",
-        "title": "End of Evangelion Follow Up",
-        "youtube": "YTAQhgXD75I"
-      },
-      {
-        "author": "Anime Everyday",
-        "title": "The Stylistic Evolution of Anime",
-        "youtube": "dwj2ahYnci4"
-      },
-      {
-        "author": "The Canipa Effect",
-        "title": "The Importance of New Anime Character Designs",
-        "youtube": "rrBH3IYRjaw"
-      },
-      {
-        "author": "Every Frame a Painting",
-        "title": "Wolf Children (2012) - The Lateral Tracking Shot",
-        "youtube": "pdSKot0psNg"
       }
     ]
   }
