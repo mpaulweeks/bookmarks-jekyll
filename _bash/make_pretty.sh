@@ -1,5 +1,5 @@
 prettify_temp() {
-  python -c "import sys,json;print json.dumps(json.load(sys.stdin),indent=2,separators=(',', ': '),sort_keys=True)"
+  python -c "import sys,json;print(json.dumps(json.load(sys.stdin),indent=2,separators=(',', ': '),sort_keys=True))"
 }
 
 prettify() {
