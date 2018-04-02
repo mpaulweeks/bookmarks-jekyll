@@ -18,6 +18,9 @@ An earlier version of this panel: <a href="/acen-2017/diagnosing-taste/">Anime C
 <div class="manga-header">Panel Description</div>
 <div class="panel-description">{{data.description}}</div>
 
+<div class="manga-header">Preshow</div>
+{% include links.html links=data.preshow %}
+
 <div class="manga-header">Resources</div>
 {% include links.html links=data.resources %}
 

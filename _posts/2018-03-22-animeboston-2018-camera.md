@@ -18,10 +18,11 @@ An earlier version of this panel: <a href="/animenyc-2017/simulated-camera/">Ani
 <div class="manga-header">Panel Description</div>
 <div class="panel-description">{{data.description}}</div>
 
-<div>
-  <br/>
-  <a href="{{data.slides}}" target="_blank">Opening Slides</a>
-</div>
+<div class="manga-header">Preshow</div>
+{% include links.html links=data.preshow %}
+
+<div class="manga-header">Resources</div>
+{% include links.html links=data.resources %}
 
 <div class="manga-header">
   Clips
