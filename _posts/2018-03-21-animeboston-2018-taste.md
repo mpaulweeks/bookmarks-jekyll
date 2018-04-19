@@ -9,7 +9,7 @@ permalink: /animeboston-2018/taste
 descrip: Resources for a panel hosted at Anime Boston 2018
 ---
 
-{% assign data = site.data.2018-animeboston.taste-is-subjective %}
+{% assign data = site.data.convention-2018-animeboston.taste-is-subjective %}
 
 View current schedule and additional info on the <a href="http://www.animeboston.com/coninfo/schedule_panel/2970">Anime Boston website</a>
 

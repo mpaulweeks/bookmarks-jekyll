@@ -9,7 +9,7 @@ permalink: /animenyc-2017/simulated-camera/
 descrip: Resources for a panel hosted at Anime NYC 2017
 ---
 
-{% assign data = site.data.2017-animenyc.simulated-camera %}
+{% assign data = site.data.convention-2017-animenyc.simulated-camera %}
 
 <div class="manga-header">Panel Description</div>
 <div class="panel-description">{{data.description}}</div>

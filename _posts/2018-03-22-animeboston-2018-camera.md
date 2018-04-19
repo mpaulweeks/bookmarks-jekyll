@@ -9,7 +9,7 @@ permalink: /animeboston-2018/camera
 descrip: Resources for a panel hosted at Anime Boston 2018
 ---
 
-{% assign data = site.data.2018-animeboston.simulated-camera %}
+{% assign data = site.data.convention-2018-animeboston.simulated-camera %}
 
 View current schedule and additional info on the <a href="http://www.animeboston.com/coninfo/schedule_panel/2634">Anime Boston website</a>
 
