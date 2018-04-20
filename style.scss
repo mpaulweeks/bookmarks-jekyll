@@ -348,14 +348,17 @@ footer {
   display: none;
   position: absolute;
   right: 0px;
-  top: 0px;
+  top: 50%;
+  transform: translate(0%, -50%);
   width: 300px;
 }
 .manga-img.default {
-  text-align: center;
-  line-height: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
   height: 300px;
-  display: block;
   background-color: #eeeeee;
   border: dotted 2px black;
 }
