@@ -335,6 +335,9 @@ footer {
 
 .manga-list {
   position: relative;
+
+  /* to ensure manga image renders */
+  min-height: 400px;
 }
 .manga-header {
   font-size: 20pt;
