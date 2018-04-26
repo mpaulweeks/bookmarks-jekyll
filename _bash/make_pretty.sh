@@ -3,6 +3,7 @@ prettify_temp() {
 }
 
 prettify() {
+  echo $1
   cp $1 temp.json
   cat temp.json | prettify_temp > $1
   rm temp.json
