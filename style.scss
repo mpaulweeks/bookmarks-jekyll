@@ -409,6 +409,14 @@ a.hover:hover {
   line-height: 2.0;
 }
 
+.img-comment {
+  font-style: italic;
+  color: grey;
+}
+.strike {
+  text-decoration: line-through;
+}
+
 /* mtg */
 .mtg-small img {
   width: 176px;
