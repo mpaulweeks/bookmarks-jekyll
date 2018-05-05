@@ -1,13 +1,11 @@
 ---
-layout: post_mtg
+layout: post_mtg_building
 title: EDH | Building Polymorph
 type: post
 category: mtg
 isLive: true
 permalink: /edh-polymorph
 ---
-
-This is a new / ongoing series where I detail my thought process when building and modifying EDH decks.
 
 Building a deck around <auto-card>Polymorph</auto-card> has always appealed to me. When built correctly, it turns a bad removal spell into <auto-card>Tinker</auto-card>.
 

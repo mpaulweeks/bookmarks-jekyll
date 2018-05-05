@@ -1,5 +1,5 @@
 ---
-layout: post_type4
+layout: post_mtg_type4
 title: Type 4 | Drafting Isn't Worth It
 type: post
 category: mtg

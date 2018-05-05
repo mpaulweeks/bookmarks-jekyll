@@ -1,5 +1,5 @@
 ---
-layout: post_type4
+layout: post_mtg_type4
 title: Type 4 | The Tragedy of Split Second
 type: post
 category: mtg
