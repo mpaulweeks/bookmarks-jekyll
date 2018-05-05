@@ -106,11 +106,10 @@ My first EDH Polymorph deck (not counting the Melek combo mentioned above) did t
 
 <div class="center">
   <auto-card-image>Derevi, Empyrial Tactician</auto-card-image>
+  <div class="img-comment">you just have to convince the table you're not running Winter Orb</div>
 </div>
 
 Derevi gives us the colors for most of the Polymorph spells, as well as some really big threats. He's an always available Polymorph target for 4 mana at instant speed. His passive ability can give our big creatures Vigilance by untapped them after combat. And if our Plan B is to go wide with tokens, he's great for that too.
-
-This is my Derevi list as of April 2018.
 
 <auto-card-list
   preview
@@ -129,7 +128,7 @@ What else is left to say? Well, last year, Polymorph was showing up in online co
 <div class="center">
   <auto-card-image>Baral, Chief of Compliance</auto-card-image>
   <auto-card-image>Emrakul, the Aeons Torn</auto-card-image>
-  <div class="img-comment">Old Emrakul has long been banned in Paper, but was legal at the time on MTGO</div>
+  <div class="img-comment">old Emrakul has long been banned in Paper, but was legal at the time on MTGO</div>
 </div>
 
 You read more about it on <a href="https://www.mtggoldfish.com/articles/instant-deck-tech-baral-polymorph-commander">MTGGoldfish</a>. Slimming your deck down to one creature makes the strategy very consistent, and makes perfect sense when framed as making a bunch of 4-6 mana spells into viable win-cons.
