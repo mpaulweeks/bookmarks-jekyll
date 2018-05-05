@@ -147,6 +147,26 @@ Thus, a match made in heaven:
   <auto-card-image>Jin-Gitaxias, Core Augur</auto-card-image>
 </div>
 
+If you flash out Teferi during the end step before your turn, then untap and immediately Polymorph, your opponent will be unable to prevent it. The only possible answers are activated abilities like <auto-card>Avatar of Woe</auto-card> and <auto-card>Crystal Shard</auto-card>, but you will see those coming a mile away.
+
+Thus, if you are patient and wait until you have a Polymorph in hand and a safe board, you can guarantee cheating out a Jin-Gitaxias and refilling your hand with as little as 5 mana.
+
+Added bonus for the competetive player: Teferi has a built in "one-card combo" with <auto-card>Knowledge Pool</auto-card>. With both of those cards out, your opponents will be unable to play spells from their hand (<a href="https://www.mtgsalvation.com/forums/magic-fundamentals/magic-rulings/magic-rulings-archives/289690-teferi-knowledge-pool">more details here</a>). Teferi has the same effect with <auto-card>Possiblity Storm</auto-card>, but it's out of our colors.
+
+<div class="center">
+  <auto-card-image>Knowledge Pool</auto-card-image>
+  <auto-card-image>Possibility Storm</auto-card-image>
+</div>
+
+Granted, your opponents can still cast their Commanders, and you can still lose to whatever's on the table (note: this happened the first game I resolved the combo). But it's a pretty strong lock, and a convenient win-con for a deck pre-disposed to draw a lot of cards.
+
+<auto-card-list
+  preview
+  name="Tef-Gitaxias"
+  src="decks/20180505_polymorph_teferi.dec"
+></auto-card-list>
+
+You can find the current list on my <a href="https://tappedout.net/mtg-decks/tef-gitaxias/">TappedOut</a>.
 
 ## In Conclusion
 
