@@ -117,8 +117,6 @@ Derevi gives us the colors for most of the Polymorph spells, as well as some rea
 
 You see the cards mentioned above, as well draw, removal, cards that generate lots of tokens, and a few ways to get the big guys out of my hand.
 
-You can find the current list on my <a href="https://tappedout.net/mtg-decks/bant-polymorph-overrun/">TappedOut</a>.
-
 ## The Single Target Route
 
 What else is left to say? Well, last year, Polymorph was showing up in online competetive EDH with the commander Baral. The basic idea is that Baral is cheap enough, and cycles your deck enough, that you get sufficient ahead via control, then end the game by Polymorphing your commander into the only creature in your deck: Emrakul, the Aeons Torn.
@@ -162,8 +160,6 @@ Granted, your opponents can still cast their Commanders, and you can still lose 
   name="Tef-Gitaxias"
   src="decks/20180505_polymorph_teferi.dec"
 ></auto-card-list>
-
-You can find the current list on my <a href="https://tappedout.net/mtg-decks/tef-gitaxias/">TappedOut</a>.
 
 ## In Conclusion
 
