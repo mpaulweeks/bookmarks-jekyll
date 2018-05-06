@@ -8,46 +8,10 @@
     ],
     "manga": [
       {
-        "author": "Jiro Taniguchi",
-        "image": "Distant_Neighborhood.jpg",
-        "mal": 3258,
-        "title": "A Distant Neighborhood"
-      },
-      {
-        "author": "Junji Ito",
-        "image": "Tomie.jpg",
-        "mal": 912,
-        "title": "Tomie"
-      },
-      {
-        "author": "Osamu Tezuka",
-        "image": "Phoenix_v09.jpg",
-        "mal": 1325,
-        "title": "Phoenix - Strange Beings / Life"
-      },
-      {
         "author": "Eifuku & Matsumoto",
         "image": "takemitsu_zamurai.jpg",
         "mal": 15306,
         "title": "Takemitsu Zamurai"
-      },
-      {
-        "author": "Shigeru Mizuki",
-        "image": "noble_deaths.jpg",
-        "mal": 15279,
-        "title": "Onward Towards Our Noble Deaths"
-      },
-      {
-        "author": "Hiroki Endo",
-        "image": "all_rounder_meguru.jpg",
-        "mal": 14090,
-        "title": "All Rounder Meguru"
-      },
-      {
-        "author": "Keiichi Koike",
-        "image": "ultra_heaven.jpg",
-        "mal": 18570,
-        "title": "Ultra Heaven"
       },
       {
         "author": "Fumiyo Kouno",
@@ -56,10 +20,40 @@
         "title": "In this Corner of the World"
       },
       {
+        "author": "Shigeru Mizuki",
+        "image": "noble_deaths.jpg",
+        "mal": 15279,
+        "title": "Onward Towards Our Noble Deaths"
+      },
+      {
         "author": "Fumiyo Kouno",
         "image": "town_of_evening_calm.jpg",
         "mal": 1487,
         "title": "Town of Evening Calm..."
+      },
+      {
+        "author": "Jiro Taniguchi",
+        "image": "Distant_Neighborhood.jpg",
+        "mal": 3258,
+        "title": "A Distant Neighborhood"
+      },
+      {
+        "author": "Hiroki Endo",
+        "image": "all_rounder_meguru.jpg",
+        "mal": 14090,
+        "title": "All Rounder Meguru"
+      },
+      {
+        "author": "Junji Ito",
+        "image": "Tomie.jpg",
+        "mal": 912,
+        "title": "Tomie"
+      },
+      {
+        "author": "Keiichi Koike",
+        "image": "ultra_heaven.jpg",
+        "mal": 18570,
+        "title": "Ultra Heaven"
       },
       {
         "author": "Seiichi Hayashi",
@@ -78,6 +72,12 @@
         "image": "the_box_man.jpg",
         "title": "The Box Man",
         "url": "https://en.wikipedia.org/wiki/The_Box_Man_(manga)"
+      },
+      {
+        "author": "Osamu Tezuka",
+        "image": "Phoenix_v09.jpg",
+        "mal": 1325,
+        "title": "Phoenix: Strange Beings / Life"
       }
     ]
   },
