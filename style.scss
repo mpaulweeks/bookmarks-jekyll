@@ -418,17 +418,6 @@ a.hover:hover {
   text-decoration: line-through;
 }
 
-/* mtg */
-.mtg-small img {
-  width: 176px;
-}
-auto-card-list {
-  background-color: #F0F0F0;
-  border: 2px solid black;
-}
-auto-card-list-body {
-  font-size: 14px;
-}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
