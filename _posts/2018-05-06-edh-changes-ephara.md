@@ -9,7 +9,7 @@ permalink: /2018-05-06-edh-changes-ephara
 
 Highlighting changes to one of my old standards: <auto-card name="Ramosian Captain">Rebels</auto-card> & <auto-card name="Ephara, God of the Polis">Ephara</auto-card>.
 
-<auto-card-list-diff>
+<auto-card-list-diff preview collapse>
   # name Ephara Rebels
   # info May 6, 2018
   # link https://tappedout.net/mtg-decks/counter-rebel-v3/ TappedOut
@@ -29,11 +29,8 @@ Highlighting changes to one of my old standards: <auto-card name="Ramosian Capta
   1x Nimble Obstructionist
   1x Knight of the White Orchid
   1x Hushwing Gryff
-</auto-card-list-diff>
 
-<auto-card-list preview collapse>
-  # name Full List
-
+  # deck
   1x Ephara, God of the Polis *CMDR*
 
   Creature (33)
