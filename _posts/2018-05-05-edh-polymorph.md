@@ -24,11 +24,28 @@ The basic idea is this: you run a deck where the only creatures are expensive an
 
 This way, you guarantee turning a cheap creature into an expensive one! This general strategy has appeared in Standard from <a href="https://mtg.gamepedia.com/Standard_Polymorph_deck">time to time</a>.
 
-<auto-card-list
-  preview
-  name="Polymorph - Tim Sussino - Pro Tour San Diego 2010"
-  src="decks/20180505_polymorph_standard.dec"
-></auto-card-list>
+<auto-card-list preview>
+  # name Polymorph - Tim Sussino
+  # info Pro Tour San Diego 2010
+  # link https://mtg.gamepedia.com/Standard_Polymorph_deck source
+  1x Arid Mesa
+  4x Halimar Depths
+  7x Island
+  1x Misty Rainforest
+  7x Mountain
+  4x Scalding Tarn
+  2x Iona, Shield of Emeria
+  1x Chandra Nalaar
+  4x Dragon Fodder
+  4x Goblin Assault
+  4x Into the Roil
+  3x Jace, the Mind Sculptor
+  4x Lightning Bolt
+  4x Negate
+  3x Polymorph
+  4x Ponder
+  3x Treasure Hunt
+</auto-card-list>
 
 ## Bringing it to EDH
 
@@ -109,11 +126,115 @@ My first EDH Polymorph deck (not counting the Melek combo mentioned above) did t
 
 Derevi gives us the colors for most of the Polymorph spells, as well as some really big threats. He's an always available Polymorph target for 4 mana at instant speed. His passive ability can give our big creatures Vigilance by untapped them after combat. And if our Plan B is to go wide with tokens, he's great for that too.
 
-<auto-card-list
-  preview
-  name="Bant Polymorph Overrun"
-  src="decks/20180505_polymorph_derevi.dec"
-></auto-card-list>
+<auto-card-list preview>
+  # name Bant Polymorph Overrun
+  # info May 2018
+  # link https://tappedout.net/mtg-decks/bant-polymorph-overrun/ TappedOut
+
+  1x Derevi, Empyrial Tactician *CMDR*
+
+  Sorcery (30)
+  1x AEther Mutation
+  1x Akroma's Vengeance
+  1x Bring to Light
+  1x Cultivate
+  1x Cultural Exchange
+  1x Ezuri's Predation
+  1x Grow from the Ashes
+  1x Growth Spasm
+  1x Hallowed Burial
+  1x Hymn of Rebirth
+  1x Legerdemain
+  1x Martial Coup
+  1x Mass Polymorph
+  1x Natural Order
+  1x Polymorph
+  1x Rampant Growth
+  1x Recross the Paths
+  1x Recurring Insight
+  1x Regrowth
+  1x Rite of Replication
+  1x Saheeli's Artistry
+  1x Seeds of Renewal
+  1x Selvala's Stampede
+  1x Shifting Loyalties
+  1x Spelltwine
+  1x Stolen Identity
+  1x Switcheroo
+  1x Terminus
+  1x Tidings
+  1x Wildest Dreams
+
+  Planeswalker (1)
+  1x Jace, the Mind Sculptor
+
+  Land (38)
+  1x Arcane Lighthouse
+  1x Azorius Chancery
+  1x Blighted Woodland
+  1x Command Tower
+  1x Endless Sands
+  1x Evolving Wilds
+  1x Exotic Orchard
+  1x Flooded Grove
+  5x Forest
+  1x Homeward Path
+  5x Island
+  1x Khalni Garden
+  1x Krosan Verge
+  1x Myriad Landscape
+  1x Mystic Gate
+  4x Plains
+  1x Rogue's Passage
+  1x Seaside Citadel
+  1x Selesnya Sanctuary
+  1x Simic Growth Chamber
+  1x Spawning Bed
+  1x Sunpetal Grove
+  1x Temple of Mystery
+  1x Terramorphic Expanse
+  1x Vivid Creek
+  1x Vivid Grove
+  1x Wooded Bastion
+
+  Artifact (6)
+  1x Conjurer's Bauble
+  1x Lightning Greaves
+  1x Proteus Staff
+  1x Skullclamp
+  1x Swiftfoot Boots
+  1x Trading Post
+
+  Instant (9)
+  1x Aura Mutation
+  1x Entrapment Maneuver
+  1x Fact or Fiction
+  1x Frantic Search
+  1x Harrow
+  1x Mercy Killing
+  1x Reweave
+  1x Supplant Form
+  1x Synthetic Destiny
+
+  Creature (9)
+  1x Avacyn, Angel of Hope
+  1x Blazing Archon
+  1x Emrakul, the Promised End
+  1x Kozilek, the Great Distortion
+  1x Serra Avatar
+  1x Terastodon
+  1x Trench Gorger
+  1x Ulamog, the Ceaseless Hunger
+  1x Worldspine Wurm
+
+  Enchantment (6)
+  1x Aura Shards
+  1x Awakening Zone
+  1x Finest Hour
+  1x From Beyond
+  1x Greater Good
+  1x Oath of Druids
+</auto-card-list>
 
 You see the cards mentioned above, as well draw, removal, cards that generate lots of tokens, and a few ways to get the big guys out of my hand.
 
@@ -155,11 +276,92 @@ Added bonus for the competetive player: Teferi has a built in "one-card combo" w
 
 Granted, your opponents can still cast their Commanders, and you can still lose to whatever's on the table (note: this happened the first game I resolved the combo). But it's a pretty strong lock, and a convenient win-con for a deck pre-disposed to draw a lot of cards.
 
-<auto-card-list
-  preview
-  name="Tef-Gitaxias"
-  src="decks/20180505_polymorph_teferi.dec"
-></auto-card-list>
+<auto-card-list preview>
+  # name Tef-Gitaxias
+  # info May 2018
+  # link https://tappedout.net/mtg-decks/tef-gitaxias/ TappedOut
+
+  1x Teferi, Mage of Zhalfir *CMDR*
+
+  Instant (26)
+  1x AEtherize
+  1x AEtherspouts
+  1x Arcane Denial
+  1x Commit / Memory
+  1x Counterspell
+  1x Cyclonic Rift
+  1x Disdainful Stroke
+  1x Engulf the Shore
+  1x Evacuation
+  1x Fact or Fiction
+  1x Foil
+  1x Frantic Search
+  1x High Tide
+  1x Keep Watch
+  1x Misdirection
+  1x Opportunity
+  1x Pongify
+  1x Quicken
+  1x Rapid Hybridization
+  1x Reality Shift
+  1x Reweave
+  1x Snap
+  1x Snapback
+  1x Swan Song
+  1x Synthetic Destiny
+  1x Whir of Invention
+
+  Sorcery (15)
+  1x Aether Gale
+  1x Coastal Breach
+  1x Crush of Tentacles
+  1x Devastation Tide
+  1x Displacement Wave
+  1x Energy Tap
+  1x Fabricate
+  1x Mass Polymorph
+  1x Merchant Scroll
+  1x Polymorph
+  1x Spelltwine
+  1x Temporal Cascade
+  1x Time Reversal
+  1x Whelming Wave
+  1x Windfall
+
+  Enchantment (6)
+  1x Frozen AEther
+  1x Imprisoned in the Moon
+  1x Omniscience
+  1x Overburden
+  1x Pendrell Mists
+  1x Propaganda
+
+  Planeswalker (1)
+  1x Tezzeret the Seeker
+
+  Creature (1)
+  1x Jin-Gitaxias, Core Augur
+
+  Artifact (10)
+  1x Caged Sun
+  1x Elixir of Immortality
+  1x Extraplanar Lens
+  1x Gauntlet of Power
+  1x Knowledge Pool
+  1x Nevinyrral's Disk
+  1x Perilous Vault
+  1x Proteus Staff
+  1x Strata Scythe
+  1x Torpor Orb
+
+  Land (40)
+  1x Coral Atoll
+  35x Island
+  1x Magosi, the Waterveil
+  1x Reliquary Tower
+  1x Rogue's Passage
+  1x Temple of the False God
+</auto-card-list>
 
 ## In Conclusion
 
