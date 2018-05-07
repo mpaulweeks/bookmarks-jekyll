@@ -9,7 +9,7 @@ permalink: /2018-05-06-edh-changes-ephara
 
 Highlighting changes to one of my old standards: <auto-card name="Ramosian Captain">Rebels</auto-card> & <auto-card name="Ephara, God of the Polis">Ephara</auto-card>.
 
-<auto-card-list-diff preview collapse>
+<auto-card-list preview collapse>
   # name Ephara Rebels
   # info May 6, 2018
   # link https://tappedout.net/mtg-decks/counter-rebel-v3/ TappedOut
@@ -120,6 +120,8 @@ Highlighting changes to one of my old standards: <auto-card name="Ramosian Capta
   1x Lightning Greaves
   1x Thousand-Year Elixir
 </auto-card-list>
+
+# Breakdown
 
 The lands swaps were just upgrades. Pretty straightforward.
 
