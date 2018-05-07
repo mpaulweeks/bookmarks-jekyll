@@ -27,7 +27,6 @@ This way, you guarantee turning a cheap creature into an expensive one! This gen
 <auto-card-list preview>
   # name Polymorph - Tim Sussino
   # info Pro Tour San Diego 2010
-  # link https://mtg.gamepedia.com/Standard_Polymorph_deck source
   1x Arid Mesa
   4x Halimar Depths
   7x Island
@@ -49,9 +48,9 @@ This way, you guarantee turning a cheap creature into an expensive one! This gen
 
 ## Bringing it to EDH
 
-When I'm trying to bring a "combo" strategy to EDH, my number one priority is redundancy. You need to line up two effects, in this case Polymorph and a "creature". This can be difficult in a 100 card, singleton format.
+When I'm trying to bring a "combo" strategy to EDH, my number one priority is redundancy. You need to line up two effects, in this case a Polymorph spell and a "creature". This can be difficult in a 100 card, singleton format.
 
-In other decks, I often use the Commander as a reliable source of one of those effect. In my MaroSpeaker deck, I need two things: "hand-size matters" creatures + draw spells that check power. Together, they double my hand size! Given the larger number of <auto-card>Maro</auto-card> cards printed vs just a few <auto-card>Soul's Majesty</auto-card> clones, it makes sense to rely on <auto-card>Prime Speaker Zegana</auto-card>.
+In other decks, I often use the Commander as a reliable and repeatedable combo piece. In my <a href="https://tappedout.net/mtg-decks/maro-speaker-v3/">Maro Speaker</a> deck, I need two things: "hand-size matters" creatures + draw spells that check power. Together, they double my hand size! Given the larger number of <auto-card>Maro</auto-card> cards printed vs just a few <auto-card>Soul's Majesty</auto-card> clones, it makes sense to rely on <auto-card>Prime Speaker Zegana</auto-card>.
 
 <div class="center">
   <auto-card-image>Prime Speaker Zegana</auto-card-image>
@@ -67,12 +66,12 @@ Okay, so what Commander can give us a reliable Polymorph? Why <auto-card name="J
 Except no, she's awful. Jalira has a ton of problems:
 
 1. She restricts you to mono blue
-2. Token options aren't great in mono blue, so you have to work harder to get stuff to Polymorph
-3. She can never cheat in Legendary Creatures, which represent a lot of the big bombs
-4. Unlike an ETB effect, Jalira is not a guaranteed Polymorph, so your hoping she'll survive until the next turn. Solving this would require Haste, which is hard to get in mono blue
-5. She's expensive. Polymorph effects costs between 4-6 mana, but she's a minimum of 7 (to play and activate), and will only get more expensive
+2. Token options aren't great in mono blue, so you have to work harder to get "creatures" to Polymorph
+3. She can never cheat in Legendary Creatures, which removes a lot of the best bombs
+4. She's expensive. Polymorph effects costs between 4-6 mana, but she's a minimum of 7 (to play and activate), and will only get more expensive
+5. Unlike <auto-card name="Prime Speaker Zegana">Zegana</auto-card>'s ETB effect, Jalira is not a guaranteed Polymorph. She needs to survive until the next turn. That or you give her Haste, but there's only so many ways in mono blue, and now you have to spend 7+ mana all at once
 
-We need to flip our assumption. Rather than using the Commander for a reliable Polymorph, what if instead it was a reliable target?
+We need to flip our assumption. Rather than using our Commander for a reliable Polymorph, what if instead it was a reliable target?
 
 ## Polymorph Redundancy
 
@@ -86,7 +85,9 @@ First we need to make sure we can reliable get a Polymorph effect out of the 99.
   <auto-card-image>Proteus Staff</auto-card-image>
 </div>
 
-Fun little note: if you activate Proteus Staff and there are no creatues left in your deck, it will put the target on the bottom, flip the whole deck, and put in back in play. But then, because you "put the rest on the bottom in any order" instead of shuffling, you can stack your entire deck. This can lead to <a href="https://tappedout.net/mtg-decks/melek-madiq/">instantly game winning combos</a> with <auto-card>Melek, Izzet Paragon</auto-card>.
+<div class="img-comment">
+  Fun little note: if you activate Proteus Staff and there are no creatues left in your deck, it will put the target on the bottom, flip the whole deck, and put in back in play. But then, because you "put the rest on the bottom in any order" instead of shuffling, you can stack your entire deck. This can lead to <a href="https://tappedout.net/mtg-decks/melek-madiq/">instantly game winning combos</a> with <auto-card>Melek, Izzet Paragon</auto-card>.
+</div>
 
 If we add Green, we gain access to a few "flip untip you hit a creature" spells, which are basically Polymorph with fewer steps!
 
@@ -124,7 +125,7 @@ My first EDH Polymorph deck (not counting the Melek combo mentioned above) did t
   <div class="img-comment">you just have to convince the table you're not running Winter Orb</div>
 </div>
 
-Derevi gives us the colors for most of the Polymorph spells, as well as some really big threats. He's an always available Polymorph target for 4 mana at instant speed. His passive ability can give our big creatures Vigilance by untapped them after combat. And if our Plan B is to go wide with tokens, he's great for that too.
+Derevi gives us the colors for most of the Polymorph spells, as well as some really big threats. He's gives us a reliable Polymorph target for only 4 mana at instant speed (even less if you untap a land). His passive ability can give our big creatures Vigilance by untapped them after combat. And if our Plan B is to go wide with tokens, he's great for that too.
 
 <auto-card-list preview>
   # name Bant Polymorph Overrun
@@ -236,11 +237,11 @@ Derevi gives us the colors for most of the Polymorph spells, as well as some rea
   1x Oath of Druids
 </auto-card-list>
 
-You see the cards mentioned above, as well draw, removal, cards that generate lots of tokens, and a few ways to get the big guys out of my hand.
+You can see the Polymorph cards mentioned above, as well draw, removal, tokens generators, and a few ways to get the big guys out of my hand.
 
 ## The Single Target Route
 
-What else is left to say? Well, last year, Polymorph was showing up in online competetive EDH with the commander Baral. The basic idea is that Baral is cheap enough, and cycles your deck enough, that you get sufficient ahead via control, then end the game by Polymorphing your commander into the only creature in your deck: Emrakul, the Aeons Torn.
+What else is left to say? Well, last year, Polymorph was showing up in online competetive EDH with the commander Baral. The basic idea is that you play control, and then after you've cycled enough of your deck, end the game by Polymorphing your commander into the only creature in your deck: Emrakul, the Aeons Torn.
 
 <div class="center">
   <auto-card-image>Baral, Chief of Compliance</auto-card-image>
@@ -248,7 +249,7 @@ What else is left to say? Well, last year, Polymorph was showing up in online co
   <div class="img-comment">old Emrakul has long been banned in Paper, but was legal at the time on MTGO</div>
 </div>
 
-You read more about it on <a href="https://www.mtggoldfish.com/articles/instant-deck-tech-baral-polymorph-commander">MTGGoldfish</a>. Slimming your deck down to one creature makes the strategy very consistent, and makes perfect sense when framed as making a bunch of 4-6 mana spells into viable win-cons.
+Baral is cheap, synergizes with the spell-heavy control strategy, and helps cycles your deck. You can read more about it on <a href="https://www.mtggoldfish.com/articles/instant-deck-tech-baral-polymorph-commander">MTGGoldfish</a>. Slimming your deck down to one creature makes the strategy very consistent, and serves as an interesting twist to the Combo/Control archetype by turning a 4 mana sorcery into a solid "combo" win condition.
 
 ## Enter Teferi
 
@@ -263,9 +264,9 @@ Thus, a match made in heaven:
   <auto-card-image>Jin-Gitaxias, Core Augur</auto-card-image>
 </div>
 
-If you flash out Teferi during the end step before your turn, then untap and immediately Polymorph, your opponent will be unable to prevent it. The only possible answers are activated abilities like <auto-card>Avatar of Woe</auto-card> and <auto-card>Crystal Shard</auto-card>, but you will see those coming a mile away.
+If you flash out Teferi during the end step before your turn, then untap and immediately Polymorph, your opponents will be unable to prevent it. The only possible answers are activated abilities like <auto-card>Avatar of Woe</auto-card> and <auto-card>Crystal Shard</auto-card>, but you see those coming a mile away.
 
-Thus, if you are patient and wait until you have a Polymorph in hand and a safe board, you can guarantee cheating out a Jin-Gitaxias and refilling your hand with as little as 5 mana.
+Thus, if you are patient and wait until you have a Polymorph in hand and a safe board, you can guarantee cheating out a Jin-Gitaxias and refilling your hand with as little as 5 lands.
 
 Added bonus for the competetive player: Teferi has a built in "one-card combo" with <auto-card>Knowledge Pool</auto-card>. With both of those cards out, your opponents will be unable to play spells from their hand (<a href="https://www.mtgsalvation.com/forums/magic-fundamentals/magic-rulings/magic-rulings-archives/289690-teferi-knowledge-pool">more details here</a>). Teferi has the same effect with <auto-card>Possiblity Storm</auto-card>, but it's out of our colors.
 
@@ -274,7 +275,7 @@ Added bonus for the competetive player: Teferi has a built in "one-card combo" w
   <auto-card-image>Possibility Storm</auto-card-image>
 </div>
 
-Granted, your opponents can still cast their Commanders, and you can still lose to whatever's on the table (note: this happened the first game I resolved the combo). But it's a pretty strong lock, and a convenient win-con for a deck pre-disposed to draw a lot of cards.
+Granted, your opponents can still cast their Commanders, and you can still lose to whatever's on the table (note: this happened the first game I resolved the combo). But it's a pretty strong lock, and a convenient "win-con" for a deck pre-disposed to draw a lot of cards.
 
 <auto-card-list preview>
   # name Tef-Gitaxias
@@ -365,6 +366,6 @@ Granted, your opponents can still cast their Commanders, and you can still lose 
 
 ## In Conclusion
 
-My point to all this is that even if you have a simple strategy, like Polymorph plus little guy equals big guy, there are a lot of ways to approach it when building an EDH deck.
+My point to all this is that even if you have a simple strategy, like "Polymorph plus little guy equals big guy", there are a lot of ways to approach it when building an EDH deck.
 
 Until next time, happy brewing!
