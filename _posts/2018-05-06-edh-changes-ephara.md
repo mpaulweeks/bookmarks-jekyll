@@ -7,6 +7,8 @@ isLive: true
 permalink: /2018-05-06-edh-changes-ephara
 ---
 
+Changes to one of my old standards: <auto-card name="Ramosian Captain">Rebels</auto-card> + <auto-card name="Ephara, God of the Polis">Ephara</auto-card>.
+
 <auto-card-list-diff>
   # name Ephara Rebels
   # info May 6, 2018
