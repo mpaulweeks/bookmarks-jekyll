@@ -3,21 +3,14 @@ layout: post_mtg_building
 title: EDH | Changes - Ephara
 type: post
 category: mtg
-isLive: false
+isLive: true
 permalink: /2018-05-06-edh-changes-ephara
 ---
-
-<style>
-  .changes {
-    font-size: 18px;
-    font-weight: bold;
-    font-style: italic;
-  }
-</style>
 
 <auto-card-list-diff>
   # name Ephara Rebels
   # info May 6, 2018
+  # link https://tappedout.net/mtg-decks/counter-rebel-v3/ TappedOut
 
   # cuts
   1x Coastal Tower
@@ -35,8 +28,6 @@ permalink: /2018-05-06-edh-changes-ephara
   1x Knight of the White Orchid
   1x Hushwing Gryff
 </auto-card-list-diff>
-
-## Swaps
 
 The lands swaps were just upgrades. Pretty straightforward.
 
@@ -103,9 +94,10 @@ Hushwing is an experiment. At the risk of turning off <auto-card>Saltskitter</au
   <li><auto-card>Kiki-Jiki, Mirror Breaker</auto-card> (stops most of the combos)</li>
   <li><auto-card>Prime Speaker Zegana</auto-card></li>
   <li><auto-card>Bane of Progress</auto-card></li>
+  <li><auto-card>Sepulchral Primordial</auto-card></li>
 </ul>
 
-The list goes on. <auto-card>Torpor Orb</auto-card> and it's ilk are prison staples, and can singlehandedly ruin entire decks (rip <auto-card name="Jeleva, Nephalia's Scourge">Jeleva</auto-card>). But whereas Torpor Orb just forces players to hold those cards until it's safe, Hushwing can flash out and catch them in the act, after they've committed the mana!
+The list goes on. <auto-card>Torpor Orb</auto-card> is a prison standard, and can singlehandedly ruin entire decks (rip <auto-card name="Jeleva, Nephalia's Scourge">Jeleva</auto-card>). But whereas Torpor Orb just forces players to hold those cards until it's safe, Hushwing can flash out and catch them in the act, after they've committed the mana!
 
 Note: Ephara triggers on upkeep, so the deck's primary engine is unaffected.
 
@@ -122,6 +114,7 @@ Note: Ephara triggers on upkeep, so the deck's primary engine is unaffected.
 
 <div class="center mtg-small">
   <auto-card-image>Oreskos Explorer</auto-card-image>
+  <auto-card-image>Stormscape Familiar</auto-card-image>
   <auto-card-image>Cataclysm</auto-card-image>
   <auto-card-image>Approach of the Second Sun</auto-card-image>
 </div>
