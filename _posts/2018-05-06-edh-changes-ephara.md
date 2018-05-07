@@ -7,7 +7,7 @@ isLive: true
 permalink: /2018-05-06-edh-changes-ephara
 ---
 
-Changes to one of my old standards: <auto-card name="Ramosian Captain">Rebels</auto-card> + <auto-card name="Ephara, God of the Polis">Ephara</auto-card>.
+Highlighting changes to one of my old standards: <auto-card name="Ramosian Captain">Rebels</auto-card> & <auto-card name="Ephara, God of the Polis">Ephara</auto-card>.
 
 <auto-card-list-diff>
   # name Ephara Rebels
@@ -30,6 +30,99 @@ Changes to one of my old standards: <auto-card name="Ramosian Captain">Rebels</a
   1x Knight of the White Orchid
   1x Hushwing Gryff
 </auto-card-list-diff>
+
+<auto-card-list preview collapse>
+  # name Full List
+
+  1x Ephara, God of the Polis *CMDR*
+
+  Creature (33)
+  1x Amrou Scout
+  1x Apprentice Wizard
+  1x Aven Mindcensor
+  1x Children of Korlis
+  1x Defiant Falcon
+  1x Defiant Vanguard
+  1x Devout Witness
+  1x Gold Myr
+  1x Hedron Crawler
+  1x Hushwing Gryff
+  1x Intrepid Hero
+  1x Jazal Goldmane
+  1x Knight of the White Orchid
+  1x Lawbringer
+  1x Lin Sivvi, Defiant Hero
+  1x Magus of the Future
+  1x Manakin
+  1x Mirror Entity
+  1x Nimble Obstructionist
+  1x Palladium Myr
+  1x Plague Myr
+  1x Ramosian Captain
+  1x Ramosian Lieutenant
+  1x Ramosian Sergeant
+  1x Saltskitter
+  1x Sea Scryer
+  1x Silver Myr
+  1x Stonecloaker
+  1x Stronghold Machinist
+  1x Walking Atlas
+  1x Waterfront Bouncer
+  1x Whipcorder
+  1x Whitemane Lion
+
+  Instant (16)
+  1x Arcane Denial
+  1x Artificial Evolution
+  1x Counterspell
+  1x Disdainful Stroke
+  1x Eerie Interlude
+  1x Foil
+  1x Ghostway
+  1x Path to Exile
+  1x Pongify
+  1x Rapid Hybridization
+  1x Reality Shift
+  1x Rewind
+  1x Snap
+  1x Swan Song
+  1x Swords to Plowshares
+  1x Unwind
+
+  Enchantment (6)
+  1x Authority of the Consuls
+  1x Bound in Silence
+  1x Future Sight
+  1x Propaganda
+  1x Temporal Isolation
+  1x Training Grounds
+
+  Sorcery (3)
+  1x Austere Command
+  1x Dusk / Dawn
+  1x Retribution of the Meek
+
+  Land (37)
+  1x Azorius Chancery
+  1x Glacial Fortress
+  1x Halimar Depths
+  13x Island
+  1x Mistveil Plains
+  1x Myriad Landscape
+  1x Nimbus Maze
+  13x Plains
+  1x Prairie Stream
+  1x Reliquary Tower
+  1x Sejiri Refuge
+  1x Temple of the False God
+  1x Tranquil Cove
+
+  Artifact (4)
+  1x Aligned Hedron Network
+  1x Empyrial Plate
+  1x Lightning Greaves
+  1x Thousand-Year Elixir
+</auto-card-list>
 
 The lands swaps were just upgrades. Pretty straightforward.
 
