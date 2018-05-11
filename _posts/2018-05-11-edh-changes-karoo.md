@@ -183,15 +183,15 @@ After taking complete control of the game and drawing my entire deck in one turn
 
 Piloting the deck, and seeing essentially the best possible game, I realized three core problems:
 
-1. No win condition. I thought I had something, like a <auto-card>Psychosis Crawler</auto-card> to combo with the <auto-card>Tatyova, Benthic Druid</auto-card> / <auto-card>Retreat to Coralhelm</auto-card> /  but after drawing my whole deck and generating ~40 mana, the best/worst I could do was cast <auto-card>Windfall</auto-card> with my giant hand to murder-suicide another player
+1. No win condition. I thought I had something, like a <auto-card>Psychosis Crawler</auto-card> to combo with the <auto-card>Tatyova, Benthic Druid</auto-card>, but after drawing my whole deck and generating 40+ mana, the best/worst I could do was cast <auto-card>Windfall</auto-card> with my giant hand to murder-suicide another player
 2. Really long solitaire turns. I'm going to blame this on the "untappers", which really complicated the mana math. Even though they're clearly good for my deck, I'm looking to remove them + similar cards to reduce the amount of play decisions
 3. Mana flood. Early on, I accomplished a nice one-sided lockout by casting <auto-card>Cyclonic Rift</auto-card> and <auto-card>Sunder</auto-card> in the same turn. As hoped, I was able to dump my lands back in quickly, only to discover that I had literally no other plays for about 5 turns. I nearly killed one player with Jodah, but we should be able to do better
 
-All of my changes seek to fix these problems. The solutions are:
+All of my changes seek to fix these problems. The broad strokes, the solutions are:
 
-1. Swap Jodah for efficient win condition that is <auto-card>Progenitus</auto-card>
-2. Remove all untappers and tutors (except for two cards that I'll expand upon below)
-3. Add all the wheels and/or big draw. These allow me to dump my lands and refill as fast as possible
+1. Swap Jodah for the efficient win condition known as <auto-card>Progenitus</auto-card>
+2. Remove all untappers and tutors (except for one card that I'll explain below)
+3. Add all the wheels and any big draw spells to make sure I don't flood out
 
 ## Cutting the Untappers
 
@@ -203,7 +203,9 @@ All of my changes seek to fix these problems. The solutions are:
   <auto-card-image>Garruk Wildspeaker</auto-card-image>
 </div>
 
-These cards are strong, no doubt. But they inevitably create longer turns and mana math, and their impact besides ramping is either minor or not in line with the deck's strategy. They are also the only way for my deck to generate net positive mana the turn they're cast, versus <auto-card>Exploration</auto-card>-type cards that are usually an investment and at best break even. By removing, I will more reliably have finite mana and actually end my god damn turn.
+These cards are strong, no doubt. But they inevitably create longer turns and mana math, and their impact besides ramping is either minor or not in line with the deck's strategy (except of course <auto-card>Time Spiral</auto-card>, but I'm trying to take a hard line here).
+
+They are also the only way for my deck to generate net positive mana the turn they're cast, versus <auto-card>Exploration</auto-card>-type cards that are usually an investment and at best break even. By removing them, I will more reliably have finite mana and actually end my god damn turn.
 
 ## Cutting the One-Shot Explorations
 
@@ -212,9 +214,7 @@ These cards are strong, no doubt. But they inevitably create longer turns and ma
   <auto-card-image>Broken Bond</auto-card-image>
 </div>
 
-With the addition of <auto-card>Wayward Swordtooth</auto-card>, I'm at 14 land acceleration cards. I don't think I need these.
-
-<auto-card>Summer Bloom</auto-card> has the same "net-positive mana" problem I was trying to avoid above and <auto-card>Broken Bond</auto-card> is too low impact to justify when I don't need the land ramp.
+With the addition of <auto-card>Wayward Swordtooth</auto-card>, I'm at 14 land acceleration cards. I don't think I need these. <auto-card>Summer Bloom</auto-card> has the same "net-positive mana" problem I was trying to avoid above and <auto-card>Broken Bond</auto-card> is too low impact to justify when I don't need the land ramp.
 
 ## Adding more Wheels / Big Draw
 
@@ -229,7 +229,7 @@ With the addition of <auto-card>Wayward Swordtooth</auto-card>, I'm at 14 land a
 
 Pretty straightforward. I dump my lands, use the aggresive ramping to dump my hand, then wheel. Keep going until I can remove everyone's board + resolve <auto-card>Progenitus</auto-card> in one turn.
 
-I was originally shy towards wheels that reshuffled my graveyard, considering how my graveyard land recursion I run. But the recursion is good enough with a single fetch, and it's nice to be able to recover a discarded combo piece.
+I was originally shy towards wheels that reshuffled my graveyard, considering how much graveyard land recursion I run. But a card like <auto-card>Crucible of Worlds</auto-card> is good enough with a single fetch.
 
 <div class="center">
   <auto-card-image>Recurring Insight</auto-card-image>
@@ -237,11 +237,9 @@ I was originally shy towards wheels that reshuffled my graveyard, considering ho
   <auto-card-image>Notion Thief</auto-card-image>
 </div>
 
-<auto-card>Recurring Insight</auto-card> isn't a wheel, but it's most efficient "big draw" spell, and I can assume my opponents have healthy hands given how many other wheels I run.
+There are only so many wheels. <auto-card>Recurring Insight</auto-card> isn't a wheel, but it's most efficient "big draw" spell, and I can assume my opponents have healthy hands given how many other wheels I run. <auto-card>Knowledge Exploitation</auto-card> is essentially another wheel, since at least one person in my playgroup is usually running either <auto-card>Wheel of Fortune</auto-card> or <auto-card>Windfall</auto-card>.
 
-<auto-card>Knowledge Exploitation</auto-card> is essentially another wheel, since at least one person in my playgroup is usually running either <auto-card>Wheel of Fortune</auto-card> or <auto-card>Windfall</auto-card>.
-
-<auto-card>Notion Thief</auto-card> is just too tempting with all these wheels going around.
+Lastly, <auto-card>Notion Thief</auto-card> is just too tempting with all these wheels going around.
 
 ## Cutting the Tutors
 
@@ -262,7 +260,7 @@ Note: I am keeping <auto-card>Bring to Light</auto-card>, but only because I vie
   <auto-card-image>Painful Truths</auto-card-image>
 </div>
 
-These are just outclasses by the wheels.
+These are just outclasses by the wheels. <auto-card>Painful Truths</auto-card> is especially mediocre without <auto-card name="Jodah, Archmage Eternal">Jodah</auto-card>.
 
 ## Adding Mass Bounce
 
@@ -274,9 +272,9 @@ These are just outclasses by the wheels.
   <auto-card-image>Crush of Tentacles</auto-card-image>
 </div>
 
-The most reliable way to reset the bounce is will mass bounce. It hits everything but lands, whereas even cards like <auto-card>Hour of Devastation</auto-card> fail to answer <auto-card>Darksteel Ingot</auto-card> or <auto-card>Purphoros, God of the Forge</auto-card>.
+The most reliable way to reset the board is mass bounce. It hits everything but lands, whereas even cards like <auto-card>Planar Cleansing</auto-card> fail to answer <auto-card>Darksteel Ingot</auto-card> or <auto-card>Purphoros, God of the Forge</auto-card>.
 
-My few permanents are cheap Exploration effects, easy to replay. The bounce also becomes permanent "removal" when I can line them up with a wheel.
+My few permanents that would get bounces are cheap Exploration effects, and are quick to replay. Mass bounce also becomes permanent "removal" when I can line it up with a wheel.
 
 ## Cutting the Old Removal
 
@@ -289,7 +287,7 @@ My few permanents are cheap Exploration effects, easy to replay. The bounce also
   <auto-card-image>Merciless Eviction</auto-card-image>
 </div>
 
-These just cost more and do less than mass bounce effects. Remember, I'm no longer getting the discount from <auto-card name="Jodah, Archmage Eternal">Jodah</auto-card>.
+These just cost more and/or do less than mass bounce effects. Remember, I'm no longer getting the discount from <auto-card name="Jodah, Archmage Eternal">Jodah</auto-card>.
 
 ## Cutting Dead Weight
 
@@ -301,7 +299,7 @@ These just cost more and do less than mass bounce effects. Remember, I'm no long
 
 If this deck is as oppressive as I think it is, I really don't need to bother with <auto-card>Fog</auto-card> effects, regardless of how good they are.
 
-I was excited about the other two, but I just ramp out way more lands than I imagined. I reset too often for <auto-card>Natural Balance</auto-card> to reliably hurt my opponents, and I get so many lands in play that <auto-card>Balancing Act</auto-card> hurts me the most.
+I was excited about the other two in my previous article, but I just ramp out way more lands than I expected. I reset too often for <auto-card>Natural Balance</auto-card> to reliably hurt my opponents, and I get so many lands in play that <auto-card>Balancing Act</auto-card> hurts me the most.
 
 ## Add More Land Destruction
 
@@ -317,7 +315,7 @@ Now that my game plan is explicitly "reset + threat", it's good to have more of 
   <auto-card-image>Sylvan Awakening</auto-card-image>
 </div>
 
-Given that I have more land destruction, why not try to make it completely on-sided? These are an experiment, and both potential cuts if it doesn't line up and/or isn't necessary.
+Given that I have more land destruction, why not try to make it completely one-sided? These are an experiment, and will be quick cuts if they don't line up or feel too win-more.
 
 ## Add More Win Cons
 
@@ -326,12 +324,20 @@ Given that I have more land destruction, why not try to make it completely on-si
   <auto-card-image>Rampaging Baloths</auto-card-image>
 </div>
 
-I'm quite happy with my Progenitus plan, but just in case, I added these two guys to potentially end the game in one turn.
+I'm quite happy with my Progenitus plan, but just in case, I added these two cards to potentially end the game in one turn.
 
 With just one bounce land still in hand, <auto-card>Rampaging Baloths</auto-card> gets a 4/4 for each land drop I have (the bounce land bounces itself). Last game, that got up to around 8. And like <auto-card>Tatyova, Benthic Druid</auto-card>, it goes infinite with <auto-card>Retreat to Coralhelm</auto-card> + <auto-card>Sakura-Tribe Scout</auto-card> (or it's many functional reprints)
 
+## Other Thoughts
+
+You may think <auto-card>Jokulhaups</auto-card> and <auto-card>Obliterate</auto-card> are obvious includeds, but I'm not thrilled about hard resets that miss enchantments and planeswalkers. Should I struggle to rebuild my mana, something as common as <auto-card>Ghostly Prison</auto-card> can stop my win-cons completely.
+
+I plan to replace <auto-card>Rampaging Baloths</auto-card> with <auto-card>Omnath, Locus of Rage</auto-card> (or maybe run both) as soon as I get my hands on a copy of the latter.
+
 # Conclusion
 
-I'm excited about the changes I've made, but there's also a strong worry that I've just made a degenerate, uninteractive, monster of a deck. At least now, the games should be mercifully shorter!
+I'm excited about the changes I've made, but I'm also very worried that I've made a degenerate, uninteractive, and too-villanous deck. We'll see.
+
+That said, at least now the games should be mercifully shorter!
 
 Until next time, happy brewing!
