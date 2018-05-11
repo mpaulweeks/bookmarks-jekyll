@@ -1,0 +1,14 @@
+---
+layout: default
+title: Posts
+permalink: /mtg/
+---
+
+<div class="center">
+  <h1>Magic: the Gathering</h1>
+  <div>
+    short essays about Magic: the Gathering
+  </div>
+</div>
+{% assign posts_mtg = site.posts | where: "category", "mtg" %}
+{% include posts.html posts=posts_mtg %}
