@@ -334,7 +334,7 @@ You may think <auto-card>Jokulhaups</auto-card> and <auto-card>Obliterate</auto-
 
 I plan to replace <auto-card>Rampaging Baloths</auto-card> with <auto-card>Omnath, Locus of Rage</auto-card> (or maybe run both) as soon as I get my hands on a copy of the latter.
 
-## Conclusion
+## In Conclusion
 
 I'm excited about the changes I've made, but I'm also very worried that I've made a degenerate, uninteractive, and too-villanous deck. We'll see.
 
