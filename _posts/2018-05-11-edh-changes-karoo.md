@@ -330,7 +330,7 @@ With just one bounce land still in hand, <auto-card>Rampaging Baloths</auto-card
 
 ## Other Thoughts
 
-You may think <auto-card>Jokulhaups</auto-card> and <auto-card>Obliterate</auto-card> are obvious includeds, but I'm not thrilled about hard resets that miss enchantments and planeswalkers. Should I struggle to rebuild my mana, something as common as <auto-card>Ghostly Prison</auto-card> can stop my win-cons completely.
+You may think <auto-card>Jokulhaups</auto-card> and <auto-card>Obliterate</auto-card> are obvious includes, but I'm not thrilled about hard resets that miss enchantments and planeswalkers. Should I struggle to rebuild my mana, something as common as <auto-card>Ghostly Prison</auto-card> can stop my win-cons completely.
 
 I plan to replace <auto-card>Rampaging Baloths</auto-card> with <auto-card>Omnath, Locus of Rage</auto-card> (or maybe run both) as soon as I get my hands on a copy of the latter.
 
