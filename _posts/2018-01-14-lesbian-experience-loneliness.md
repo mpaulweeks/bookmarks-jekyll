@@ -7,7 +7,7 @@ isLive: true
 permalink: /lesbian-experience-loneliness
 ---
 
-I just finished reading My Lesbian Experience With Loneliness for second time.
+I just finished reading My Lesbian Experience With Loneliness for the second time.
 
 When I first encountered Nagata Kabi's journal-turned-book back in May of 2017, it resonated with me immediately. I consider it the most emotionally moving book I read that year.
 
