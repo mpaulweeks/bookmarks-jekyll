@@ -121,9 +121,11 @@ Highlighting changes to one of my old standards: <auto-card name="Ramosian Capta
   1x Thousand-Year Elixir
 </auto-card-list>
 
-# Breakdown
+## Breakdown
 
 The lands swaps were just upgrades. Pretty straightforward.
+
+The rest is cutting individual cards that under performed, and replacing them with some new ideas.
 
 ## Cuts
 

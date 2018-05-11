@@ -9,7 +9,7 @@ permalink: /2018-05-11-edh-changes-karoo
 
 Last night I got to try the <auto-card name="Azorius Chancery">Karoo</auto-card> / <auto-card name="Jodah, Archmage Eternal">Jodah</auto-card> deck I highlighted [last week](/edh-karoo).
 
-After taking complete control of the game and drawing my entire deck in one turn, I realized I hated it!
+After taking complete control of the game and drawing my entire library in one turn, I realized I hated the deck!
 
 <auto-card-list preview collapse>
   # name Exploring Armageddon
@@ -179,7 +179,7 @@ After taking complete control of the game and drawing my entire deck in one turn
   1x Ward of Bones
 </auto-card-list>
 
-# Breakdown
+## Breakdown
 
 Piloting the deck, and seeing essentially the best possible game, I realized three core problems:
 
@@ -334,7 +334,7 @@ You may think <auto-card>Jokulhaups</auto-card> and <auto-card>Obliterate</auto-
 
 I plan to replace <auto-card>Rampaging Baloths</auto-card> with <auto-card>Omnath, Locus of Rage</auto-card> (or maybe run both) as soon as I get my hands on a copy of the latter.
 
-# Conclusion
+## Conclusion
 
 I'm excited about the changes I've made, but I'm also very worried that I've made a degenerate, uninteractive, and too-villanous deck. We'll see.
 
