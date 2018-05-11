@@ -260,7 +260,7 @@ Note: I am keeping <auto-card>Bring to Light</auto-card>, but only because I vie
   <auto-card-image>Painful Truths</auto-card-image>
 </div>
 
-These are just outclasses by the wheels. <auto-card>Painful Truths</auto-card> is especially mediocre without <auto-card name="Jodah, Archmage Eternal">Jodah</auto-card> giving it pseudo kicker.
+These are just outclassed by the wheels. <auto-card>Painful Truths</auto-card> is especially mediocre without <auto-card name="Jodah, Archmage Eternal">Jodah</auto-card> giving it pseudo kicker.
 
 ## Adding Mass Bounce
 
