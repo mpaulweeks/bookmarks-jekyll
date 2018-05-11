@@ -260,7 +260,7 @@ Note: I am keeping <auto-card>Bring to Light</auto-card>, but only because I vie
   <auto-card-image>Painful Truths</auto-card-image>
 </div>
 
-These are just outclasses by the wheels. <auto-card>Painful Truths</auto-card> is especially mediocre without <auto-card name="Jodah, Archmage Eternal">Jodah</auto-card>.
+These are just outclasses by the wheels. <auto-card>Painful Truths</auto-card> is especially mediocre without <auto-card name="Jodah, Archmage Eternal">Jodah</auto-card> giving it pseudo kicker.
 
 ## Adding Mass Bounce
 
@@ -274,7 +274,7 @@ These are just outclasses by the wheels. <auto-card>Painful Truths</auto-card> i
 
 The most reliable way to reset the board is mass bounce. It hits everything but lands, whereas even cards like <auto-card>Planar Cleansing</auto-card> fail to answer <auto-card>Darksteel Ingot</auto-card> or <auto-card>Purphoros, God of the Forge</auto-card>.
 
-My few permanents that would get bounces are cheap Exploration effects, and are quick to replay. Mass bounce also becomes permanent "removal" when I can line it up with a wheel.
+My few permanents that would get bounced are Exploration effects, and are cheap and quick to replay. Mass bounce also becomes permanent "removal" when I can line it up with a wheel.
 
 ## Cutting the Old Removal
 
@@ -287,7 +287,7 @@ My few permanents that would get bounces are cheap Exploration effects, and are 
   <auto-card-image>Merciless Eviction</auto-card-image>
 </div>
 
-These just cost more and/or do less than mass bounce effects. Remember, I'm no longer getting the discount from <auto-card name="Jodah, Archmage Eternal">Jodah</auto-card>.
+These just cost more and/or do less than mass bounce effects. Remember, I'm no longer getting the discount from <auto-card name="Jodah, Archmage Eternal">Jodah</auto-card>, so that whole line of the thinking from the last article is moot.
 
 ## Cutting Dead Weight
 
@@ -299,7 +299,7 @@ These just cost more and/or do less than mass bounce effects. Remember, I'm no l
 
 If this deck is as oppressive as I think it is, I really don't need to bother with <auto-card>Fog</auto-card> effects, regardless of how good they are.
 
-I was excited about the other two in my previous article, but I just ramp out way more lands than I expected. I reset too often for <auto-card>Natural Balance</auto-card> to reliably hurt my opponents, and I get so many lands in play that <auto-card>Balancing Act</auto-card> hurts me the most.
+I was excited about the semi-resets in my previous article, but I just ramp out way more lands than I expected. The constant resets make both <auto-card>Natural Balance</auto-card> and <auto-card>Balancing Act</auto-card> hurt me more than it hurts my opponents.
 
 ## Add More Land Destruction
 
@@ -315,7 +315,7 @@ Now that my game plan is explicitly "reset + threat", it's good to have more of 
   <auto-card-image>Sylvan Awakening</auto-card-image>
 </div>
 
-Given that I have more land destruction, why not try to make it completely one-sided? These are an experiment, and will be quick cuts if they don't line up or feel too win-more.
+Given that I have more land destruction, why not try to make it completely one-sided? These are an experiment, and will be quick cuts if they don't line up or feel too "win more".
 
 ## Add More Win Cons
 
@@ -326,7 +326,7 @@ Given that I have more land destruction, why not try to make it completely one-s
 
 I'm quite happy with my Progenitus plan, but just in case, I added these two cards to potentially end the game in one turn.
 
-With just one bounce land still in hand, <auto-card>Rampaging Baloths</auto-card> gets a 4/4 for each land drop I have (the bounce land bounces itself). Last game, that got up to around 8. And like <auto-card>Tatyova, Benthic Druid</auto-card>, it goes infinite with <auto-card>Retreat to Coralhelm</auto-card> + <auto-card>Sakura-Tribe Scout</auto-card> (or it's many functional reprints)
+With just one bounce land still in hand, <auto-card>Rampaging Baloths</auto-card> gets a 4/4 for each land drop I have (make the bounce land bounce itself). Last game, I got up to around 8 land drops. And like <auto-card>Tatyova, Benthic Druid</auto-card>, it goes infinite with <auto-card>Retreat to Coralhelm</auto-card> + <auto-card>Sakura-Tribe Scout</auto-card> (or it's many functional reprints)
 
 ## Other Thoughts
 
