@@ -58,6 +58,16 @@ Finally, at his lowest point, Peco remembers that key bit of wisdom from his chi
 
 (clip)
 
-All this buildup culminates in an ecstatic climax. The action zips by. The background and spectators, even the colors, start to fade as the two players become increasingly focused and wholly absorbed by the game.
+All this buildup culminates in an ecstatic climax. The action zips by. The background and spectators, even the colors, start to fade as the two players become increasingly focused and wholly absorbed by the game. And nowhere is this sudden transformation as clear and apparent as the score.
 
-Peco's enthusiasm is so
+(clip through Dragon missing the shot)
+
+Hero Kenzan! The Hero Appears, and now we hear his theme in all it's sincere exuberance. The almost-lullaby tune we heard from Smile earlier turns into this high-energy, spontaneous assault of sounds. Peco's Theme is childish, with the squeaking flute and bells and whistles. Peco's Theme is spirited, with the vocal ooo-ing and echoing and the occasional clapping on the beat. Peco's Theme is solid and powerful, with the electronic drone to center the chrod, alongside the strong percussive beat.
+
+Peco's enthusiasm is so infestious it begins infest Kazama, leading to a wonderfully symbolic scene. Kazama is constantly depicted as climbing this infitely tall wall
+
+berates peco for flying
+dad suicide
+then grows wings
+peco will show the way but he needs to find the strength
+grows his wings and flys
