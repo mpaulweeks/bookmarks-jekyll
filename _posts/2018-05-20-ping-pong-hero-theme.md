@@ -62,12 +62,22 @@ All this buildup culminates in an ecstatic climax. The action zips by. The backg
 
 (clip through Dragon missing the shot)
 
-Hero Kenzan! The Hero Appears, and now we hear his theme in all it's sincere exuberance. The almost-lullaby tune we heard from Smile earlier turns into this high-energy, spontaneous assault of sounds. Peco's Theme is childish, with the squeaking flute and bells and whistles. Peco's Theme is spirited, with the vocal ooo-ing and echoing and the occasional clapping on the beat. Peco's Theme is solid and powerful, with the electronic drone to center the chrod, alongside the strong percussive beat.
+Hero Kenzan! The Hero Appears, and now we hear _Peco's Theme_ (as titled in the soundtrack) in all it's sincere exuberance. The almost-lullaby tune we heard from Smile earlier turns into this high-energy, spontaneous assault of sounds. Peco's Theme is childish, with the squeaking flute and bells and whistles. Peco's Theme is spirited, with the vocal ooo-ing and echoing and the occasional clapping on the beat. Peco's Theme is solid and powerful, with the electronic drone to center the chrod, alongside the strong percussive beat.
 
-Peco's enthusiasm is so infestious it begins infest Kazama, leading to a wonderfully symbolic scene. Kazama is constantly depicted as climbing this infitely tall wall
+(youtube embed to full track)
 
-berates peco for flying
-dad suicide
-then grows wings
-peco will show the way but he needs to find the strength
-grows his wings and flys
+I want to clarify that Peco's Theme as presented in episode 10 is not necessarily the "true version" of the song. Given the logic of the story, and the song's <a href="">non-diagetic presentation</a> (unlike Smile's humming), I prefer the think of the Hero Theme as a simple catchy tune improvised by a child. Continuing this logic, we can appreciate it's different manifestations, interpretations, arrangements, as reflections of each character. Peco's Theme mirrors his best qualities and aspirations, while Smile's slower lullaby more acurately represent his needs: the hero as protector and savior, an answer to the external noise and bullying, less a drug and more a salve.
+
+(smile saved from locker)
+
+The visual metaphors continue. Peco's enthusiasm is so infestious it begins infest Kazama, leading to a wonderfully symbolic scene. Kazama is constantly depicted as climbing an infitely tall wall, his monologue in the episode describing the detail the burden of winning. His path has no discrete goal or finish line, only the possibility of failure. Thus when he sees Peco fly past him, he finally ceases the endless climbing and tries something new. He breaks the cycle, and finally sees the hero.
+
+(clip of peco kazama scene)
+
+Except the Hero cannot help him directly, only show him the way. Kazama sprouts wings and escapes his self-imposed mental prison. Finally taking flight marks the resolution of another thread, mimiced in the final line of the episode. "People can fly"
+
+(screenshot)
+
+Kazama adamantly declares throughout the episode: "people can't fly". This both summarizes his feeling trapped in the cycle of endless victories, as well as deeper emotional trauma surrounding his father. The flashback imply Kazama's father commited by suicide, and this combined with intense familiar pressure to conform to a specific role bind him to the earth.
+
+Yet even as he's about to lose Peco, he no longer cares. Not due to depression or an invalidation of his beliefs, but rather the epiphany that he doesn't have to be shackled. He can be so much more. Life can be so much more. "People really can fly"
