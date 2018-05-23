@@ -266,9 +266,16 @@
       }
     ],
     "description": "Animation can display anything, from any angle, in any space. Yet, it often imitates the mechanics of a real camera - lens flare, the shakiness of a handheld, an out-of-focus shot - to leverage the existing emotions and associations created by live action film.<br/><br/>In this panel, we cover the history of anime director as auteur, animating on a budget, visual storytelling techniques, and how the simulated camera can support the narrative and drive audience empathy.",
+    "preshow": [
+      {
+        "title": "DAICON IV",
+        "url": "https://en.wikipedia.org/wiki/Daicon_III_and_IV_Opening_Animations"
+      }
+    ],
     "resources": [
       {
-        "title": "Slides coming soon..."
+        "title": "Opening Slides",
+        "url": "https://drive.google.com/open?id=1ZB7EjmNOXKpTvtFtcsfNmdlcNIxko-1O"
       }
     ]
   },
@@ -296,6 +303,12 @@
       }
     ],
     "description": "Why do we like what we like? In this panel, we discuss the different ways people approach and appreciate anime. Together, we can foster better self-awareness and improve the dialogue!",
+    "preshow": [
+      {
+        "title": "MIND GAME",
+        "url": "https://en.wikipedia.org/wiki/Mind_Game_(film)"
+      }
+    ],
     "recommendations": [
       {
         "author": "ThePedanticRomantic",
@@ -354,7 +367,8 @@
     "resources": [
       {
         "buffer": true,
-        "title": "Slides coming soon..."
+        "title": "Slides",
+        "url": "https://drive.google.com/open?id=1QesJTwUkFQJY6AWtt3XxQP-Y-i8CBpRK"
       },
       {
         "title": "End of Evangelion clip #1",
