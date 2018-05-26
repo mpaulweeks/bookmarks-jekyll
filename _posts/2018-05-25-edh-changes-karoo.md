@@ -1,6 +1,6 @@
 ---
 layout: post_mtg_building
-title: EDH | Changes - Karoo
+title: "EDH | Changing Karoo: Bounce != Answer"
 type: post
 category: mtg
 isLive: true

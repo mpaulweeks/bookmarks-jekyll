@@ -1,6 +1,6 @@
 ---
 layout: post_mtg_building
-title: EDH | Changes - Ephara
+title: "EDH | Changing Ephara: A Little Polish"
 type: post
 category: mtg
 isLive: true
