@@ -341,3 +341,7 @@ I'm excited about the changes I've made, but I'm also very worried that I've mad
 That said, at least now the games should be mercifully shorter!
 
 Until next time, happy brewing!
+
+## Update
+
+Read about this deck's continued evolution/devolution in its new [changes post](/2018-05-25-edh-changes-karoo).
