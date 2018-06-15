@@ -1,11 +1,25 @@
 ---
 layout: post
-title: TBA
+title: The Hero's Motif in Ping Pong the Animation
 type: post
 category: art
-isLive: false
+isLive: true
 permalink: /ping-pong-animation-hero-theme
 ---
+
+Something that fascinates me is scoring. I've had many television series or movies elevated by their soundtracks, and even a few ruined by their inappropriate choices or usage. During a recent watch of Diebuster, I was struck by the seemingly competent scoring and how it utterly failed to heighten the emotions like it's predecessor Gunbuster's almost suffocating theming.
+
+Today, I need to talk about Ping Pong the Animation and the Hero's Theme.
+
+[promo image]
+
+Ping Pong already has an above average soundtrack. No matter the scene, the music matches the emotion of the scene, from pumped up action to melancholic reflection to light hearted rom com.
+
+[ping pong game]
+[kazama's father screaming silently]
+[saneda]
+
+Action scenes are punchy, and character developmentEach character has an easily distinguishable theme that follows them from introduction through their emotional high and lows.
 
 The first episode has to a do a lot of heavy lifting fast, both to establish the broad cast of characters and seed the themes that will run thorough the show.
 
