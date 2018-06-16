@@ -7,11 +7,17 @@ isLive: false
 permalink: /ping-pong-animation-hero-theme
 ---
 
-Something that fascinates me is scoring. I've had many television series or movies elevated by their soundtracks, and even a few ruined by their inappropriate choices or usage. During a recent watch of Diebuster, I was struck by the seemingly competent scoring and how it utterly failed to heighten the emotions like it's predecessor Gunbuster's almost suffocating theming.
+Something that fascinates me is scoring. Many television series or movies are elevated by their soundtracks, and even a few ruined by them. During a recent re-watch of Diebuster, I was struck by the seemingly competent scoring and how it utterly failed to heighten the emotions. Compare this to it's predecessor Gunbuster, whose main theme was used very effectively (if maybe too often and bluntly).
 
-Today, I need to talk about Ping Pong the Animation and the Hero's Theme.
+How many times have I watched a movie or show, only to find myself listening to its soundtrack on loop the follow week? In almost all cases, it retroactively boosts my appreciation for the original work. Everytime I listen to Diva from Blood+ or Shangri-la from Noein, it generates nostalgia for an otherwise forgettable work. Not to mention the catchy OPs or inserts, which on repeat listens inevitably erode criticism or misgivings I had about the source material.
 
-[promo image]
+However, this fondess for music is largely due to the music itself, regardless of it's significance or usage. One extreme example: in my early love of Escaflowne and Cowboy Bebop, I decided to seek out anything else composed by Yoko Kanno. I now regularly listen to and enjoy the soundtracks for both Brain Powerd and Turn A Gundam despite having never seen either show.
+
+Today, I don't want to take about those songs. I want to talk about when score works with the action on screen to create something wonderous and unique. I want to dive into motifs and their importance on our connection with the characters and themes.
+
+I want to talk about Ping Pong the Animation.
+
+![](images/ping-pong/promo.jpg)
 
 Ping Pong already has an above average soundtrack. No matter the scene, the music matches the emotion of the scene, from pumped up action to melancholic reflection to light hearted rom com.
 
