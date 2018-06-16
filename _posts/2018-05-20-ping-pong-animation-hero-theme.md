@@ -23,17 +23,17 @@ Ping Pong already has a strong backing score. The music often matches the emotio
 
 <div class="videoContainer2">
   <video controls preload="meta">
-    <source type="video/mp4" src="http://localhost:8000/clips/e01_game.mp4">
+    <source type="video/mp4" src="https://s3.amazonaws.com/blog.mpaulweeks.com/ping-pong/e01_game.mp4">
   </video>
   <video controls poster="images/ping-pong/e10_emotion.png">
-    <source type="video/mp4" src="http://localhost:8000/clips/e10_emotion.mp4">
+    <source type="video/mp4" src="https://s3.amazonaws.com/blog.mpaulweeks.com/ping-pong/e10_emotion.mp4">
   </video>
 </div>
 
 Each main character has an easily distinguishable "theme song" that follows them from introduction through their emotional high and lows.
 
 <video controls preload="meta">
-  <source type="video/mp4" src="http://localhost:8000/clips/e02_kazama.mp4">
+  <source type="video/mp4" src="https://s3.amazonaws.com/blog.mpaulweeks.com/ping-pong/e02_kazama.mp4">
 </video>
 
 But what really sets the show apart for me is the Hero's Theme, and how it is set up, reinforced, then paid off.
@@ -55,7 +55,7 @@ In what seems unrelated on first viewing, Smile hums a simple tune a few times i
 > Peco: A little.
 
 <video controls preload="meta">
-  <source type="video/mp4" src="http://localhost:8000/clips/e01_hero_theme.mp4">
+  <source type="video/mp4" src="https://s3.amazonaws.com/blog.mpaulweeks.com/ping-pong/e01_hero_theme.mp4">
 </video>
 
 Peco doesn't recognize his own theme song, mirroring how he's lost sight of what drove him as a child and made him the hero.
@@ -65,16 +65,16 @@ The reinforcement comes during Smile's tournament match vs Kong Wenge in episode
 Smile starts of his match with Konge on the backfoot, but this doesn't discourage him. Yes we see some of the "mechnical" imagery as he downloads his opponent, but as Smile makes his comeback he is humming the same old tune. He is focused, he is trying, and he's having fun.
 
 <video controls preload="meta">
-  <source type="video/mp4" src="http://localhost:8000/clips/e03_hero_theme.mp4">
+  <source type="video/mp4" src="https://s3.amazonaws.com/blog.mpaulweeks.com/ping-pong/e03_hero_theme.mp4">
 </video>
 
-The stronger Smile gets, the more at peace he seems. He is approaching enlightenment, while Peco as spectator becomes jealous and confused. Peco doesn't recognize his friend Smile. He was supposed to be the hero, right?
+The stronger Smile gets, the more at peace he seems. He is approaching enlightenment, while Peco as spectator becomes jealous and confused. Peco doesn't recognize his friend Smile. He was supposed to be the hero, right? After getting skunked by Kong just two episodes prior, Peco's only words are:
 
-(screenshot)
+> No way... Is [Smile] going to win?
 
-The true turning point of this battle is when, an already demoralized Kong Wenge gets chewed out by his coach, his translator, his friend. Smile hears this (as indicated by an on-the-nose zoom).
+The final turn of this battle is when an already demoralized Kong Wenge gets chewed out by his coach, who is also his translator and only friend. Smile cannot understand the Mandarin but clearly gets the gist of it.
 
-(clip
+(clip)
 
 Immediately, Smile is shown to lose his drive. Like his many games with Peco, he can't help but go easy on someone who "bases their life around Ping Pong", something he describes to Kazuma in that same episode as "disgusting".
 
