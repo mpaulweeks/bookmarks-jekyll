@@ -30,11 +30,14 @@ Ping Pong already has a strong backing score. The music often matches the emotio
   </video>
 </div>
 
-Each main character has an easily distinguishable "theme song" that follows them from introduction through their emotional high and lows.
+Each main character has an easily distinguishable "theme song" that follows them from their introduction through their arc.
 
 <video controls preload="meta">
   <source type="video/mp4" src="https://s3.amazonaws.com/blog.mpaulweeks.com/ping-pong/e02_kazama.mp4">
 </video>
+(todo kong theme landing on airplane)
+(todo sakuma theme headbutting peco)
+(todo butterfly theme ep2 battle)
 
 But what really sets the show apart for me is the Hero's Theme, and how it is set up, reinforced, then paid off.
 
@@ -138,3 +141,7 @@ Yet even as he's about to lose Peco, he no longer cares. Not due to depression o
 
 What I love in particular about this motif is how it transitions from diagetic to non, ie from occuring within the reality of the show to becoming the supporting score. For a quick primer on Diagesis, check out this segment from [Linday Ellis's review of Phantom of the Opera](https://youtu.be/-m5I_5Vnh6A?t=5m56s).
 
+# todo
+- max length of 30 sec on clips
+- clip ep3 to show peaceful moments
+- clip from false mask flip to kazama holding puppies
