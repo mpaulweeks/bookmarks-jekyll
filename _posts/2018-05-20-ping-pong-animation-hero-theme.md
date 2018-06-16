@@ -19,39 +19,56 @@ I want to talk about Ping Pong the Animation.
 
 ![](images/ping-pong/promo.jpg)
 
-Ping Pong already has an above average soundtrack. No matter the scene, the music matches the emotion of the scene, from pumped up action to melancholic reflection to light hearted rom com.
+Ping Pong already has a strong backing score. The music often matches the emotion of the scene, from pumped up action to quiet sadness.
 
-[ping pong game ep1 17:44-18:00]
-[kazama's father screaming silently, 10 0:00 - 0:24]
-
-<video src="images/ping-pong/e10_emotion.mp4"></video>
+<div class="videoContainer2">
+  <video controls preload="meta">
+    <source type="video/mp4" src="http://localhost:8000/clips/e01_game.mp4">
+  </video>
+  <video controls poster="images/ping-pong/e10_emotion.png">
+    <source type="video/mp4" src="http://localhost:8000/clips/e10_emotion.mp4">
+  </video>
+</div>
 
 Each main character has an easily distinguishable "theme song" that follows them from introduction through their emotional high and lows.
 
+<video controls preload="meta">
+  <source type="video/mp4" src="http://localhost:8000/clips/e02_kazama.mp4">
+</video>
 
+But what really sets the show apart for me is the Hero's Theme, and how it is set up, reinforced, then paid off.
 
-The first episode has to a do a lot of heavy lifting fast, both to establish the broad cast of characters and seed the themes that will run thorough the show.
+The first episode has to a do a lot of heavy lifting fast, both to establish the broad cast of characters and seed the themes that will run thorough the show. Starting in the cold open and then mixed throughout the episode, we see glimpses of the hero. "Chant his name three times, then he will appear!"
 
-Starting in the cold open and then mixed thorough the episode, we see glimpses of the hero. "Chant his name three times, then he will appear!" Likewise, we can hear Smile humming a simple tune a few times in the episode.
+![](images/ping-pong/e01_chant.jpg)
 
-At the end of the episode, Peco comments on the tune in this brief exchange.
+In what seems unrelated on first viewing, Smile hums a simple tune a few times in the episode. After getting skunked by Kong in the episode's climax, Peco asks Smile about it:
 
-ep1 21:00
-What's that?
-Monster Robot
-I mean the song.
-Is it weird?
-A little.
+> Peco: What's that?
+>
+> Smile: Monster Robot
+>
+> Peco: I mean the song.
+>
+> Smile: Is it weird?
+>
+> Peco: A little.
+
+<video controls preload="meta">
+  <source type="video/mp4" src="http://localhost:8000/clips/e01_hero_theme.mp4">
+</video>
 
 Peco doesn't recognize his own theme song, mirroring how he's lost sight of what drove him as a child and made him the hero.
 
-The second time we hear the song is during Smile's tournament match vs Kong Wenge in episode 3. At this point, the coach has convinced him to start practicing and has starting sharpening his competitive edge, but Smile's transformation into the ruthless robot is still in progress.
+The reinforcement comes during Smile's tournament match vs Kong Wenge in episode 3. At this point, the coach has convinced him to start practicing and has starting sharpening his competitive edge. Smile has not yet transformed fully into the ruthless robot.
 
-Smile starts of his match with Konge on the backfoot, but this doesn't discourage him. Yes we see some of the "mechnical" imagery as he downloads his opponent, but the whole time he is humming the same old tune. He is focused, he is trying, and he's having fun.
+Smile starts of his match with Konge on the backfoot, but this doesn't discourage him. Yes we see some of the "mechnical" imagery as he downloads his opponent, but as Smile makes his comeback he is humming the same old tune. He is focused, he is trying, and he's having fun.
 
-ep3 16:57 20:08
+<video controls preload="meta">
+  <source type="video/mp4" src="http://localhost:8000/clips/e03_hero_theme.mp4">
+</video>
 
-At strong Smile gets, the more at peace he seems. He is enlightened, and Peco merely is jealous and confused. He doesn't recognize his friend Smile. He was supposed to be the hero, right?
+The stronger Smile gets, the more at peace he seems. He is approaching enlightenment, while Peco as spectator becomes jealous and confused. Peco doesn't recognize his friend Smile. He was supposed to be the hero, right?
 
 (screenshot)
 
