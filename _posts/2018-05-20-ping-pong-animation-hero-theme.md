@@ -21,11 +21,13 @@ I want to talk about Ping Pong the Animation.
 
 Ping Pong already has an above average soundtrack. No matter the scene, the music matches the emotion of the scene, from pumped up action to melancholic reflection to light hearted rom com.
 
-[ping pong game]
-[kazama's father screaming silently]
-[saneda]
+[ping pong game ep1 17:44-18:00]
+[kazama's father screaming silently, 10 0:00 - 0:24]
+[saneda ep7 14:36]
 
-Action scenes are punchy, and character developmentEach character has an easily distinguishable theme that follows them from introduction through their emotional high and lows.
+Each main character has an easily distinguishable "theme song" that follows them from introduction through their emotional high and lows.
+
+
 
 The first episode has to a do a lot of heavy lifting fast, both to establish the broad cast of characters and seed the themes that will run thorough the show.
 
@@ -33,8 +35,12 @@ Starting in the cold open and then mixed thorough the episode, we see glimpses o
 
 At the end of the episode, Peco comments on the tune in this brief exchange.
 
-(video)
-(quote)
+ep1 21:00
+What's that?
+Monster Robot
+I mean the song.
+Is it weird?
+A little.
 
 Peco doesn't recognize his own theme song, mirroring how he's lost sight of what drove him as a child and made him the hero.
 
@@ -42,7 +48,7 @@ The second time we hear the song is during Smile's tournament match vs Kong Weng
 
 Smile starts of his match with Konge on the backfoot, but this doesn't discourage him. Yes we see some of the "mechnical" imagery as he downloads his opponent, but the whole time he is humming the same old tune. He is focused, he is trying, and he's having fun.
 
-(video)
+ep3 16:57 20:08
 
 At strong Smile gets, the more at peace he seems. He is enlightened, and Peco merely is jealous and confused. He doesn't recognize his friend Smile. He was supposed to be the hero, right?
 
@@ -58,25 +64,33 @@ Immediately, Smile is shown to lose his drive. Like his many games with Peco, he
 
 The show quickly skips to the inevitable conclusion: Smile and hands the game to Kong. Kong accepts the victory but can't help but have his ego bruised. He suspects and resents Smile's pity.
 
-(screenshot)
+ep3 11:32
 
 After this match and Koizumi's strong scolding, Smile transforms fully into the "emotionless" robot. For the next several episodes, he doesn't hesistate to crush even former friends like Sakuma.
 
-(screenshot of koizumi slap and sakuma outburst)
+ep4 0:27
 
 With Peco hitting rock bottom in his own existential crisis, it's fitting that the Hero's Theme completely disappears. That is, until Peco's enlightenment and return to form.
 
-With a peptalk from Sakuma and off-screen revelation (later revealed to be Smile's enthusiastic grin in an old photo), Peco throws himself into training. He is finding himself again, but has not regained Hero status just yet.
+With a peptalk from Sakuma and off-screen revelation (later revealed to be Smile's enthusiastic grin in an old photo), Peco throws himself into training. He is finding himself again, but has not regained Hero status just yet. We see him breeze through his early opponent, getting a cathartic rematch with Kong Wenge in episode 9 that also serves to conclude Kong's arc and show his growth and maturity.
 
-We see him breeze through opponent, getting a cathartic rematch with Kong Wenge in episode 9 that also serves to conclude Kong's arc and show his growth and maturity. But this is still just Peco being Peco.
+ep8 18:26 - 47
 
-It is against Kazama that Peco is truly tested. At one point, he thinks this is his triumphant moment, the start of his comeback. He announces the Hero's arrival, only to immediately shut down and then lecturing by Kazama, a burdened warrior who can't stomach Peco's naivete.
+But this is still just Peco being Peco.
 
-(clip)
+ep8 17:29
+
+It is against Kazama that Peco is truly tested. At one point, he thinks this is his triumphant moment, the start of his comeback. He announces the Hero's arrival, only to immediately shut down and then lectured. Kazama, a veteran burdened by his success, who can't stomach Peco's naivete.
+
+ep10 6:48 - 7:36
 
 Finally, at his lowest point, Peco remembers that key bit of wisdom from his childhood. The defining trait that made him a hero back then. That Ping Pong is fun!
 
-(clip)
+ep10 12:06 - 13:52
+
+We hear Smile's tune again, along with a flashback that explains it's origins. He wrote it for Peco, as the Hero's theme! But as recently as episode 1, Peco had forgotten it. Now through flashback, we hear the original rendition: through the voice of a child.
+
+(screenshot)
 
 All this buildup culminates in an ecstatic climax. The action zips by. The background and spectators, even the colors, start to fade as the two players become increasingly focused and wholly absorbed by the game. And nowhere is this sudden transformation as clear and apparent as the score.
 
@@ -101,3 +115,8 @@ Except the Hero cannot help him directly, only show him the way. Kazama sprouts 
 Kazama adamantly declares throughout the episode: "people can't fly". This both summarizes his feeling trapped in the cycle of endless victories, as well as deeper emotional trauma surrounding his father. The flashback imply Kazama's father commited by suicide, and this combined with intense familiar pressure to conform to a specific role bind him to the earth.
 
 Yet even as he's about to lose Peco, he no longer cares. Not due to depression or an invalidation of his beliefs, but rather the epiphany that he doesn't have to be shackled. He can be so much more. Life can be so much more. "People really can fly"
+
+
+
+What I love in particular about this motif is how it transitions from diagetic to non, ie from occuring within the reality of the show to becoming the supporting score. For a quick primer on Diagesis, check out this segment from [Linday Ellis's review of Phantom of the Opera](https://youtu.be/-m5I_5Vnh6A?t=5m56s).
+
