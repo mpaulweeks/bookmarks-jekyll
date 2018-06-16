@@ -23,7 +23,8 @@ Ping Pong already has an above average soundtrack. No matter the scene, the musi
 
 [ping pong game ep1 17:44-18:00]
 [kazama's father screaming silently, 10 0:00 - 0:24]
-[saneda ep7 14:36]
+
+<video src="images/ping-pong/e10_emotion.mp4"></video>
 
 Each main character has an easily distinguishable "theme song" that follows them from introduction through their emotional high and lows.
 
