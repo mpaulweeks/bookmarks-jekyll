@@ -24,24 +24,32 @@ I want to talk about Ping Pong the Animation.
 Ping Pong already has a strong backing score. The music often matches the emotion of the scene, from pumped up action to quiet sadness.
 
 <div class="videoContainer2">
-  <video controls preload="meta">
-    <source type="video/mp4" src="https://s3.amazonaws.com/blog.mpaulweeks.com/ping-pong/e01_game.mp4">
-  </video>
-  <video controls poster="images/ping-pong/e10_emotion.png">
-    <source type="video/mp4" src="https://s3.amazonaws.com/blog.mpaulweeks.com/ping-pong/e10_emotion.mp4">
-  </video>
+  <video controls preload="meta" file="e11_game.mp4"></video>
+  <video controls poster="images/ping-pong/e10_emotion.png" file="e10_emotion.mp4"></video>
 </div>
 
 Each main character has an easily distinguishable "theme song" that follows them from their introduction through their arc.
 
-<video controls preload="meta">
-  <source type="video/mp4" src="https://s3.amazonaws.com/blog.mpaulweeks.com/ping-pong/e02_kazama.mp4">
-</video>
-(todo kong theme landing on airplane)
-(todo sakuma theme headbutting peco)
-(todo butterfly theme ep2 battle)
+<div class="videoContainer2">
+  <video controls preload="meta" file="e02_kazama_intro.mp4"></video>
+  <video controls preload="meta" file="e03_sakuma_intro.mp4"></video>
+</div>
 
-But what really sets the show apart for me is the Hero's Theme, and how it is set up, reinforced, then paid off.
+Some characters even have multiple themes for different scenarios, connected via a similar melody or instrumentation. Kong's character theme is bouncy, foreign, and proud. When playing a match, it reflects his cut-throat desire to win and razor-sharp focus.
+
+<div class="videoContainer2">
+  <video controls preload="meta" file="e01_kong1.mp4"></video>
+  <video controls preload="meta" file="e01_kong2.mp4"></video>
+</div>
+
+Compare this to Koizumi, whose piano arpeggios reflect an old man's wisdom. When things get competitive, the key switches to the minor mode. The arpeggios have become foreboding, as he tries to teach Smile a bitter lesson.
+
+<div class="videoContainer2">
+  <video controls preload="meta" file="e02_butterfly1.mp4"></video>
+  <video controls preload="meta" file="e02_butterfly2.mp4"></video>
+</div>
+
+That said, as impressive and effective as these motifs are, nonething compares to the Hero's Theme and how it is set up, reinforced, then paid off.
 
 The first episode has to a do a lot of heavy lifting fast, both to establish the broad cast of characters and seed the themes that will run thorough the show. Starting in the cold open and then mixed throughout the episode, we see glimpses of the hero. "Chant his name three times, then he will appear!"
 
@@ -59,9 +67,7 @@ In what seems unrelated on first viewing, Smile hums a simple tune a few times i
 >
 > Peco: A little.
 
-<video controls preload="meta">
-  <source type="video/mp4" src="https://s3.amazonaws.com/blog.mpaulweeks.com/ping-pong/e01_hero_theme.mp4">
-</video>
+<video controls preload="meta" file="e01_hero_theme.mp4"></video>
 
 Peco doesn't recognize his own theme song, mirroring how he's lost sight of what drove him as a child and made him the hero.
 
@@ -69,9 +75,7 @@ The reinforcement comes during Smile's tournament match vs Kong Wenge in episode
 
 Smile starts of his match with Konge on the backfoot, but this doesn't discourage him. Yes we see some of the "mechnical" imagery as he downloads his opponent, but as Smile makes his comeback he is humming the same old tune. He is focused, he is trying, and he's having fun.
 
-<video controls preload="meta">
-  <source type="video/mp4" src="https://s3.amazonaws.com/blog.mpaulweeks.com/ping-pong/e03_hero_theme.mp4">
-</video>
+<video controls preload="meta" file="e03_hero_theme.mp4"></video>
 
 The stronger Smile gets, the more at peace he seems. He is approaching enlightenment, while Peco as spectator becomes jealous and confused. Peco doesn't recognize his friend Smile. He was supposed to be the hero, right? After getting skunked by Kong just two episodes prior, Peco's only words are:
 
@@ -149,11 +153,16 @@ What I love in particular about this motif is how it transitions from diagetic t
 - clip from false mask flip to kazama holding puppies
 
 <script>
+  let rootPath = 'https://s3.amazonaws.com/blog.mpaulweeks.com/ping-pong/';
   if (window.location.origin.includes('localhost')){
-    console.log('on local, swapping out aws links');
-    var srcs = Array.from(document.getElementsByTagName('source'));
-    srcs.forEach(elm => {
-      elm.src = elm.src.replace('https://s3.amazonaws.com/blog.mpaulweeks.com/ping-pong/', 'http://localhost:8000/clips/');
-    });
+    rootPath = 'http://localhost:8000/clips/';
   }
+
+  const videos = Array.from(document.getElementsByTagName('video'));
+  videos.forEach(vidElm => {
+    const srcElm = document.createElement('source');
+    srcElm.type = 'video/mp4';
+    srcElm.src = rootPath + vidElm.getAttribute('file');
+    vidElm.appendChild(srcElm);
+  });
 </script>
