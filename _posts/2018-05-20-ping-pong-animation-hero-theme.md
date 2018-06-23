@@ -7,7 +7,7 @@ isLive: false
 permalink: /ping-pong-animation-hero-theme
 ---
 
-Something that fascinates me is scoring. Many television series or movies are elevated by their soundtracks, and even a few ruined by them. During a recent re-watch of Diebuster, I was struck by the seemingly competent scoring and how it utterly failed to heighten the emotions. Compare this to it's predecessor Gunbuster, whose main theme was used very effectively (if maybe too often and bluntly).
+Something that fascinates me is scoring. Many television series or movies are elevated by their soundtracks, and even a few ruined by them. During a recent re-watch of Diebuster, I was struck by the seemingly competent scoring and how it utterly failed to make an impression. Compare this to it's predecessor Gunbuster, whose main theme was used very effectively (if maybe too often and bluntly).
 
 How many times have I watched a movie or show, only to find myself listening to its soundtrack on loop the follow week? In almost all cases, it retroactively boosts my appreciation for the original work. Everytime I listen to Diva from Blood+ or Shangri-la from Noein, it generates nostalgia for an otherwise forgettable work. Not to mention the catchy OPs or inserts, which on repeat listens inevitably erode criticism or misgivings I had about the source material.
 
