@@ -9,6 +9,8 @@ permalink: /ping-pong-animation-hero-theme
 
 Something that fascinates me is scoring. Many television series or movies are elevated by their soundtracks, and even a few ruined by them. During a recent re-watch of Diebuster, I was struck by the seemingly competent scoring and how it utterly failed to make an impression. Compare this to it's predecessor Gunbuster, whose main theme was used very effectively (if maybe too often and bluntly).
 
+<!-- https://www.youtube.com/watch?v=ey7lHa9qW0E ??? -->
+
 How many times have I watched a movie or show, only to find myself listening to its soundtrack on loop the follow week? In almost all cases, it retroactively boosts my appreciation for the original work. Everytime I listen to Diva from Blood+ or Shangri-la from Noein, it generates nostalgia for an otherwise forgettable work. Not to mention the catchy OPs or inserts, which on repeat listens inevitably erode criticism or misgivings I had about the source material.
 
 However, this fondess for music is largely due to the music itself, regardless of it's significance or usage. One extreme example: in my early love of Escaflowne and Cowboy Bebop, I decided to seek out anything else composed by Yoko Kanno. I now regularly listen to and enjoy the soundtracks for both Brain Powerd and Turn A Gundam despite having never seen either show.
@@ -43,7 +45,7 @@ But what really sets the show apart for me is the Hero's Theme, and how it is se
 
 The first episode has to a do a lot of heavy lifting fast, both to establish the broad cast of characters and seed the themes that will run thorough the show. Starting in the cold open and then mixed throughout the episode, we see glimpses of the hero. "Chant his name three times, then he will appear!"
 
-![](images/ping-pong/e01_chant.jpg)
+![](images/ping-pong/e01_chant.png)
 
 In what seems unrelated on first viewing, Smile hums a simple tune a few times in the episode. After getting skunked by Kong in the episode's climax, Peco asks Smile about it:
 
@@ -145,3 +147,13 @@ What I love in particular about this motif is how it transitions from diagetic t
 - max length of 30 sec on clips
 - clip ep3 to show peaceful moments
 - clip from false mask flip to kazama holding puppies
+
+<script>
+  if (window.location.origin.includes('localhost')){
+    console.log('on local, swapping out aws links');
+    var srcs = Array.from(document.getElementsByTagName('source'));
+    srcs.forEach(elm => {
+      elm.src = elm.src.replace('https://s3.amazonaws.com/blog.mpaulweeks.com/ping-pong/', 'http://localhost:8000/clips/');
+    });
+  }
+</script>
