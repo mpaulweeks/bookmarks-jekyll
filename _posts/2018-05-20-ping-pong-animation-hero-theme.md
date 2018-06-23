@@ -24,29 +24,29 @@ I want to talk about Ping Pong the Animation.
 Ping Pong already has a strong backing score. The music often matches the emotion of the scene, from pumped up action to quiet sadness.
 
 <div class="videoContainer2">
-  <video controls preload="meta" file="e11_game.mp4"></video>
-  <video controls poster="images/ping-pong/e10_emotion.png" file="e10_emotion.mp4"></video>
+  <video preload="meta" file="e11_game.mp4"></video>
+  <video poster="images/ping-pong/e10_emotion.png" file="e10_emotion.mp4"></video>
 </div>
 
 Each main character has an easily distinguishable "theme song" that follows them from their introduction through their arc.
 
 <div class="videoContainer2">
-  <video controls preload="meta" file="e02_kazama_intro.mp4"></video>
-  <video controls preload="meta" file="e03_sakuma_intro.mp4"></video>
+  <video preload="meta" file="e02_kazama_intro.mp4"></video>
+  <video preload="meta" file="e03_sakuma_intro.mp4"></video>
 </div>
 
 Some characters even have multiple themes for different scenarios, connected via a similar melody or instrumentation. Kong's character theme is bouncy, foreign, and proud. When playing a match, it reflects his cut-throat desire to win and razor-sharp focus.
 
 <div class="videoContainer2">
-  <video controls preload="meta" file="e01_kong1.mp4"></video>
-  <video controls preload="meta" file="e01_kong2.mp4"></video>
+  <video preload="meta" file="e01_kong1.mp4"></video>
+  <video preload="meta" file="e01_kong2.mp4"></video>
 </div>
 
 Compare this to Koizumi, whose piano arpeggios reflect an old man's wisdom. When things get competitive, the key switches to the minor mode. The arpeggios have become foreboding, as he tries to teach Smile a bitter lesson.
 
 <div class="videoContainer2">
-  <video controls preload="meta" file="e02_butterfly1.mp4"></video>
-  <video controls preload="meta" file="e02_butterfly2.mp4"></video>
+  <video preload="meta" file="e02_butterfly1.mp4"></video>
+  <video preload="meta" file="e02_butterfly2.mp4"></video>
 </div>
 
 That said, as impressive and effective as these motifs are, nonething compares to the Hero's Theme and how it is set up, reinforced, then paid off.
@@ -67,7 +67,7 @@ In what seems unrelated on first viewing, Smile hums a simple tune a few times i
 >
 > Peco: A little.
 
-<video controls preload="meta" file="e01_hero_theme.mp4"></video>
+<video preload="meta" file="e01_hero_theme.mp4"></video>
 
 Peco doesn't recognize his own theme song, mirroring how he's lost sight of what drove him as a child and made him the hero.
 
@@ -75,7 +75,7 @@ The reinforcement comes during Smile's tournament match vs Kong Wenge in episode
 
 Smile starts of his match with Konge on the backfoot, but this doesn't discourage him. Yes we see some of the "mechnical" imagery as he downloads his opponent, but as Smile makes his comeback he is humming the same old tune. He is focused, he is trying, and he's having fun.
 
-<video controls preload="meta" file="e03_hero_theme.mp4"></video>
+<video preload="meta" file="e03_humming.mp4"></video>
 
 The stronger Smile gets, the more at peace he seems. He is approaching enlightenment, while Peco as spectator becomes jealous and confused. Peco doesn't recognize his friend Smile. He was supposed to be the hero, right? After getting skunked by Kong just two episodes prior, Peco's only words are:
 
@@ -83,7 +83,7 @@ The stronger Smile gets, the more at peace he seems. He is approaching enlighten
 
 The final turn of this battle is when an already demoralized Kong Wenge gets chewed out by his coach, who is also his translator and only friend. Smile cannot understand the Mandarin but clearly gets the gist of it.
 
-(clip)
+<video preload="meta" file="e03_yelling.mp4"></video>
 
 Immediately, Smile is shown to lose his drive. Like his many games with Peco, he can't help but go easy on someone who "bases their life around Ping Pong", something he describes to Kazuma in that same episode as "disgusting".
 
@@ -160,6 +160,8 @@ What I love in particular about this motif is how it transitions from diagetic t
 
   const videos = Array.from(document.getElementsByTagName('video'));
   videos.forEach(vidElm => {
+    vidElm.controls = true;
+
     const srcElm = document.createElement('source');
     srcElm.type = 'video/mp4';
     srcElm.src = rootPath + vidElm.getAttribute('file');
