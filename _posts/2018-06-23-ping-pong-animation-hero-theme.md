@@ -49,14 +49,14 @@ Each main character has an easily distinguishable musical motif, that generally 
   <video file="e03_sakuma_intro.mp4"></video>
 </div>
 
-Some characters even have multiple themes for different scenarios, connected via a similar melody or instrumentation. Kong's character theme is bouncy, foreign, and proud. When playing a match, the second theme reflects his cut-throat desire to win and razor-sharp focus.
+Some characters even have multiple themes for different scenarios, connected via a similar melody or instrumentation. Kong's character theme is bouncy, foreign, and proud. When playing a match, his second theme reflects his cut-throat desire to win and razor-sharp focus.
 
 <div class="videoContainer2">
   <video file="e01_kong1.mp4"></video>
   <video file="e01_kong2.mp4"></video>
 </div>
 
-Compare this to Koizumi, whose descending piano scales and whistful strings reflect the old man's wisdom and warmth. When it comes time for him to teach Smile a bitter lesson, the piano gets foreboding and dissonant. The strings are replaced with a periodic and high-pitched drone, almost like a siren.
+Compare this to Koizumi's main theme, whose descending piano scales and whistful strings reflect the old man's wisdom and warmth. When it comes time for him to teach Smile a bitter lesson, the piano gets foreboding and dissonant. The strings are replaced with a periodic and high-pitched drone, almost like a siren.
 
 <div class="videoContainer2">
   <video file="e02_butterfly1.mp4"></video>
@@ -101,7 +101,9 @@ However, this way of living is clearly missing something. As we see in both Smil
 
 ## The Hero's Motif
 
-How does the music compliment this story? By establishing a specific melody as the Hero's motif. Throughout the first episode, Smile hums a simple tune. After getting skunked by Kong in the episode's climax, Peco finally asks Smile about the song:
+How does the music compliment this story? By establishing a specific melody as the Hero's motif, and weaving it throughout the fabric of the show to represent key breakthroughs for our two main characters.
+
+Throughout the first episode, Smile hums a simple tune to himself. After Peco is soundly defeated by Kong in the episode's climax, he finally asks Smile about it:
 
 <video file="e01_hero_theme.mp4"></video>
 
@@ -115,21 +117,21 @@ How does the music compliment this story? By establishing a specific melody as t
 >
 > Peco: A little.
 
-We learn later on in episode 10 that Smile came up with this song when they were children, as a theme song for the Peco's hero persona. Peco has forgetton the tune completely, mirroring how he's lost sight of what makes him the hero.
+We learn later on in episode 10 that Smile came up with this song when they were children, as a theme song for the Peco's hero persona. Peco has forgetton the tune completely, mirroring how he's lost sight of what makes him good at Ping Pong i.e. what makes him the hero.
 
 ![](images/ping-pong/e10_hero_song.png)
 
-The reinforcement comes during Smile's tournament match vs Kong Wenge in episode 3. At this point, Koizumi has convinced Smile to start practicing and has begun cultivating Smile's competitive edge. That said, keep in mind that Smile has not yet transformed fully into the ruthless robot that defeats Sakuma just two episodes later.
+The reinforcement of the motif comes during Smile's tournament match vs Kong Wenge in episode 3. At this point, Koizumi has convinced Smile to start practicing and has begun cultivating Smile's competitive edge.
 
 Using an unfamiliar paddle, Smile starts of his match with Konge at a big disadvantage and quickly loses the first game. However, Smile doesn't appear upset, nor is his coach Koizumi worried. As Smile starts to make his comeback, we hear him humming the same tune from episode 1. He is focused, he is trying, and he's having fun.
 
 <video file="e03_humming.mp4"></video>
 
-The stronger Smile gets, the more at peace he seems. He is approaching enlightenment, while Peco as spectator becomes jealous and confused. Peco doesn't recognize his friend Smile. Peco was supposed to be the hero, right? After getting skunked by Kong just two episodes prior, Peco's only words are:
+The stronger Smile gets, the more at peace he seems. He is approaching a zen-like enlightenment, while Peco as spectator becomes jealous and confused. Peco doesn't recognize his friend Smile. Peco was supposed to be the hero, right? After getting skunked by Kong just two episodes prior, Peco's only words are:
 
 > No way... Is [Smile] going to win?
 
-The final turn of this battle is when an already demoralized Kong Wenge gets chewed out by his coach, who is also his translator and only friend. Smile cannot understand the language but clearly gets the stakes. The humming stops, and a sudden shift in the music accompanies a claustrophoic zoom. Smile's not having fun any more.
+The final turn of this battle is when an already demoralized Kong Wenge gets chewed out by his coach, who is also his translator and only friend. Smile cannot understand the language but clearly understands the stakes. The humming stops, and a sudden shift in the music accompanies a claustrophoic zoom. Smile's not having fun any more.
 
 <video file="e03_yelling_zoom.mp4"></video>
 
@@ -143,15 +145,15 @@ After this match and Koizumi's strong scolding, Smile quickly transforms fully i
 
 With Peco hitting rock bottom in his own existential crisis, it's fitting that the Hero's Theme completely disappears for these middle episodes. So what will it take to bring it back?
 
-With a peptalk from Sakuma and an off-screen epiphany (later revealed to be Smile's enthusiastic grin in an old photo), Peco throws himself into training. He is finding himself again, but has not regained Hero status just yet. In the climatic tournament of the series, we see him breeze through his early opponents. Peco gets a cathartic rematch with Kong Wenge in episode 8 that also serves to conclude Kong's arc.
+With a peptalk from Sakuma and an off-screen epiphany (later revealed to be Smile's enthusiastic grin in an old photo), Peco throws himself into training. He is finding himself again, but has not regained Hero status just yet. In the climatic tournament of the series, we see Peco breeze through his early opponents, including a cathartic rematch with Kong Wenge.
 
-Smile can't help but notice that Peco, his childhood hero, has finally returned.
+Smile can't help but notice that the old Peco, his childhood hero, has finally returned.
 
 <video file="e08_peco_returns.mp4"></video>
 
 > Welcome back, hero.
 
-But we don't hear Hero's theme for another two episodes. Why? Because Peco is still missing something, and he hasn't figured it out yet.
+But we don't hear Hero's theme for another two episodes. Why? Because Peco is still missing something, he just hasn't figured it out yet.
 
 ## The Hero's Return
 
@@ -161,15 +163,15 @@ It is during the semi-finals match against Kazama that Peco is truly tested. Aft
 
 He announces the Hero's arrival, only to be immediately shut down and then lectured. Kazama, a veteran burdened by his success, can't stomach Peco's naivete. This false start is important, and shows that Peco is still immature, egoistic, and unaware. He continues to struggle and quickly loses the first two games.
 
-Finally, at his lowest point, Peco remembers that key bit of wisdom from his childhood. It's not about being the best, the strongest, the hero. It's so much more pure than that! It turns out... Ping Pong is fun!
+Finally, Peco remembers that key bit of wisdom from his childhood. It's not about being the best, the strongest, the hero. It's so much more pure than that! It turns out... Ping Pong is fun!
 
 <video file="e10_peco_epiphany.mp4"></video>
 
-During this epiphany, we hear Smile's old humming tune slowly fade in. We see a flashback that explains its origins – Smile wrote it for Peco, as the Hero's theme! But as recently as episode 1, Peco had forgotten it. Now through flashback, we hear the original rendition through the voice of a child.
+During this epiphany, we hear Smile's old humming tune slowly fade in. We see a flashback that explains its origins – Smile wrote it for Peco, as the Hero's theme! Now through flashback, we hear the original rendition through the voice of a child.
 
 The theme has been setup, reinforced, and reincorporated. But now for the real payoff.
 
-Up until this point, Peco hasn't had a definable song that was his own. His scenes either highlighted another character's theme or borrowed from the standard library of background score. This is the true payoff of the show. On the official soundtrack, this song is titled simply, "Peco".
+Up until this point, Peco hasn't had a definable motif that was his own. His scenes either highlighted another character's theme or borrowed from the standard library of background score. This is the true payoff of the show. On the official soundtrack, this song is titled simply, "Peco".
 
 <video file="e10_peco_theme.mp4"></video>
 
