@@ -54,7 +54,7 @@ Some characters even have multiple themes for different scenarios, connected via
   <video file="e01_kong2.mp4"></video>
 </div>
 
-Compare this to Koizumi, whose piano arpeggios reflect an old man's wisdom. When things get competitive, the key switches to the minor mode. The arpeggios have become foreboding and dissonant as he tries to teach Smile a bitter lesson.
+Compare this to Koizumi, whose descending piano scales and whistful strings reflect the old man's wisdom and warmth. When it comes time for him to teach Smile a bitter lesson, the piano gets foreboding and dissonant. The strings are replaced with a periodic and high-pitched drone, almost like a siren.
 
 <div class="videoContainer2">
   <video file="e02_butterfly1.mp4"></video>
