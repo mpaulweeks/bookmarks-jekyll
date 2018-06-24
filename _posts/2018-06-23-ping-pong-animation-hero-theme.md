@@ -7,18 +7,18 @@ isLive: false
 permalink: /ping-pong-animation-hero-theme
 ---
 
-Something that fascinates me is scoring. Many television series or movies are elevated by their soundtracks. After a recent re-watch of Gunbuster, I couldn't get [Noriko's theme](https://youtu.be/lNtnlecG9y0) out of my head. It was recognizable. It was catchy! And listening to it over and over recalled the bittersweet feelings of many an episode's emotional climax.
+Many television series or movies are elevated by their soundtracks. After a recent re-watch of Gunbuster, I couldn't get [Noriko's catchy theme](https://youtu.be/lNtnlecG9y0) out of my head. And listening to it over and over recalled the bittersweet feelings of the show's emotional twists and heroic climax.
 
-So consider my disappointment when I watched Diebuster soon after, only to be struck by how the sequels music left me feeling...well, almost nothing! The scoring is competent, with busy music for action scenes and tense music leading up the mid-series twist. But it mostly just stayed there in the background, and utterly failed to make a lasting impression (outside of the conspicuously out-of-place quoting of the [retro, bombastic Gunbuster theme](https://youtu.be/GFppdq6vEPg?t=19s)). The contrast only made me appreciate Gunbuster that much more.
+So consider my disappointment when I watched Diebuster soon after, only to be struck by how the sequel's music left me feeling...well, almost nothing! The score was always thematically appropriate, but it mostly blended into the background and failed to make a lasting impression (outside of the conspicuously out-of-place quoting of the [retro, bombastic Gunbuster theme](https://youtu.be/GFppdq6vEPg?t=19s)). The contrast only made me appreciate Gunbuster that much more.
 
 <div class="img-half">
   <img src="images/ping-pong/gunbuster.jpg">
 </div>
-<div class="img-comment">aww yeah the 80s</div>
+<div class="img-comment">aww yeah 80s anime</div>
 
-Which got me thinking: How many times have I watched a movie or show, only to find myself listening to its soundtrack on loop the follow week? In almost all cases, it retroactively boosts my appreciation for the original work. Everytime I listen to [Diva from Blood+](https://www.youtube.com/watch?v=j3uaUfuYMRI) or [Shangri-la from Noein](https://youtu.be/NLYXYjruLFw), it generates nostalgia for an otherwise forgettable series. Not to mention catchy OPs or inserts, which on repeat listens inevitably erode criticism or misgivings I had about the source material (looking at your, [Kiznaiver](https://www.youtube.com/watch?v=eFedqiw-1pc)).
+Which got me thinking: How many times have I watched a movie or show, only to find myself listening to its soundtrack on loop the follow week? In almost all cases, it retroactively boosts my appreciation for the original work. Everytime I listen to [Diva from Blood+](https://www.youtube.com/watch?v=j3uaUfuYMRI) or [Shangri-la from Noein](https://youtu.be/NLYXYjruLFw), it generates nostalgia for an otherwise forgettable series. Not to mention catchy OPs or inserts, which on repeat listens inevitably erode criticism or misgivings I had about the source material (looking at you, [Kiznaiver](https://www.youtube.com/watch?v=eFedqiw-1pc)).
 
-However, this fondess for music is largely due to the music itself, regardless of it's narrative significance or usage. Noriko's theme from earlier stood out more than anything from Diebuster due to its clear melodic hook, but how much was that the music itself versus it's application to the show? Consider this anecdote: in my early love of Escaflowne and Cowboy Bebop, I decided to seek out anything and everything composed by Yoko Kanno. I now regularly listen to and enjoy the soundtracks for both Brain Powerd and Turn A Gundam despite having never seen either show.
+However, this fondess for music is largely due to the music itself, regardless of its narrative significance or usage. Noriko's theme from earlier stood out more than anything from Diebuster due to its clear melodic hook, but how much was that the music itself versus its application to the show? Consider this anecdote: in my early love of Escaflowne and Cowboy Bebop, I decided to seek out anything and everything composed by Yoko Kanno. I now regularly listen to and enjoy the soundtracks for both Brain Powerd and Turn A Gundam despite having never seen either show.
 
 <div class="img-half">
   <img src="images/ping-pong/yoko_kanno.jpg">
@@ -33,14 +33,14 @@ I want to talk about Ping Pong the Animation. SPOILERS AHEAD!
   <img src="images/ping-pong/promo.jpg">
 </div>
 
-Ping Pong already has a strong backing score. The music often matches the emotion of the scene, from pumped up action to quiet sadness.
+Ping Pong already has a strong backing score. The music often matches the emotion of the scene, from pumped-up action to quiet sadness.
 
 <div class="videoContainer2">
   <video file="e11_game.mp4"></video>
   <video file="e10_emotion.mp4" poster="images/ping-pong/e10_emotion.png"></video>
 </div>
 
-Each main character has an easily distinguishable "theme song", or musical motif, that generally follows them from their introduction through their arc.
+Each main character has an easily distinguishable musical motif, that generally follows them through their arc.
 
 <div class="videoContainer2">
   <video file="e02_kazama_intro.mp4"></video>
@@ -97,7 +97,7 @@ The final turn of this battle is when an already demoralized Kong Wenge gets che
 
 <video file="e03_yelling.mp4"></video>
 
-Immediately, Smile is shown to lose his drive. Like his many games with Peco over the years, he can't help but go easy on someone who "bases their life around Ping Pong", something he describes to Kazuma in that same episode as "disgusting".
+Immediately, Smile is shown to lose his drive. Like his many games with Peco over the years, he can't help but go easy on someone who "bases their life around Ping Pong".
 
 <video file="e03_creepy.mp4"></video>
 
@@ -127,15 +127,15 @@ Finally, at his lowest point, Peco remembers that key bit of wisdom from his chi
 
 <video file="e10_peco_epiphany.mp4"></video>
 
-During this epiphany, we hear Smile's old humming tune slowly fade in. We see a flashback that explains its origins - Smile wrote it for Peco, as the Hero's theme! But as recently as episode 1, Peco had forgotten it. Now through flashback, we hear the original rendition through the voice of a child.
+During this epiphany, we hear Smile's old humming tune slowly fade in. We see a flashback that explains its origins – Smile wrote it for Peco, as the Hero's theme! But as recently as episode 1, Peco had forgotten it. Now through flashback, we hear the original rendition through the voice of a child.
 
 The theme has been setup, reinforced, and reincorporated. But now for the real payoff.
 
-Up until this point, Peco hasn't had a definable song that was his own. His matches would highlight the theme of his opponents, and his slower scenes borrowed from the standard library of background score. This is the true payoff of the show. On the official soundtrack, this song is titled simply, "Peco".
+Up until this point, Peco hasn't had a definable song that was his own. His scenes either highlighted another character's theme or borrowed from the standard library of background score. This is the true payoff of the show. On the official soundtrack, this song is titled simply, "Peco".
 
 <video file="e10_peco_theme.mp4"></video>
 
-Hero Kenzan! The action zips by. The background and spectators, even the colors, start to fade as the two players become increasingly focused and wholly absorbed by the game. And nowhere is this sudden transformation as clear and apparent as the score.
+Hero Kenzan! The action zips by. The background and spectators, even the colors, start to fade as the two players become increasingly focused and wholly absorbed by the game. And nowhere is this sudden transformation as clear and apparent as in the score.
 
 Peco's theme is exploding with sincere exuberance. It's the same melody we heard from Smile earlier, but apply a faster tempo and interesting percussion, and it transforms into a spontaneous assault of sounds. Peco's theme is childish, with the squeaking flute and bells and whistles. Peco's theme is spirited, with the vocal ooo-ing and echoing and the occasional clapping on the beat. Peco's theme is solid and powerful, with the electronic drone to center the chord alongside the strong percussive beat.
 
