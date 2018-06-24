@@ -183,9 +183,11 @@ Even more, we can appreciate this song's different manifestations / interpretati
 
 <video file="e10_smile_hero.mp4"></video>
 
-What I love in particular about this motif is how it transitions from diagetic to non-diagetic, ie from occuring within the reality of the show to outside it. Smile's humming is diagetic, because the characters are aware of it, versus the backing score, which is purely for our benefit and exists outside of the narrative.
+What I love in particular about this motif is how it transitions from diagetic to non-diagetic, ie from occuring within the reality of the show to outside it. Smile's humming is diagetic, because the characters are aware of it, unlike the backing score, which is purely for our benefit and exists outside of the narrative.
 
-Motifs can be powerful things, for building emotional connections to the art or baking narrative associations into the subtext. But so rarely so you see a motif modified, let alone "adapted", like the Hero's theme in Ping Pong. Not only was it expertly set up both in timing and secrecy, but the moment when understand and emotion come together in the narrative and the score synthesizes in response is unprecedented and deeply powerful. When the melody moves from the diagetic humming of a child's fantasy to the pulsating soundtrack of the big match, so does the story of the Hero transform into legend.
+Motifs can be powerful tools for building emotional connections to the art or baking narrative associations into the subtext. But so rarely so you see a motif modified, let alone "adapted", like Peco's theme in Ping Pong. It expertly set up both in story integration and the gradual backstory to connect the dots. Our understanding and emotion come together in the narrative and the score synthesizes in response for an effect that is deeply powerful.
+
+When the motif moves from the diagetic humming of a child's fantasy to the pulsating soundtrack of the big match, so does the story of the Hero transform into legend.
 
 ![](images/ping-pong/e10_hero_reflection.png)
 
