@@ -33,6 +33,8 @@ I want to talk about Ping Pong the Animation. SPOILERS AHEAD!
   <img src="images/ping-pong/promo.jpg">
 </div>
 
+## Character Themes
+
 Ping Pong already has a strong backing score. The music often matches the emotion of the scene, from pumped-up action to quiet sadness.
 
 <div class="videoContainer2">
@@ -63,11 +65,29 @@ Compare this to Koizumi, whose descending piano scales and whistful strings refl
 
 That said, as impressive and effective as these motifs are, nothing compares to the Hero's theme and how it is set up, reinforced, then paid off.
 
-The first episode has to a do a lot of heavy lifting fast, both to establish the broad cast of characters and seed the themes that will run thorough the show. Starting in the cold open and then mixed throughout the episode, we see glimpses of the hero. "Chant his name three times, then he will appear!"
+## Smile and Peco
 
-![](images/ping-pong/e01_chant.png)
+![](images/ping-pong/e01_hero_silhouette.png)
 
-In what seems unrelated on first viewing, Smile hums a simple tune a few times in the episode. After getting skunked by Kong in the episode's climax, Peco asks Smile about the song:
+Let's recap the story. Peppered throughout the show in flashbacks, it is revealed that Smile was often bullied as a child. When Peco befriended him and started fending off the bullies, Smile was not only grateful – he idolized Peco. It's why Smile started playing Ping Pong in the first place.
+
+![](images/ping-pong/e11_be_like_you.png)
+
+Snap to present, and Smile doesn't see Peco as the hero anymore. Peco has lost sight of what made him inspirational, and has become lazy and complacent. The show then follows Peco as he falls behind his peers, hits rock bottom, rediscovers his love of Ping Pong, and reclaims his status as the hero.
+
+![](images/ping-pong/e11_hero_pose.png)
+
+In his absence, we see Smile struggling to cope with the Hero's absence. Why play Ping Pong? What's the point? It is this "Hero vacuum" that forces Smile to try and forge his own path forward as "The Robot".
+
+![](images/ping-pong/e05_smile_robot.png)
+
+However, this way of living is clearly missing something. As we see in both Smile's dialogue and brief fantasy scenes mixed in, Smile's only true salvation will come with the return of the Hero.
+
+![](images/ping-pong/e06_robot_defeat.png)
+
+## The Hero's Motif
+
+How does the music compliment this story? By establishing a specific melody as the Hero's motif. Throughout the first episode, Smile hums a simple tune. After getting skunked by Kong in the episode's climax, Peco finally asks Smile about the song:
 
 <video file="e01_hero_theme.mp4"></video>
 
@@ -81,7 +101,9 @@ In what seems unrelated on first viewing, Smile hums a simple tune a few times i
 >
 > Peco: A little.
 
-Spoilers: Peco doesn't recognize his own theme song. He's lost sight of what drove him as a child and made him the hero. More on this later.
+We learn later on in episode 10 that Smile came up with this song when they were children, as a theme song for the Hero that Peco frequently described and protrayed. Peco has forgetton the tune completely, similar to how he's lost sight of his purpose.
+
+![](images/ping-pong/e10_hero_song.png)
 
 The reinforcement comes during Smile's tournament match vs Kong Wenge in episode 3. At this point, Koizumi has convinced Smile to start practicing and has begun cultivating Smile's competitive edge. That said, keep in mind that Smile has not yet transformed fully into the ruthless robot that defeats Sakuma just two episodes later.
 
@@ -116,6 +138,8 @@ Smile can't help but notice that Peco, his childhood hero, has finally returned.
 > Welcome back, hero.
 
 But we don't hear Hero's theme for another two episodes. Why? Because Peco is still missing something, and he hasn't figured it out yet.
+
+## The Hero's Return
 
 It is during the semi-finals match against Kazama that Peco is truly tested. After quicking losing 4 points in a very convincing fashion, Peco thinks this is his lowest point. His triumphant moment! He openly declares the start of his comeback.
 
