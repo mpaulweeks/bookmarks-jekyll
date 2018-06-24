@@ -1,13 +1,29 @@
-Didnt get reference to minor mode, didnt get connection of analysis to clip (arpeggio term is too jargony, check my privelege)
+20180624 khalid feedback
 
-“Spoiler: peco doesnt recognize his theme” seems to contradict later statement that he adapts it. I didn’t bridge the gap between it being his theme all along, and/or that assumption is incorrect?
+-2nd koizumi clip--dont really hear it, maybe i'm noob
+-"Smile starts of his match with Konge on the backfoot, but this doesn’t discourage him."--unclear phrasing
+--is kong on the back foot? I know he's not, but it took me a few to decipher, not having watched
+the anime recently, and interrupted the flow of the piece.
+-"Smile cannot understand the language but clearly gets the gist of it."--maybe go after the video clip,
+since it's more related to the 2nd clip--throughout the piece you set the expectation of
+"point with words->video directly showing that point," and that pattern isn't followed here.
+  -It can be good to break up the flow of the writing and keep readers from getting bored,
+  like with what you do with | blocks of text, but these switchups are bad if they reduce readbility
+-"You can hear the same theme music as their first match from episode one, bringing their relationship full circle."
+  -does this contribute to the hero theme song thesis?
+-throughout the piece, you take for granted your understanding that the hero's theme is peco's, although
+that isn't realized by the viewer until much later in the series. The clip after "Smile can’t help but notice that Peco is back."
+is the first confirmation (I think? am noob?) in the series that it is.
+-nice diagetic drop LUL
+-"Spoilers: Peco doesn’t recognize his own theme song." at the start contradicts the end, where
+you say Peco's song is an adaptation of the hero's theme. I don't think it's that he doesn't recognize
+it, it's that his song hasn't been developed yet? if that makes sense
 
-Clear up sentence about “Smile on the backfoot”, not clear who is doing what. Rephrase like “Smile is at a strong disadvantage”
+my translation over the phone
 
-For most of the article, sentence sets up the clip. “Smile sees conversation about Kong” doesnt feel set up in the same way. Also probably include clip for zoom, and comment on musical zoom cue
-
-Is the peco vs kong clip helping the argument? Or just fun thing? Should cut it
-
-Seed thesis earlier about Smile missing the hero, and the hero coming back, then launch into clips as argument that music supports
-
-
+- Didnt get reference to minor mode, didnt get connection of analysis to clip (arpeggio term is too jargony, check my privelege)
+- “Spoiler: peco doesnt recognize his theme” seems to contradict later statement that he adapts it. I didn’t bridge the gap between it being his theme all along, and/or that assumption is incorrect?
+- Clear up sentence about “Smile on the backfoot”, not clear who is doing what. Rephrase like “Smile is at a strong disadvantage”
+- For most of the article, sentence sets up the clip. “Smile sees conversation about Kong” doesnt feel set up in the same way. Also probably include clip for zoom, and comment on musical zoom cue
+- Is the peco vs kong clip helping the argument? Or just fun thing? Should cut it
+- Seed thesis earlier about Smile missing the hero, and the hero coming back, then launch into clips as argument that music supports
