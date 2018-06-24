@@ -20,6 +20,11 @@ Which got me thinking: How many times have I watched a movie or show, only to fi
 
 However, this fondess for music is largely due to the music itself, regardless of it's narrative significance or usage. Noriko's theme from earlier stood out more than anything from Diebuster due to its clear melodic hook, but how much was that the music itself versus it's application to the show? Consider this anecdote: in my early love of Escaflowne and Cowboy Bebop, I decided to seek out anything and everything composed by Yoko Kanno. I now regularly listen to and enjoy the soundtracks for both Brain Powerd and Turn A Gundam despite having never seen either show.
 
+<div class="img-half">
+  <img src="images/ping-pong/yoko_kanno.jpg">
+</div>
+<div class="img-comment">Pictured: Yoko Kanno, my teenage (and forever?) celebrity crush</div>
+
 Today, I don't want to take about those songs or try to describe why they appeal to me with awkward metaphors. I want to talk about when a show or film's score works with the action on screen to create something together that's wonderous and unique. I want to dive into motifs and their importance to our connection with the characters and themes.
 
 I want to talk about Ping Pong the Animation. SPOILERS AHEAD!
