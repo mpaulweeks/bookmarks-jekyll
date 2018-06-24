@@ -93,15 +93,15 @@ The stronger Smile gets, the more at peace he seems. He is approaching enlighten
 
 > No way... Is [Smile] going to win?
 
-The final turn of this battle is when an already demoralized Kong Wenge gets chewed out by his coach, who is also his translator and only friend. Smile cannot understand the language but clearly gets the gist of it.
+The final turn of this battle is when an already demoralized Kong Wenge gets chewed out by his coach, who is also his translator and only friend. Smile cannot understand the language but clearly gets the stakes. The humming stops, and a sudden shift in the music accompanies a claustrophoic zoom. Smile's not having fun any more.
 
-<video file="e03_yelling.mp4"></video>
+<video file="e03_yelling_zoom.mp4"></video>
 
-Immediately, Smile is shown to lose his drive. Like his many games with Peco over the years, he can't help but go easy on someone who "bases their life around Ping Pong".
+Immediately, Smile loses his drive to win and sloppily hands the game to Kong. Like his many games with Peco over the years, he can't help but take pity on someone who bases their life around Ping Pong.
 
 <video file="e03_creepy.mp4"></video>
 
-The show quickly skips to the inevitable conclusion: Smile caves and hands the game to Kong. After this match and Koizumi's strong scolding, Smile transforms fully into the "emotionless" robot. For the next several episodes, he doesn't hesistate to crush even former friends like Sakuma. Witnessing this, and feeling left behind, Peco is finally so discouraged he throws away his ping pong paddle.
+After this match and Koizumi's strong scolding, Smile quickly transforms fully into the "emotionless" robot. For the next several episodes, he doesn't hesistate to crush even former friends like Sakuma. Witnessing this, and feeling left behind, Peco is finally so discouraged he throws away his ping pong paddle.
 
 <video file="e05_paddle.mp4"></video>
 
@@ -109,13 +109,13 @@ With Peco hitting rock bottom in his own existential crisis, it's fitting that t
 
 With a peptalk from Sakuma and an off-screen epiphany (later revealed to be Smile's enthusiastic grin in an old photo), Peco throws himself into training. He is finding himself again, but has not regained Hero status just yet. In the climatic tournament of the series, we see him breeze through his early opponents. Peco gets a cathartic rematch with Kong Wenge in episode 8 that also serves to conclude Kong's arc.
 
-Smile can't help but notice that Peco is back.
+Smile can't help but notice that Peco, his childhood hero, has finally returned.
 
 <video file="e08_peco_returns.mp4"></video>
 
 > Welcome back, hero.
 
-But the Hero's theme doesn't return for another two episodes. Why? Because Peco is still missing something, and he hasn't figured it out yet.
+But we don't hear Hero's theme for another two episodes. Why? Because Peco is still missing something, and he hasn't figured it out yet.
 
 It is during the semi-finals match against Kazama that Peco is truly tested. After quicking losing 4 points in a very convincing fashion, Peco thinks this is his lowest point. His triumphant moment! He openly declares the start of his comeback.
 
