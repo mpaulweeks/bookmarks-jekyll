@@ -7,17 +7,26 @@ isLive: false
 permalink: /ping-pong-animation-hero-theme
 ---
 
-Something that fascinates me is scoring. Many television series or movies are elevated by their soundtracks. After a recent re-watch of Gunbuster, I couldn't get [Noriko's theme](https://youtu.be/lNtnlecG9y0) out of my head. It was distinguisable. It was catchy! And it reminded me of many an episode's emotional climax. So consider my disappointment when I watched Diebuster soon after, only to be struck by how the sequels music left me feeling...well, almost nothing! The scoring is competent, with busy music for action scenes and tense music leading up the midpoint twist. But it mostly just stayed there in the background, and utterly failed to make a lasting impression (outside of the explicit and out-of-place quoting of the [retro, bombastic Gunbuster theme](https://youtu.be/GFppdq6vEPg?t=19s)). The contrast only made me appreciate Gunbuster that much more.
+Something that fascinates me is scoring. Many television series or movies are elevated by their soundtracks. After a recent re-watch of Gunbuster, I couldn't get [Noriko's theme](https://youtu.be/lNtnlecG9y0) out of my head. It was recognizable. It was catchy! And listening to it over and over recalled the bittersweet feelings of many an episode's emotional climax.
 
-How many times have I watched a movie or show, only to find myself listening to its soundtrack on loop the follow week? In almost all cases, it retroactively boosts my appreciation for the original work. Everytime I listen to Diva from Blood+ or Shangri-la from Noein, it generates nostalgia for an otherwise forgettable work. Not to mention the catchy OPs or inserts, which on repeat listens inevitably erode criticism or misgivings I had about the source material.
+So consider my disappointment when I watched Diebuster soon after, only to be struck by how the sequels music left me feeling...well, almost nothing! The scoring is competent, with busy music for action scenes and tense music leading up the mid-series twist. But it mostly just stayed there in the background, and utterly failed to make a lasting impression (outside of the conspicuously out-of-place quoting of the [retro, bombastic Gunbuster theme](https://youtu.be/GFppdq6vEPg?t=19s)). The contrast only made me appreciate Gunbuster that much more.
 
-However, this fondess for music is largely due to the music itself, regardless of it's significance or usage. Noriko's theme from earlier stood out more than anything from Diebuster with it's clear melodic hook, but how much was that the music itself versus it's application to the show? Consider this anecdote: in my early love of Escaflowne and Cowboy Bebop, I decided to seek out anything else composed by Yoko Kanno. I now regularly listen to and enjoy the soundtracks for both Brain Powerd and Turn A Gundam despite having never seen either show.
+<div class="img-half">
+  <img src="images/ping-pong/gunbuster.jpg">
+</div>
+<div class="img-comment">aww yeah the 80s</div>
 
-Today, I don't want to take about those songs or try to describe why they appeal to me with awkward metaphors. I want to talk about when a show or film's score works with the action on screen to create something wonderous and unique. I want to dive into motifs and their importance to our connection with the characters and themes.
+Which got me thinking: How many times have I watched a movie or show, only to find myself listening to its soundtrack on loop the follow week? In almost all cases, it retroactively boosts my appreciation for the original work. Everytime I listen to [Diva from Blood+](https://www.youtube.com/watch?v=j3uaUfuYMRI) or [Shangri-la from Noein](https://youtu.be/NLYXYjruLFw), it generates nostalgia for an otherwise forgettable series. Not to mention catchy OPs or inserts, which on repeat listens inevitably erode criticism or misgivings I had about the source material (looking at your, [Kiznaiver](https://www.youtube.com/watch?v=eFedqiw-1pc)).
+
+However, this fondess for music is largely due to the music itself, regardless of it's narrative significance or usage. Noriko's theme from earlier stood out more than anything from Diebuster due to its clear melodic hook, but how much was that the music itself versus it's application to the show? Consider this anecdote: in my early love of Escaflowne and Cowboy Bebop, I decided to seek out anything and everything composed by Yoko Kanno. I now regularly listen to and enjoy the soundtracks for both Brain Powerd and Turn A Gundam despite having never seen either show.
+
+Today, I don't want to take about those songs or try to describe why they appeal to me with awkward metaphors. I want to talk about when a show or film's score works with the action on screen to create something together that's wonderous and unique. I want to dive into motifs and their importance to our connection with the characters and themes.
 
 I want to talk about Ping Pong the Animation. SPOILERS AHEAD!
 
-![](images/ping-pong/promo.jpg)
+<div class="img-half">
+  <img src="images/ping-pong/promo.jpg">
+</div>
 
 Ping Pong already has a strong backing score. The music often matches the emotion of the scene, from pumped up action to quiet sadness.
 
@@ -26,7 +35,7 @@ Ping Pong already has a strong backing score. The music often matches the emotio
   <video file="e10_emotion.mp4" poster="images/ping-pong/e10_emotion.png"></video>
 </div>
 
-Each main character has an easily distinguishable "theme song" that generally follows them from their introduction through their arc.
+Each main character has an easily distinguishable "theme song", or musical motif, that generally follows them from their introduction through their arc.
 
 <div class="videoContainer2">
   <video file="e02_kazama_intro.mp4"></video>
