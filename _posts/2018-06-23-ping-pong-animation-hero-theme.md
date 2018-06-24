@@ -107,13 +107,13 @@ The show quickly skips to the inevitable conclusion: Smile caves and hands the g
 
 With Peco hitting rock bottom in his own existential crisis, it's fitting that the Hero's Theme completely disappears for these middle episodes. So what will it take to bring it back?
 
-With a peptalk from Sakuma and an off-screen epiphany (later revealed to be Smile's enthusiastic grin in an old photo), Peco throws himself into training. He is finding himself again, but has not regained Hero status just yet. In the climatic tournament of the series, we see him breeze through his early opponents. Peco gets a cathartic rematch with Kong Wenge in episode 8 that also serves to conclude Kong's arc and show his growth and maturity. You can hear the same theme music as their first match from episode one, bringing their relationship full circle.
-
-<video file="e08_kong_rematch.mp4"></video>
+With a peptalk from Sakuma and an off-screen epiphany (later revealed to be Smile's enthusiastic grin in an old photo), Peco throws himself into training. He is finding himself again, but has not regained Hero status just yet. In the climatic tournament of the series, we see him breeze through his early opponents. Peco gets a cathartic rematch with Kong Wenge in episode 8 that also serves to conclude Kong's arc.
 
 Smile can't help but notice that Peco is back.
 
 <video file="e08_peco_returns.mp4"></video>
+
+> Welcome back, hero.
 
 But the Hero's theme doesn't return for another two episodes. Why? Because Peco is still missing something, and he hasn't figured it out yet.
 
