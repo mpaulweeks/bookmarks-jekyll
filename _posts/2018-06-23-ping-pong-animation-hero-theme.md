@@ -143,7 +143,7 @@ Even more, we can appreciate this song's different manifestations / interpretati
 
 <video file="e10_smile_hero.mp4"></video>
 
-What I love in particular about this motif is how it transitions from diagetic to non-diagetic, ie from occuring within the reality of the show to becoming the supporting score. For a quick primer on Diagesis, check out this segment from [Linday Ellis's review of Phantom of the Opera](https://youtu.be/-m5I_5Vnh6A?t=5m56s).
+What I love in particular about this motif is how it transitions from diagetic to non-diagetic, ie from occuring within the reality of the show to outside it. Smile's humming is diagetic, because the characters are aware of it, versus the backing score, which is purely for our benefit and exists outside of the narrative.
 
 Motifs can be powerful things, for building emotional connections to the art or baking narrative associations into the subtext. But so rarely so you see a motif modified, let alone "adapted", like the Hero's theme in Ping Pong. Not only was it expertly set up both in timing and secrecy, but the moment when understand and emotion come together in the narrative and the score synthesizes in response is unprecedented and deeply powerful. When the melody moves from the diagetic humming of a child's fantasy to the pulsating soundtrack of the big match, so does the story of the Hero transform into legend.
 
@@ -151,8 +151,9 @@ Motifs can be powerful things, for building emotional connections to the art or 
 
 ### Post Script and Further Reading
 
-- Lindsay Ellis briefly discusses motif and it's noticeable misuse in the first Hobbit film in her video [The Hobbit: A Long-Expected Autopsy](https://youtu.be/uTRUQ-RKfUs?t=31m17s). The link is timestamped, but the entire series of videos is well worth your time!
 - Going back to my opening bit about Gunbuster vs Diebuster, Every Frame a Painting did an excellent video essay called [The Marvel Symphonic Universe](https://www.youtube.com/watch?v=7vfqkvwW2fs) wherein he investigates why western movie soundtracks "seem less memorable these days".
+- For a quick primer on Diagesis, check out this segment Linday Ellis made for her review of the [Phantom of the Opera film adaptation](https://youtu.be/-m5I_5Vnh6A?t=5m56s).
+- Lindsay Ellis also briefly discusses motif and it's noticeable misuse in the first Hobbit film in her video essay [The Hobbit: A Long-Expected Autopsy](https://youtu.be/uTRUQ-RKfUs?t=31m17s). The motif bit is timestamped, but the video and it's followups are well worth your time.
 
 If you have a favorite show or movie, where you feel the score greatly elevated the storytelling, please drop me a line <a href="https://twitter.com/mpaulweeks">@mpaulweeks</a>! I'd love to hear about it.
 
