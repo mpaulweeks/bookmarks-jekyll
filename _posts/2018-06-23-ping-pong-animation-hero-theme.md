@@ -147,17 +147,14 @@ What I love in particular about this motif is how it transitions from diagetic t
 
 Motifs can be powerful things, for building emotional connections to the art or baking narrative associations into the subtext. But so rarely so you see a motif modified, let alone "adapted", like the Hero's theme in Ping Pong. Not only was it expertly set up both in timing and secrecy, but the moment when understand and emotion come together in the narrative and the score synthesizes in response is unprecedented and deeply powerful. When the melody moves from the diagetic humming of a child's fantasy to the pulsating soundtrack of the big match, so does the story of the Hero transform into legend.
 
-I could write so much about this show, let alone this episode. On top of the music, we also see visual motifs established throughout the show get reincorporated and combined so quickly and effectively it becomes hypnotic.
+![](images/ping-pong/e10_hero_reflection.png)
 
-<div class="center">
-  <img src="images/ping-pong/e10_symbols.gif">
-</div>
+### Post Script and Further Reading
 
-But for now, I'll call it a day. I hope I have shared with you have a profound appreciation for the scoring in Ping Pong!
+- Lindsay Ellis briefly discusses motif and it's noticeable misuse in the first Hobbit film in her video [The Hobbit: A Long-Expected Autopsy](https://youtu.be/uTRUQ-RKfUs?t=31m17s). The link is timestamped, but the entire series of videos is well worth your time!
+- Going back to my opening bit about Gunbuster vs Diebuster, Every Frame a Painting did an excellent video essay called [The Marvel Symphonic Universe](https://www.youtube.com/watch?v=7vfqkvwW2fs) wherein he investigates why western movie soundtracks "seem less memorable these days".
 
 If you have a favorite show or movie, where you feel the score greatly elevated the storytelling, please drop me a line <a href="https://twitter.com/mpaulweeks">@mpaulweeks</a>! I'd love to hear about it.
-
-PS. if you want to learn more about why movie soundtracks "seem less memorable these days", I strongly recommend a video essay called [The Marvel Symphonic Universe](https://www.youtube.com/watch?v=7vfqkvwW2fs) by the wonderful channel Every Frame a Painting (RIP).
 
 <script>
   let rootPath = 'https://s3.amazonaws.com/blog.mpaulweeks.com/ping-pong/';
