@@ -73,15 +73,29 @@ Let's recap the story. Peppered throughout the show in flashbacks, it is reveale
 
 ![](images/ping-pong/e11_be_like_you.png)
 
+As children, Peco often wore a mask and played at being a Hero. Whenever Smile would feel bullied, he would remember Peco's instructions.
+
+> Call me when you're in a pinch!
+>
+> Chant this three times in your mind!
+>
+> Enter the hero! Enter the hero! Enter the hero!
+>
+> If you do that, I'll come to you.
+
+In Smile's eyes, there was nothing pretend about this. As his frequent protector, best friend, and Ping Pong idol, Peco WAS the hero!
+
+![](images/ping-pong/e10_child_hero.png)
+
 Snap to present, and Smile doesn't see Peco as the hero anymore. Peco has lost sight of what made him inspirational, and has become lazy and complacent. The show then follows Peco as he falls behind his peers, hits rock bottom, rediscovers his love of Ping Pong, and reclaims his status as the hero.
 
 ![](images/ping-pong/e11_hero_pose.png)
 
-In his absence, we see Smile struggling to cope with the Hero's absence. Why play Ping Pong? What's the point? It is this "Hero vacuum" that forces Smile to try and forge his own path forward as "The Robot".
+Meanwhile, we see Smile struggling to cope with the Hero's absence. Why play Ping Pong? What's the point? It is this "hero vacuum" that forces Smile to try and forge his own path forward as "The Robot".
 
 ![](images/ping-pong/e05_smile_robot.png)
 
-However, this way of living is clearly missing something. As we see in both Smile's dialogue and brief fantasy scenes mixed in, Smile's only true salvation will come with the return of the Hero.
+However, this way of living is clearly missing something. As we see in both Smile's dialogue and the brief fantasy scenes mixed in, Smile's only true salvation will come with the return of the Hero.
 
 ![](images/ping-pong/e06_robot_defeat.png)
 
@@ -101,7 +115,7 @@ How does the music compliment this story? By establishing a specific melody as t
 >
 > Peco: A little.
 
-We learn later on in episode 10 that Smile came up with this song when they were children, as a theme song for the Hero that Peco frequently described and protrayed. Peco has forgetton the tune completely, similar to how he's lost sight of his purpose.
+We learn later on in episode 10 that Smile came up with this song when they were children, as a theme song for the Peco's hero persona. Peco has forgetton the tune completely, mirroring how he's lost sight of what makes him the hero.
 
 ![](images/ping-pong/e10_hero_song.png)
 
@@ -159,7 +173,7 @@ Up until this point, Peco hasn't had a definable song that was his own. His scen
 
 <video file="e10_peco_theme.mp4"></video>
 
-Hero Kenzan! The action zips by. The background and spectators, even the colors, start to fade as the two players become increasingly focused and wholly absorbed by the game. And nowhere is this sudden transformation as clear and apparent as in the score.
+Enter the hero! The action zips by. The background and spectators, even the colors, start to fade as the two players become increasingly focused and wholly absorbed by the game. And nowhere is this sudden transformation as clear and apparent as in the score.
 
 Peco's theme is exploding with sincere exuberance. It's the same melody we heard from Smile earlier, but apply a faster tempo and interesting percussion, and it transforms into a spontaneous assault of sounds. Peco's theme is childish, with the squeaking flute and bells and whistles. Peco's theme is spirited, with the vocal ooo-ing and echoing and the occasional clapping on the beat. Peco's theme is solid and powerful, with the electronic drone to center the chord alongside the strong percussive beat.
 
