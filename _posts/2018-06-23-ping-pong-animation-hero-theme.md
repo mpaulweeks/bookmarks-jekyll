@@ -69,6 +69,8 @@ The first episode has to a do a lot of heavy lifting fast, both to establish the
 
 In what seems unrelated on first viewing, Smile hums a simple tune a few times in the episode. After getting skunked by Kong in the episode's climax, Peco asks Smile about the song:
 
+<video file="e01_hero_theme.mp4"></video>
+
 > Peco: What's that?
 >
 > Smile: Monster Robot
@@ -78,8 +80,6 @@ In what seems unrelated on first viewing, Smile hums a simple tune a few times i
 > Smile: Is it weird?
 >
 > Peco: A little.
-
-<video file="e01_hero_theme.mp4"></video>
 
 Spoilers: Peco doesn't recognize his own theme song. He's lost sight of what drove him as a child and made him the hero. More on this later.
 
