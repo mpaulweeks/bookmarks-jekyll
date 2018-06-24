@@ -1,0 +1,69 @@
+> Something that fascinates me is scoring.
+
+Extraneous. The second sentence is a better start.
+
+> Many television series or movies are elevated by their soundtracks. After a recent re-watch of Gunbuster, I couldn’t get Noriko’s theme out of my head. It was recognizable. It was catchy!
+
+Tighten up with "I couldn't get Noriko's catchy, recognizable theme out of my head".
+
+> And listening to it over and over recalled the bittersweet feelings of many an episode’s emotional climax.
+
+I feel like "many an episode's" is a bit noncommittal. Are you saying that the theme ties the climaxes together?
+
+> So consider my disappointment when I watched Diebuster soon after, only to be struck by how the sequels music left me feeling…well, almost nothing! The scoring is competent, with busy music for action scenes and tense music leading up the mid-series twist. But it mostly just stayed there in the background, and utterly failed to make a lasting impression (outside of the conspicuously out-of-place quoting of the retro, bombastic Gunbuster theme). The contrast only made me appreciate Gunbuster that much more.
+
+Burying the lead a bit. Maybe tighten up with "The score was always thematically appropriate, but it mostly blended into the background and failed…"
+
+> Which got me thinking: How many times have I watched a movie or show, only to find myself listening to its soundtrack on loop the follow week? In almost all cases, it retroactively boosts my appreciation for the original work. Everytime I listen to Diva from Blood+ or Shangri-la from Noein, it generates nostalgia for an otherwise forgettable series. Not to mention catchy OPs or inserts, which on repeat listens inevitably erode criticism or misgivings I had about the source material (looking at your, Kiznaiver).
+
+Sp. "looking at your" -> "looking at you".
+
+> However, this fondess for music is largely due to the music itself, regardless of it’s narrative significance or usage.
+
+Sp. "it's" -> "its".
+
+> Noriko’s theme from earlier stood out more than anything from Diebuster due to its clear melodic hook, but how much was that the music itself versus it’s application to the show?
+
+Sp. "it's" -> "its".
+
+> Consider this anecdote: in my early love of Escaflowne and Cowboy Bebop, I decided to seek out anything and everything composed by Yoko Kanno. I now regularly listen to and enjoy the soundtracks for both Brain Powerd and Turn A Gundam despite having never seen either show. Pictured: Yoko Kanno, my teenage (and forever?) celebrity crush. Today, I don’t want to take about those songs or try to describe why they appeal to me with awkward metaphors. I want to talk about when a show or film’s score works with the action on screen to create something together that’s wonderous and unique. I want to dive into motifs and their importance to our connection with the characters and themes.
+
+The point of teenage celebrity crushes is to never mention them publicly ever.
+
+> Ping Pong already has a strong backing score. The music often matches the emotion of the scene, from pumped up action to quiet sadness.
+
+Hyphen. "pumped up action" -> "pumped-up action".
+
+> Each main character has an easily distinguishable “theme song”, or musical motif, that generally follows them from their introduction through their arc.
+
+Remove '"theme song", or', and "from their introduction".
+
+> The stronger Smile gets, the more at peace he seems. He is approaching enlightenment, while Peco as spectator becomes jealous and confused. Peco doesn’t recognize his friend Smile. Peco was supposed to be the hero, right? After getting skunked by Kong just two episodes prior, Peco’s only words are:
+
+> No way… Is [Smile] going to win?
+
+> The final turn of this battle is when an already demoralized Kong Wenge gets chewed out by his coach, who is also his translator and only friend. Smile cannot understand the language but clearly gets the gist of it.
+
+> Immediately, Smile is shown to lose his drive. Like his many games with Peco over the years, he can’t help but go easy on someone who “bases their life around Ping Pong”, something he describes to Kazuma in that same episode as “disgusting”.
+
+Overquoting with 'something he describes to Kazuma in that same episode as “disgusting”.' I think you can end the sentence at the comma.
+
+> During this epiphany, we hear Smile’s old humming tune slowly fade in. We see a flashback that explains its origins - Smile wrote it for Peco, as the Hero’s theme! But as recently as episode 1, Peco had forgotten it. Now through flashback, we hear the original rendition through the voice of a child.
+
+Dashes work "like—this" or "like – this", not "like - this".
+
+> The theme has been setup, reinforced, and reincorporated. But now for the real payoff.
+
+> Up until this point, Peco hasn’t had a definable song that was his own. His matches would highlight the theme of his opponents, and his slower scenes borrowed from the standard library of background score. This is the true payoff of the show. On the official soundtrack, this song is titled simply, “Peco”.
+
+Your tenses are inconsistent here.
+
+> Hero Kenzan! The action zips by. The background and spectators, even the colors, start to fade as the two players become increasingly focused and wholly absorbed by the game. And nowhere is this sudden transformation as clear and apparent as the score.
+
+"as in the score", I think.
+
+> Motifs can be powerful things, for building emotional connections to the art or baking narrative associations into the subtext. But so rarely so you see a motif modified, let alone “adapted”, like the Hero’s theme in Ping Pong. Not only was it expertly set up both in timing and secrecy, but the moment when understand and emotion come together in the narrative and the score synthesizes in response is unprecedented and deeply powerful. When the melody moves from the diagetic humming of a child’s fantasy to the pulsating soundtrack of the big match, so does the story of the Hero transform into legend.
+
+End it here.
+
+I think you should steal from Lindsay Ellis and mention the thing where The Hobbit fucked up the scoring and play the Nazgul theme at the wrong time. Because that is hilarious.
