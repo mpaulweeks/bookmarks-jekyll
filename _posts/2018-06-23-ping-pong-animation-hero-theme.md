@@ -85,7 +85,7 @@ Spoilers: Peco doesn't recognize his own theme song. He's lost sight of what dro
 
 The reinforcement comes during Smile's tournament match vs Kong Wenge in episode 3. At this point, Koizumi has convinced Smile to start practicing and has begun cultivating Smile's competitive edge. That said, keep in mind that Smile has not yet transformed fully into the ruthless robot that defeats Sakuma just two episodes later.
 
-Smile starts of his match with Konge on the backfoot, but this doesn't discourage him. Yes we see some of the "mechnical" imagery as he downloads his opponent, but as Smile makes his comeback he is humming the same old tune. He is focused, he is trying, and he's having fun.
+Using an unfamiliar paddle, Smile starts of his match with Konge at a big disadvantage and quickly loses the first game. However, Smile doesn't appear upset, nor is his coach Koizumi worried. As Smile starts to make his comeback, we hear him humming the same tune from episode 1. He is focused, he is trying, and he's having fun.
 
 <video file="e03_humming.mp4"></video>
 
