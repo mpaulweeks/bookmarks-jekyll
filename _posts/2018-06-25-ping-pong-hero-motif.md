@@ -4,7 +4,7 @@ title: The Hero's Motif in Ping Pong the Animation
 type: post
 category: art
 isLive: true
-permalink: /ping-pong-animation-hero-theme
+permalink: /ping-pong-hero-motif
 ---
 
 Many television series or movies are elevated by their soundtracks. After a recent re-watch of Gunbuster, I couldn't get [Noriko's catchy theme](https://youtu.be/lNtnlecG9y0) out of my head. Listening to it over and over recalled the bittersweet feelings of the show's emotional twists and heroic climax. The more time I spent revisiting the music, the more time I spent thinking about the show. Processing the emotions. [Polishing the memory](https://tabletitans.com/comic/mines-of-madness-page-18).
