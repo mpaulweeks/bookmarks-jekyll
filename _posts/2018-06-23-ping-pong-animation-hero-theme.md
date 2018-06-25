@@ -73,7 +73,7 @@ Let's recap the story. Peppered throughout the show in flashbacks, it is reveale
 
 ![](images/ping-pong/e11_be_like_you.png)
 
-As children, Peco often wore a mask and played at being a Hero. Whenever Smile would feel bullied, he would remember Peco's instructions.
+As a child, Peco often wore a mask and played at being a Hero. Whenever Smile would feel bullied, he would remember Peco's instructions:
 
 > Call me when you're in a pinch!
 >
@@ -185,11 +185,11 @@ Enter the hero! The action zips by. The background and spectators, even the colo
 
 Peco's theme is exploding with sincere exuberance. It's the same melody we heard from Smile earlier, but apply a faster tempo and interesting percussion, and it transforms into a spontaneous assault of sounds. Peco's theme is childish, with the squeaking flute and bells and whistles. Peco's theme is spirited, with the vocal ooo-ing and echoing and the occasional clapping on the beat. Peco's theme is solid and powerful, with the electronic drone to center the chord alongside the strong percussive beat.
 
-Even more, we can appreciate this song's different manifestations / interpretations / arrangements as reflections of each character. Peco's theme mirrors his best qualities and aspirations (as described above), while Smile's slower lullaby more accurately represent Smile's needs: the hero as protector and savior, an answer to the external noise and bullying, less a drug and more a salve.
+Even more, we can appreciate this song's different manifestations / interpretations / arrangements as reflections of each character. Peco's theme mirrors his best qualities and aspirations (as described above). Smile's slower lullaby represents his needs: the hero as protector and savior, an answer to the external noise and bullying, less a drug and more a salve.
 
 <video file="e10_smile_hero.mp4"></video>
 
-What I love in particular about this motif is how it transitions from diegetic to non-diegetic, i.e. from occuring within the reality of the show to outside it. Smile's humming is diegetic, because the characters are aware of it, unlike the backing score, which is purely for our benefit and exists outside of the narrative.
+What I love in particular about this motif is how it switches from diegetic to non-diegetic, i.e. from occuring within the reality of the show to outside it. Smile's humming is diegetic, because the characters are aware of it, unlike the backing score, which is purely for our benefit and exists outside of the narrative.
 
 Motifs can be powerful tools for building emotional connections to the art or baking narrative associations into the subtext. But so rarely so you see a motif modified, let alone "adapted", like Peco's theme in Ping Pong. Right when Peco changes fundamentally as a character and his story arc peaks, the music changes with him for an effect that is deeply powerful.
 
@@ -200,9 +200,10 @@ When the motif moves from the diegetic humming of a child's fantasy to the pulsa
 ### Post Script and Further Reading
 
 - Going back to my opening bit about Gunbuster vs Diebuster, Every Frame a Painting did an excellent video essay called [The Marvel Symphonic Universe](https://www.youtube.com/watch?v=7vfqkvwW2fs) wherein he investigates why western movie soundtracks seem less memorable these days.
-- For a quick primer on Diagesis, check out this segment Lindsay Ellis made for her review of the [Phantom of the Opera film adaptation](https://youtu.be/-m5I_5Vnh6A?t=5m56s).
+- For a quick primer on digesis, check out this segment Lindsay Ellis made for her review of the [Phantom of the Opera film adaptation](https://youtu.be/-m5I_5Vnh6A?t=5m56s).
 - Lindsay Ellis also briefly discusses motif and it's noticeable misuse in the first Hobbit film in her video essay [The Hobbit: A Long-Expected Autopsy](https://youtu.be/uTRUQ-RKfUs?t=31m17s). The motif bit is time stamped, but the video and it's follow ups are well worth your time.
-- Special thanks to Khalid, Matt, and Eliah for proofreading and providing feedback <3
+
+Special thanks to Khalid, Matt, and Eliah for proofreading and providing feedback <3
 
 If you have a favorite show or movie, where you feel the score greatly elevated the storytelling, please drop me a line <a href="https://twitter.com/mpaulweeks">@mpaulweeks</a>! I'd love to hear about it.
 
