@@ -18,14 +18,14 @@ So consider my disappointment when I watched Diebuster soon after, only to be st
 
 Which got me thinking: How many times have I watched a movie or show, only to find myself listening to its soundtrack on loop the follow week? In almost all cases, it retroactively boosts my appreciation for the original work. Everytime I listen to [Diva from Blood+](https://www.youtube.com/watch?v=j3uaUfuYMRI) or [Shangri-la from Noein](https://youtu.be/NLYXYjruLFw), it generates nostalgia for an otherwise forgettable series. Not to mention catchy OPs or inserts, which on repeat listens slowly erode any misgivings I had about the source material (looking at you, [Kiznaiver](https://www.youtube.com/watch?v=eFedqiw-1pc)).
 
-However, this fondess for music is largely due to the music itself, regardless of its narrative significance or usage. Noriko's theme from earlier stood out thanks to its clear melodic hook, but how much of my affection was tied to the music itself versus its application in the show? Consider this anecdote: in my early love of Escaflowne and Cowboy Bebop, I decided to seek out anything and everything composed by Yoko Kanno. I now regularly listen to and enjoy the soundtracks for both Brain Powerd and Turn A Gundam despite having never seen either show.
+However, this fondness for music is largely due to the music itself, regardless of its narrative significance or usage. Noriko's theme from earlier stood out thanks to its clear melodic hook, but how much of my affection was tied to the music itself versus its application in the show? Consider this anecdote: in my early love of Escaflowne and Cowboy Bebop, I decided to seek out anything and everything composed by Yoko Kanno. I now regularly listen to and enjoy the soundtracks for both Brain Powerd and Turn A Gundam despite having never seen either show.
 
 <div class="img-half">
   <img src="images/ping-pong/yoko_kanno.jpg">
 </div>
 <div class="img-comment">Pictured: Yoko Kanno, my teenage (and forever?) celebrity crush</div>
 
-Today, I don't want to take about the "quality" of the music or try to describe why they appeal to me with awkward metaphors. I want to talk about when a show or film's score works with the action on screen to create something together that's wonderous and unique. I want to dive into motifs and their importance to our connection with the characters and themes.
+Today, I don't want to talk about the "quality" of the these soundtracks or try to describe why they appeal to me with awkward metaphors. I want to talk about when a show or film's score works with the action on screen to create something together that's wonderous and unique. I want to dive into motifs and their importance to our connection with the characters and themes.
 
 I want to talk about Ping Pong the Animation. Spoilers ahead!
 
@@ -42,7 +42,7 @@ Ping Pong already has a strong backing score. The music often matches the emotio
   <video file="e10_emotion.mp4" poster="images/ping-pong/e10_emotion.png"></video>
 </div>
 
-Each main character has an easily distinguishable musical motif, that generally follows them through their arc.
+Each main character has an easily distinguishable musical motif that generally follows them through their arc.
 
 <div class="videoContainer2">
   <video file="e02_kazama_intro.mp4"></video>
@@ -56,7 +56,7 @@ Some characters even have multiple themes for different scenarios, connected via
   <video file="e01_kong2.mp4"></video>
 </div>
 
-Compare this to Koizumi's main theme, whose descending piano scales and whistful strings reflect the old man's wisdom and warmth. When it comes time for him to teach Smile a bitter lesson, the piano gets foreboding and dissonant. The strings are replaced with a periodic and high-pitched drone, almost like a siren.
+Compare this to Koizumi's main theme, whose descending piano scales and wistful strings reflect the old man's wisdom and warmth. When it comes time for him to teach Smile a bitter lesson, the piano gets foreboding and dissonant. The strings are replaced with a periodic and high-pitched drone, almost like a siren.
 
 <div class="videoContainer2">
   <video file="e02_butterfly1.mp4"></video>
@@ -69,7 +69,7 @@ That said, as impressive and effective as these motifs are, nothing compares to 
 
 ![](images/ping-pong/e01_hero_silhouette.png)
 
-Let's recap the story. Peppered throughout the show in flashbacks, it is revealed that Smile was often bullied as a child. When Peco befriended him and started fending off the bullies, Smile was not only grateful – he idolized Peco. It's why Smile started playing Ping Pong in the first place.
+Let's recap the story. Peppered throughout the show in flashbacks, it is revealed that Smile was often bullied as a child. When Peco befriended him and started fending off the bullies, Smile was not only grateful – he idolized Peco. It's why Smile started playing ping pong in the first place.
 
 ![](images/ping-pong/e11_be_like_you.png)
 
@@ -83,15 +83,15 @@ As children, Peco often wore a mask and played at being a Hero. Whenever Smile w
 >
 > If you do that, I'll come to you.
 
-In Smile's eyes, there was nothing pretend about this. As his frequent protector, best friend, and Ping Pong idol, Peco WAS the hero!
+In Smile's eyes, there was nothing pretend about this. As his frequent protector, best friend, and ping pong idol, Peco WAS the hero!
 
 ![](images/ping-pong/e10_child_hero.png)
 
-Snap to present, and Smile doesn't see Peco as the hero anymore. Peco has lost sight of what made him inspirational, and has become lazy and complacent. The show then follows Peco as he falls behind his peers, hits rock bottom, rediscovers his love of Ping Pong, and reclaims his status as the hero.
+Snap to present, and Smile doesn't see Peco as the hero anymore. Peco has lost sight of what made him inspirational, and has become lazy and complacent. The show then follows Peco as he falls behind his peers, hits rock bottom, rediscovers his love of ping pong, and reclaims his status as the hero.
 
 ![](images/ping-pong/e11_hero_pose.png)
 
-Meanwhile, we see Smile struggling to cope with the Hero's absence. Why play Ping Pong? What's the point? It is this "hero vacuum" that forces Smile to try and forge his own path forward as "The Robot".
+Meanwhile, we see Smile struggling to cope with the Hero's absence. Why play ping pong? What's the point? It is this "hero vacuum" that forces Smile to try and forge his own path forward as "The Robot".
 
 ![](images/ping-pong/e05_smile_robot.png)
 
@@ -117,13 +117,13 @@ Throughout the first episode, Smile hums a simple tune to himself. After Peco is
 >
 > Peco: A little.
 
-We learn later on in episode 10 that Smile came up with this song when they were children, as a theme song for the Peco's hero persona. Peco has forgetton the tune completely, mirroring how he's lost sight of what makes him good at Ping Pong i.e. what makes him the hero.
+We learn later on in episode 10 that Smile came up with this song when they were children, as a theme song for the Peco's hero persona. Peco has forgotton the tune completely, mirroring how he's lost sight of what makes him good at ping pong i.e. what makes him the hero.
 
 ![](images/ping-pong/e10_hero_song.png)
 
 The reinforcement of the motif comes during Smile's tournament match vs Kong Wenge in episode 3. At this point, Koizumi has convinced Smile to start practicing and has begun cultivating Smile's competitive edge.
 
-Using an unfamiliar paddle, Smile starts of his match with Konge at a big disadvantage and quickly loses the first game. However, Smile doesn't appear upset, nor is his coach Koizumi worried. As Smile starts to make his comeback, we hear him humming the same tune from episode 1. He is focused, he is trying, and he's having fun.
+Using an unfamiliar paddle, Smile starts his match with Konge at a big disadvantage and quickly loses the first game. However, Smile doesn't appear upset, nor is his coach Koizumi worried. As Smile starts to make his comeback, we hear him humming the same tune from episode 1. He is focused, he is trying, and he is having fun.
 
 <video file="e03_humming.mp4"></video>
 
@@ -131,21 +131,21 @@ The stronger Smile gets, the more at peace he seems. He is approaching a zen-lik
 
 > No way... Is [Smile] going to win?
 
-The final turn of this battle is when an already demoralized Kong Wenge gets chewed out by his coach, who is also his translator and only friend. Smile cannot understand the language but clearly understands the stakes. The humming stops, and a sudden shift in the music accompanies a claustrophoic zoom. Smile's not having fun any more.
+The final turn of this battle is when an already demoralized Kong Wenge gets chewed out by his coach, who is also his translator and only friend. Smile cannot understand the language but clearly understands the stakes. The humming stops, and a sudden shift in the music accompanies a claustrophobic zoom. Smile's not having fun any more.
 
 <video file="e03_yelling_zoom.mp4"></video>
 
-Immediately, Smile loses his drive to win and sloppily hands the game to Kong. Like his many games with Peco over the years, he can't help but take pity on someone who bases their life around Ping Pong.
+Immediately, Smile loses his drive to win and sloppily hands the game to Kong. Like his many games with Peco over the years, he can't help but take pity on someone who bases their life around ping pong.
 
 <video file="e03_creepy.mp4"></video>
 
-After this match and Koizumi's strong scolding, Smile quickly transforms fully into the "emotionless" robot. For the next several episodes, he doesn't hesistate to crush even former friends like Sakuma. Witnessing this, and feeling left behind, Peco is finally so discouraged he throws away his ping pong paddle.
+After this match and Koizumi's strong scolding, Smile quickly transforms fully into the "emotionless" robot. For the next several episodes, he doesn't hesitate to crush even former friends like Sakuma. Witnessing this, and feeling left behind, Peco is finally so discouraged he throws away his ping pong paddle.
 
 <video file="e05_paddle.mp4"></video>
 
 With Peco hitting rock bottom in his own existential crisis, it's fitting that the Hero's Theme completely disappears for these middle episodes. So what will it take to bring it back?
 
-With a peptalk from Sakuma and an off-screen epiphany (later revealed to be Smile's enthusiastic grin in an old photo), Peco throws himself into training. He is finding himself again, but has not regained Hero status just yet. In the climatic tournament of the series, we see Peco breeze through his early opponents, including a cathartic rematch with Kong Wenge.
+After a pep talk from Sakuma and an off-screen epiphany (later revealed to be Smile's enthusiastic grin in an old photo), Peco throws himself into training. He is finding himself again, but has not regained Hero status just yet. In the climatic tournament of the series, we see Peco breeze through his early opponents, including a cathartic rematch with Kong Wenge.
 
 Smile can't help but notice that the old Peco, his childhood hero, has finally returned.
 
@@ -163,7 +163,7 @@ It is during the semi-finals match against Kazama that Peco is truly tested. Aft
 
 He announces the Hero's arrival, only to be immediately shut down and then lectured. Kazama, a veteran burdened by his success, can't stomach Peco's naivete. This false start is important, and shows that Peco is still immature, egoistic, and unaware. He continues to struggle and quickly loses the first two games.
 
-Finally, Peco remembers that key bit of wisdom from his childhood. It's not about being the best, the strongest, the hero. It's so much more pure than that! It turns out... Ping Pong is fun!
+Finally, Peco remembers that key bit of wisdom from his childhood. It's not about being the best, the strongest, the hero. It's so much more pure than that! It turns out... ping pong is fun!
 
 <video file="e10_peco_epiphany.mp4"></video>
 
@@ -179,23 +179,23 @@ Enter the hero! The action zips by. The background and spectators, even the colo
 
 Peco's theme is exploding with sincere exuberance. It's the same melody we heard from Smile earlier, but apply a faster tempo and interesting percussion, and it transforms into a spontaneous assault of sounds. Peco's theme is childish, with the squeaking flute and bells and whistles. Peco's theme is spirited, with the vocal ooo-ing and echoing and the occasional clapping on the beat. Peco's theme is solid and powerful, with the electronic drone to center the chord alongside the strong percussive beat.
 
-Even more, we can appreciate this song's different manifestations / interpretations / arrangements as reflections of each character. Peco's theme mirrors his best qualities and aspirations (as described above), while Smile's slower lullaby more acurately represent his needs: the hero as protector and savior, an answer to the external noise and bullying, less a drug and more a salve.
+Even more, we can appreciate this song's different manifestations / interpretations / arrangements as reflections of each character. Peco's theme mirrors his best qualities and aspirations (as described above), while Smile's slower lullaby more accurately represent Smile's needs: the hero as protector and savior, an answer to the external noise and bullying, less a drug and more a salve.
 
 <video file="e10_smile_hero.mp4"></video>
 
-What I love in particular about this motif is how it transitions from diagetic to non-diagetic, ie from occuring within the reality of the show to outside it. Smile's humming is diagetic, because the characters are aware of it, unlike the backing score, which is purely for our benefit and exists outside of the narrative.
+What I love in particular about this motif is how it transitions from diegetic to non-diegetic, i.e. from occuring within the reality of the show to outside it. Smile's humming is diegetic, because the characters are aware of it, unlike the backing score, which is purely for our benefit and exists outside of the narrative.
 
-Motifs can be powerful tools for building emotional connections to the art or baking narrative associations into the subtext. But so rarely so you see a motif modified, let alone "adapted", like Peco's theme in Ping Pong. It expertly set up both in story integration and the gradual backstory to connect the dots. Our understanding and emotion come together in the narrative and the score synthesizes in response for an effect that is deeply powerful.
+Motifs can be powerful tools for building emotional connections to the art or baking narrative associations into the subtext. But so rarely so you see a motif modified, let alone "adapted", like Peco's theme in Ping Pong. Right when Peco changes fundamentally as a character and his story arc peaks, the music changes with him for an effect that is deeply powerful.
 
-When the motif moves from the diagetic humming of a child's fantasy to the pulsating soundtrack of the big match, so does the story of the Hero transform into legend.
+When the motif moves from the diegetic humming of a child's fantasy to the pulsating soundtrack of the big match, the story of the Hero transforms into legend.
 
 ![](images/ping-pong/e10_hero_reflection.png)
 
 ### Post Script and Further Reading
 
-- Going back to my opening bit about Gunbuster vs Diebuster, Every Frame a Painting did an excellent video essay called [The Marvel Symphonic Universe](https://www.youtube.com/watch?v=7vfqkvwW2fs) wherein he investigates why western movie soundtracks "seem less memorable these days".
-- For a quick primer on Diagesis, check out this segment Linday Ellis made for her review of the [Phantom of the Opera film adaptation](https://youtu.be/-m5I_5Vnh6A?t=5m56s).
-- Lindsay Ellis also briefly discusses motif and it's noticeable misuse in the first Hobbit film in her video essay [The Hobbit: A Long-Expected Autopsy](https://youtu.be/uTRUQ-RKfUs?t=31m17s). The motif bit is timestamped, but the video and it's followups are well worth your time.
+- Going back to my opening bit about Gunbuster vs Diebuster, Every Frame a Painting did an excellent video essay called [The Marvel Symphonic Universe](https://www.youtube.com/watch?v=7vfqkvwW2fs) wherein he investigates why western movie soundtracks seem less memorable these days.
+- For a quick primer on Diagesis, check out this segment Lindsay Ellis made for her review of the [Phantom of the Opera film adaptation](https://youtu.be/-m5I_5Vnh6A?t=5m56s).
+- Lindsay Ellis also briefly discusses motif and it's noticeable misuse in the first Hobbit film in her video essay [The Hobbit: A Long-Expected Autopsy](https://youtu.be/uTRUQ-RKfUs?t=31m17s). The motif bit is time stamped, but the video and it's follow ups are well worth your time.
 
 If you have a favorite show or movie, where you feel the score greatly elevated the storytelling, please drop me a line <a href="https://twitter.com/mpaulweeks">@mpaulweeks</a>! I'd love to hear about it.
 
