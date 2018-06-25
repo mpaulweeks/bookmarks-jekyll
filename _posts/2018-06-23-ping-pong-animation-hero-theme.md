@@ -117,7 +117,7 @@ Throughout the first episode, Smile hums a simple tune to himself. After Peco is
 >
 > Peco: A little.
 
-We learn later on in episode 10 that Smile came up with this song when they were children, as a theme song for the Peco's hero persona. Peco has forgotton the tune completely, mirroring how he's lost sight of what makes him good at ping pong i.e. what makes him the hero.
+We learn later on in episode 10 that Smile came up with this song when they were children, as a theme song for the Peco's hero persona. Peco has forgotton the tune completely, mirroring how he's lost sight of what makes him good at ping pong, as well as what makes him the hero.
 
 ![](images/ping-pong/e10_hero_song.png)
 
@@ -135,9 +135,13 @@ The final turn of this battle is when an already demoralized Kong Wenge gets che
 
 <video file="e03_yelling_zoom.mp4"></video>
 
-Immediately, Smile loses his drive to win and sloppily hands the game to Kong. Like his many games with Peco over the years, he can't help but take pity on someone who bases their life around ping pong.
+Immediately, Smile loses his drive to win and sloppily hands the game to Kong. At this point, Smile just doesn't care about winning. When he plays against Peco or Kong and sees their fragile ego and status laid bare, he hesitates to take that away from them. Why take this so seriously? As he says to Kazama earlier in the episode:
 
 <video file="e03_creepy.mp4"></video>
+
+> [I play] table tennis to kill time.
+>
+> Devoting your life to table tennis is nonsense. It's beyond comprehension. It's creepy.
 
 After this match and Koizumi's strong scolding, Smile quickly transforms fully into the "emotionless" robot. For the next several episodes, he doesn't hesitate to crush even former friends like Sakuma. Witnessing this, and feeling left behind, Peco is finally so discouraged he throws away his ping pong paddle.
 
@@ -174,6 +178,8 @@ The theme has been setup, reinforced, and reincorporated. But now for the real p
 Up until this point, Peco hasn't had a definable motif that was his own. His scenes either highlighted another character's theme or borrowed from the standard library of background score. This is the true payoff of the show. On the official soundtrack, this song is titled simply, "Peco".
 
 <video file="e10_peco_theme.mp4"></video>
+
+> Koizumi: Now I see. He's a hero.
 
 Enter the hero! The action zips by. The background and spectators, even the colors, start to fade as the two players become increasingly focused and wholly absorbed by the game. And nowhere is this sudden transformation as clear and apparent as in the score.
 
