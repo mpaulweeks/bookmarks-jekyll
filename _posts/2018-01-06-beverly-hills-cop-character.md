@@ -5,6 +5,7 @@ type: post
 category: art
 isLive: true
 permalink: /beverly-hills-cop-character
+image: images/beverly-hills-cop-character/hero.jpg
 ---
 
 What character arcs exist, or do not exist, in the 1984 smash hit Beverly Hills Cop?

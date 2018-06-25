@@ -420,6 +420,11 @@ a.hover:hover {
   font-style: italic;
   color: grey;
 }
+div.img-header {
+  height: 200px;
+  background-position: center;
+  background-size: cover;
+}
 .strike {
   text-decoration: line-through;
 }
