@@ -3,7 +3,7 @@ layout: post
 title: The Hero's Motif in Ping Pong the Animation
 type: post
 category: art
-isLive: false
+isLive: true
 permalink: /ping-pong-animation-hero-theme
 ---
 
