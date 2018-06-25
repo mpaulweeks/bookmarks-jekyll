@@ -207,8 +207,9 @@ If you have a favorite show or movie, where you feel the score greatly elevated 
 
 <script>
   let rootPath = 'https://s3.amazonaws.com/blog.mpaulweeks.com/ping-pong/';
-  if (window.location.origin.includes('localhost')){
-    rootPath = 'http://localhost:8000/clips/';
+  if (window.location.search.includes('s3')){
+    const localPath = window.location.search.split('s3=')[1].split('&')[0];
+    rootPath = `http://${localPath}/`;
   }
 
   const videos = Array.from(document.getElementsByTagName('video'));
