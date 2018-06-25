@@ -202,6 +202,7 @@ When the motif moves from the diegetic humming of a child's fantasy to the pulsa
 - Going back to my opening bit about Gunbuster vs Diebuster, Every Frame a Painting did an excellent video essay called [The Marvel Symphonic Universe](https://www.youtube.com/watch?v=7vfqkvwW2fs) wherein he investigates why western movie soundtracks seem less memorable these days.
 - For a quick primer on Diagesis, check out this segment Lindsay Ellis made for her review of the [Phantom of the Opera film adaptation](https://youtu.be/-m5I_5Vnh6A?t=5m56s).
 - Lindsay Ellis also briefly discusses motif and it's noticeable misuse in the first Hobbit film in her video essay [The Hobbit: A Long-Expected Autopsy](https://youtu.be/uTRUQ-RKfUs?t=31m17s). The motif bit is time stamped, but the video and it's follow ups are well worth your time.
+- Special thanks to Khalid, Matt, and Eliah for proofreading and providing feedback <3
 
 If you have a favorite show or movie, where you feel the score greatly elevated the storytelling, please drop me a line <a href="https://twitter.com/mpaulweeks">@mpaulweeks</a>! I'd love to hear about it.
 
