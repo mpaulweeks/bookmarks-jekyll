@@ -57,7 +57,7 @@ Some characters even have multiple themes for different scenarios, connected via
   <video file="e01_kong2.mp4"></video>
 </div>
 
-Compare this to Koizumi's main theme, whose descending piano scales and wistful strings reflect the old man's wisdom and warmth. When it comes time for him to teach Smile a bitter lesson, the piano gets foreboding and dissonant. The strings are replaced with a periodic and high-pitched drone, almost like a siren.
+Compare this to Koizumi's main theme, whose descending piano arpeggios and wistful strings reflect the old man's wisdom and warmth. When it comes time for him to teach Smile a bitter lesson, the piano gets foreboding and dissonant. The strings are replaced with a periodic and high-pitched drone, almost like a siren.
 
 <div class="videoContainer2">
   <video file="e02_butterfly1.mp4"></video>
