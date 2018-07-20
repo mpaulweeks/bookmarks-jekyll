@@ -174,7 +174,7 @@ Finally, Peco remembers that key bit of wisdom from his childhood. It's not abou
 
 During this epiphany, we hear Smile's old humming tune slowly fade in. We see a flashback that explains its origins – Smile wrote it for Peco, as the Hero's theme! Now through flashback, we hear the original rendition through the voice of a child.
 
-The theme has been setup, reinforced, and reincorporated. But now for the real payoff.
+We've seen the [setup and reminder](https://www.youtube.com/watch?v=cG5zKwmXLgo). Now for the payoff.
 
 Up until this point, Peco hasn't had a definable motif that was his own. His scenes either highlighted another character's theme or borrowed from the standard library of background score. This is the true payoff of the show. On the official soundtrack, this song is titled simply, "Peco".
 
@@ -184,43 +184,57 @@ Up until this point, Peco hasn't had a definable motif that was his own. His sce
 
 Enter the hero! The action zips by. The background and spectators, even the colors, start to fade as the two players become increasingly focused and wholly absorbed by the game. And nowhere is this sudden transformation as clear as the sudden shift in score.
 
-Is it as simple as his motivation? Sure, we get the exciting start of a comeback, we cheer for his relentlessly fun attitude. But Peco isn't just a fun guy, he's a hero!
+It's the same melody we heard from Smile earlier, but apply a faster tempo and interesting percussion, and it transforms into a spontaneous assault of sounds. Peco's theme is childish, with the squeaking flute and bells and whistles. Peco's theme is spirited, with the vocal ooo-ing and echoing and the occasional clapping on the beat. Peco's theme is solid and powerful, with the electronic drone to center the chord alongside the strong percussive beat.
 
-The mark of a hero is the effect they have on other people. We've seen Peco protect and inspire Smile. Now it's time for Peco to save Kazama.
+The payoff of the hero theme signals more than the conclusion of Peco's arc. Remember, Peco was never a hero solely based on ping pong skills. It was his leadership and friendship that protected and inspired Smile.
+
+Now it's time for Peco to save Kazama.
+
+## Teaching Kazama to Fly
 
 <video file="e10_kazama_pain.mp4"></video>
 
-Despite his villianous exterior, Kazama has been less of an antagonist and more a tragedy. As reinforced when lectured Peco (above), he does not enjoy the act of playing ping pong. It is his duty.
+Despite his ominous exterior, Kazama is more tragic than directly antagonistic. He always cordial outside the match, and eagerly recognizes and respects Smile's talent. As the internatonal champion, he's less a rival and more of an obstacle to winning a tournament.
 
-So when Peco begins to pull ahead, Kazama can't believe it. He exclaims:
+What makes Kazama villianous isn't his behavior but his philosophy, what his lifestyle represents. As he reminds the audience in his lecture above, there is no joy in ping pong. There are no heroes, no shortcuts. Only hard work and responsibility.
 
-> There are no heroes!
+So when Peco's theme kicks in and the game starts to get close, Kazama is in denial.
 
 <video file="e10_kazama_wings.mp4"></video>
 
-The visual metaphor shifts. Kazama's recurring climb up the endless mountain segues into a common scene for him: a bathroom, a callback to his many pre-match meditations, a symbol of his isolation and burden. Only now, the hero appears and shows him a way out!
+The visual metaphors evolve. Kazama's recurring climb up the endless mountain segues into a common scene for him: a bathroom. It is a callback to his many pre-match meditations, a reminder of his isolation and stress.
 
-But the hero's job is to lead, not force. He withdraws his hand, and Kazama grows his own wings in response. At this point, Kazama starts enjoying the game.
+Suddenly, he looks up and opens his eyes. The hero appears and shows him a way out! But the hero's duty is to lead, not to coddle. The hero withdraws his hand, so Kazama grows his own wings and takes flight.
+
+For the first time in the series, Kazama starts enjoying the game.
 
 <video file="e10_kazama_second_wind.mp4"></video>
 
-As Kazama loses himself more in the game, the color drains from the scene and the backgrounds disappear. He no longer cares about the outcome of the game, only the visceral sensation of playing it. He has found a pure, almost enlightened state of playing.
+All the while, Peco's theme continues to play. This choice to continue the same audio from Peco's comeback minutes ago links it emotionally to Kazama's sudden change of heart. In another story, this would be a moment of tension: Kazama is starting to get some points again, the hero is losing his footing, the villian is making a comeback! By continuing Peco's theme throughout, it's telling us that this isn't just another dramatic turn or reversal of fortune. We should cheer for Kazama just like we did for Peco. Kong Wenge spells it out for us: "This is a great game!"
+
+As Kazama continues to grow, the color drains from the scene and the backgrounds disappear. He no longer cares about the outcome of the match, only the visceral sensation of playing. He has found a pure, almost enlightened state of peace.
 
 <video file="e10_kazama_oblivion.mp4"></video>
 
 > All my cells are singing [...] I don't have time to be afraid
 
-By the end of this scene, Peco's theme has been playing for 6 minutes straight. It's the same melody we heard from Smile earlier, but apply a faster tempo and interesting percussion, and it transforms into a spontaneous assault of sounds. Peco's theme is childish, with the squeaking flute and bells and whistles. Peco's theme is spirited, with the vocal ooo-ing and echoing and the occasional clapping on the beat. Peco's theme is solid and powerful, with the electronic drone to center the chord alongside the strong percussive beat.
+By the end of this scene, Peco's theme has been playing for 6 minutes straight. After this, we don't hear the hero's theme again. The moment has passed, the story has been told.
 
-Even more, we can appreciate this song's different manifestations / interpretations / arrangements as reflections of each character. Peco's theme mirrors his best qualities and aspirations (as described above). Smile's slower lullaby represents his needs: the hero as protector and savior, an answer to the external noise and bullying, less a drug and more a salve.
+While the next (and final) episode features a very heartwarming montage to conclude Smile's arc, to me, this match is the true emotional climax of the show. And it's only made that much stronger thanks to the music.
+
+## Evolution of the Motif
+
+What truly elevates the hero's theme, beyond the clever setup and payoff, is its different manifestations / interpretations / arrangements as reflections of each character.
+
+Peco's theme mirrors his best qualities and aspirations, its loud and fast and triumphant. Smile's slower lullaby represents his needs: the hero as protector and savior, an answer to the external noise and bullying, less a drug and more a salve.
 
 <video file="e10_smile_hero.mp4"></video>
 
-What I love in particular about this motif is how it switches from diegetic to non-diegetic, i.e. from occuring within the reality of the show to outside it. Smile's humming is diegetic, because the characters are aware of it, unlike the backing score, which is purely for our benefit and exists outside of the narrative.
+Also worth noting is how the motif seamlessly switches from diegetic to non-diegetic, i.e. from occuring within the reality of the show to outside it. Smile's humming is diegetic, because the characters are aware of it and even comment on it, unlike the backing score, which exists outside of the narrative and purely for audience's benefit.
 
 Motifs can be powerful tools for building emotional connections to the art or baking narrative associations into the subtext. But so rarely so you see a motif modified, let alone "adapted", like Peco's theme in Ping Pong. Right when Peco changes fundamentally as a character and his story arc peaks, the music changes with him for an effect that is deeply powerful.
 
-When the motif moves from the diegetic humming of a child's fantasy to the pulsating soundtrack of the big match, the story of the Hero transforms into legend.
+When the motif transforms from the diegetic humming of a child's fantasy to the pulsating soundtrack of the big match, the story of the Hero transforms into legend.
 
 ![](images/ping-pong/e10_hero_reflection.png)
 
@@ -228,7 +242,7 @@ When the motif moves from the diegetic humming of a child's fantasy to the pulsa
 
 - Going back to my opening bit about Gunbuster vs Diebuster, Every Frame a Painting did an excellent video essay called [The Marvel Symphonic Universe](https://www.youtube.com/watch?v=7vfqkvwW2fs) wherein he investigates why western movie soundtracks seem less memorable these days.
 - For a quick primer on digesis, check out this segment Lindsay Ellis made for her review of the [Phantom of the Opera film adaptation](https://youtu.be/-m5I_5Vnh6A?t=5m56s).
-- Lindsay Ellis also briefly discusses motif and it's noticeable misuse in the first Hobbit film in her video essay [The Hobbit: A Long-Expected Autopsy](https://youtu.be/uTRUQ-RKfUs?t=31m17s). The motif bit is time stamped, but the video and it's follow ups are well worth your time.
+- Lindsay Ellis also briefly discusses motif and its noticeable misuse in the first Hobbit film in her video essay [The Hobbit: A Long-Expected Autopsy](https://youtu.be/uTRUQ-RKfUs?t=31m17s). The motif bit is time stamped, but the video and it's follow ups are well worth your time.
 
 Special thanks to Khalid, Matt, and Eliah for proofreading and providing feedback <3
 
