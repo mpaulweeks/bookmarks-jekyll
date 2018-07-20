@@ -1,0 +1,34 @@
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+
+
+    let rootPath = 'https://s3.amazonaws.com/blog.mpaulweeks.com/ping-pong/';
+    if (window.location.search.includes('s3')){
+      const localPath = window.location.search.split('s3=')[1].split('&')[0];
+      rootPath = `http://${localPath}/`;
+    }
+
+    const videos = Array.from(document.getElementsByTagName('video'));
+    videos.forEach(vidElm => {
+      vidElm.controls = true;
+      if (!vidElm.poster){
+        vidElm.preload = 'meta';
+      }
+
+      const srcElm = document.createElement('source');
+      srcElm.type = 'video/mp4';
+      srcElm.src = rootPath + vidElm.getAttribute('file');
+      vidElm.appendChild(srcElm);
+
+      vidElm.addEventListener('play', () => {
+        videos.forEach(otherVidElm => {
+          if (vidElm !== otherVidElm){
+            otherVidElm.pause();
+          }
+        });
+      });
+    });
+
+
+  });
+</script>

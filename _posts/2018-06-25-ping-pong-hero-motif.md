@@ -207,24 +207,3 @@ When the motif moves from the diegetic humming of a child's fantasy to the pulsa
 Special thanks to Khalid, Matt, and Eliah for proofreading and providing feedback <3
 
 If you have a favorite show or movie, where you feel the score greatly elevated the storytelling, please drop me a line <a href="https://twitter.com/mpaulweeks">@mpaulweeks</a>! I'd love to hear about it.
-
-<script>
-  let rootPath = 'https://s3.amazonaws.com/blog.mpaulweeks.com/ping-pong/';
-  if (window.location.search.includes('s3')){
-    const localPath = window.location.search.split('s3=')[1].split('&')[0];
-    rootPath = `http://${localPath}/`;
-  }
-
-  const videos = Array.from(document.getElementsByTagName('video'));
-  videos.forEach(vidElm => {
-    vidElm.controls = true;
-    if (!vidElm.poster){
-      vidElm.preload = 'meta';
-    }
-
-    const srcElm = document.createElement('source');
-    srcElm.type = 'video/mp4';
-    srcElm.src = rootPath + vidElm.getAttribute('file');
-    vidElm.appendChild(srcElm);
-  });
-</script>
