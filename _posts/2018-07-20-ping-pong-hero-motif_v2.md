@@ -218,9 +218,19 @@ As Kazama continues to grow, the color drains from the scene and the backgrounds
 
 > All my cells are singing [...] I don't have time to be afraid
 
-By the end of this scene, Peco's theme has been playing for 6 minutes straight. After this, we don't hear the hero's theme again. The moment has passed, the story has been told.
+By the end of this scene, Peco's theme has been playing for 6 minutes straight. After this, we don't hear the hero's theme again. The moment has passed, the story has been told. Peco's theme was used exactly once, and it was used well.
 
-While the next (and final) episode features a very heartwarming montage to conclude Smile's arc, to me, this match is the true emotional climax of the show. And it's only made that much stronger thanks to the music.
+What's important is recognizing these 6 minutes of music accomplished. The scoring choice and setup served as an excellant payoff for Peco thematically. Perhaps more importantly, Peco's theme established a shorthand that helped convey and sell the complex emotions of Kazama's rapid enlightenment.
+
+All so we can get from this emotion...
+
+![](images/ping-pong/e10_kazama_fly_no.png)
+
+...to this one...
+
+![](images/ping-pong/e10_kazama_fly_yes.png)
+
+...in under 20 minutes and make it feel real.
 
 ## Evolution of the Motif
 
