@@ -3,8 +3,8 @@ layout: post
 title: The Hero's Motif in Ping Pong the Animation
 type: post
 category: art
-isLive: true
-permalink: /ping-pong-hero-motif
+isLive: false
+permalink: /ping-pong-hero-motif_v1
 image: images/ping-pong/e10_hero_reflection.png
 ---
 
