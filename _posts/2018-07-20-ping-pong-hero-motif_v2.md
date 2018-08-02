@@ -140,7 +140,7 @@ But we don't hear Hero's theme for another two episodes. Why? Because Peco is st
 
 ## The Hero's Return
 
-It is during the semi-finals match against Kazama that Peco is truly tested. After quicking losing 4 points in a very convincing fashion, Peco thinks this is his lowest point. His triumphant moment! He openly declares the start of his comeback.
+It is during the semi-finals match against Kazama that Peco is truly tested. After quickly losing 4 points in a very convincing fashion, Peco thinks this is his lowest point. His triumphant moment! He openly declares the start of his comeback.
 
 <video file="e10_false_return.mp4"></video>
 
