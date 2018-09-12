@@ -11,12 +11,26 @@ permalink: /video/
     padding-right: 0px;
   }
 
-  #filter {
-    font-size: 30px;
-    width: 80%;
+  .container-filter {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  .container-filter > * {
+    font-size: 24px;
     border: 2px solid black;
     border-radius: 5px;
-    padding: 2px;
+    padding: 4px;
+    margin: 4px;
+  }
+  .container-filter > input {
+    min-width: 300px;
+  }
+  .button:hover {
+    cursor: pointer;
+    color: white;
+    background-color: #55F;
   }
 
   #container-tags {
@@ -27,15 +41,10 @@ permalink: /video/
     flex-wrap: wrap;
   }
   .tag {
-    cursor: pointer;
     border: 1px solid grey;
     border-radius: 10px;
     padding: 4px 8px;
     margin: 4px;
-  }
-  .tag:hover {
-    color: white;
-    background-color: #55F;
   }
 
   .container-videos {
@@ -132,8 +141,9 @@ permalink: /video/
   Videos
 </h1>
 
-<p class="center">
+<p class="container-filter">
   <input type="text" id="filter" placeholder="filter by title, author, or tag" />
+  <span id="clear-filter" class="button">clear</button>
 </p>
 
 <p id="container-tags">
@@ -177,7 +187,8 @@ permalink: /video/
 // setup constants
 const videos = {{ site.data | jsonify }}.video;
 const hiddenClass = 'filtered';
-const searchElm = document.getElementById('filter');
+const filterInputElm = document.getElementById('filter');
+const filterClearElm = document.getElementById('clear-filter');
 
 // setup data related to videos
 const videoMeta = videos.map(video => ({
@@ -199,7 +210,7 @@ const tags = videos.reduce((map, video) => {
 
 // define function to enact filtering
 function renderFilter() {
-  const query = searchElm.value.toLowerCase();
+  const query = filterInputElm.value.toLowerCase();
   if (query.length === 0){
     // reveal everything
     videoMeta.forEach(vm => vm.elm.classList.remove(hiddenClass));
@@ -236,7 +247,7 @@ function focusMobile() {
 
 // populate tag buttons
 const tagHtml = Object.keys(tags).map(tag => `
-  <div class="tag" data-tag="${tag}">
+  <div class="button tag" data-tag="${tag}">
     <span class="tag-name">${tag}</span>
     <span class="tag-count">${tags[tag]}</span>
   </div>
@@ -245,11 +256,15 @@ document.getElementById('container-tags').innerHTML = tagHtml;
 
 // setup listeners
 window.addEventListener('scroll', focusMobile);
-searchElm.addEventListener('input', renderFilter);
+filterInputElm.addEventListener('input', renderFilter);
+filterClearElm.addEventListener('click', () => {
+  filterInputElm.value = '';
+  renderFilter();
+})
 Array.from(document.getElementsByClassName('tag')).forEach(tagElm => {
   tagElm.addEventListener('click', () => {
     const tagName = tagElm.getAttribute('data-tag');
-    searchElm.value = tagName;
+    filterInputElm.value = tagName;
     renderFilter();
   });
 });
