@@ -16,10 +16,28 @@ permalink: /video/
     flex-wrap: wrap;
   }
   .thumbnail {
-    width: 480px;
-    height: 270px;
+    width: 32vw;
+    height: 18.5625vw;
+    margin: 2px;
 
-    color: #FFF;
+    background-size: cover;
+    background-position: center;
+
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 5px;
+  }
+  .video-details {
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+
+    color: white;
+    background-color: black;
     font-size: 30px;
     text-shadow:
       -1px -1px 0 #000,
@@ -27,17 +45,17 @@ permalink: /video/
       -1px 1px 0 #000,
       1px 1px 0 #000;
 
-    background-size: cover;
-    background-position: center;
-    margin: 10px;
+    opacity: 0;
+  }
+  .thumbnail:hover > .video-details {
+    opacity: 0.7;
+  }
 
-    border: 2px solid black;
-    border-radius: 5px;
-
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: center;
+  @media (max-width: 800px) {
+    .thumbnail {
+      width: 47vw;
+      height: 26.4vw;
+    }
   }
 </style>
 
@@ -49,8 +67,10 @@ permalink: /video/
 <div class="container-videos">
   {% for video in videos %}
     <div class="thumbnail" style="background-image: url(https://i.ytimg.com/vi/{{video.vid}}/hqdefault.jpg);">
-      <div>{{video.channel}}</div>
-      <div>{{video.title}}</div>
+      <div class="video-details">
+        <div>{{video.channel}}</div>
+        <div>{{video.title}}</div>
+      </div>
     </div>
   {% endfor %}
 </div>
