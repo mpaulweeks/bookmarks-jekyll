@@ -10,6 +10,15 @@ permalink: /video/
     padding-left: 0px;
     padding-right: 0px;
   }
+
+  #filter {
+    font-size: 30px;
+    width: 80%;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 2px;
+  }
+
   .container-videos {
     display: flex;
     flex-direction: row;
@@ -101,9 +110,9 @@ permalink: /video/
   Videos
 </h1>
 
-<div>
+<p class="center">
   <input type="text" id="filter" placeholder="filter by title, author, or tag" />
-</div>
+</p>
 
 {% assign videos = site.data.video %}
 <div class="container-videos">
