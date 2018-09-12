@@ -7,6 +7,8 @@ permalink: /video/
   #main.container {
     /* overriding default.html */
     max-width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
   }
   .container-videos {
     display: flex;
@@ -15,16 +17,21 @@ permalink: /video/
     align-items: flex-start;
     flex-wrap: wrap;
   }
+  .chunk {
+    width: 25vw;
+    height: 12.5vw;
+
+    padding: 5px;
+    box-sizing: border-box;
+  }
   .thumbnail {
-    width: 32vw;
-    height: 18.5625vw;
-    margin: 2px;
+    width: 100%;
+    height: 100%;
 
     background-size: cover;
     background-position: center;
 
     box-sizing: border-box;
-    border: 2px solid black;
     border-radius: 5px;
   }
   .video-details {
@@ -40,6 +47,8 @@ permalink: /video/
     color: white;
     background-color: rgba(0,0,0,0.7);
     font-size: 30px;
+
+    border-radius: 5px;
 
     opacity: 0;
   }
@@ -58,10 +67,22 @@ permalink: /video/
     height: auto;
   }
 
+  @media (max-width: 1400px) {
+    .chunk {
+      width: 33vw;
+      height: 16.5vw;
+    }
+  }
   @media (max-width: 800px) {
-    .thumbnail {
-      width: 47vw;
-      height: 26.4vw;
+    .chunk {
+      width: 50vw;
+      height: 25vw;
+    }
+  }
+  @media (max-width: 600px) {
+    .chunk {
+      width: 100vw;
+      height: 50vw;
     }
   }
 </style>
@@ -73,27 +94,29 @@ permalink: /video/
 {% assign videos = site.data.video %}
 <div class="container-videos">
   {% for video in videos %}
-    <div class="thumbnail" style="background-image: url(https://i.ytimg.com/vi/{{video.vid}}/hqdefault.jpg);">
-      <div class="video-details">
-        <div>
-          <div>{{video.channel}}</div>
+    <div class="chunk">
+      <div class="thumbnail" style="background-image: url(https://i.ytimg.com/vi/{{video.vid}}/hqdefault.jpg);">
+        <div class="video-details">
           <div>
-            <a target="_blank" href="https://youtube.com/watch?v={{video.vid}}">
-              {{video.title}}
-            </a>
-          </div>
-        </div>
-        <div class="container-play">
-          {% if video.timestamps %}
+            <div>{{video.channel}}</div>
             <div>
-              jump to:
-              {% for stamp in video.timestamps %}
-                <a target="_blank" href="https://youtube.com/watch?v={{video.vid}}&t={{stamp}}">
-                  {{stamp}}
-                </a>
-              {% endfor %}
+              <a target="_blank" href="https://youtube.com/watch?v={{video.vid}}">
+                {{video.title}}
+              </a>
             </div>
-          {% endif %}
+          </div>
+          <div class="container-play">
+            {% if video.timestamps %}
+              <div>
+                jump to:
+                {% for stamp in video.timestamps %}
+                  <a target="_blank" href="https://youtube.com/watch?v={{video.vid}}&t={{stamp}}">
+                    {{stamp}}
+                  </a>
+                {% endfor %}
+              </div>
+            {% endif %}
+          </div>
         </div>
       </div>
     </div>
