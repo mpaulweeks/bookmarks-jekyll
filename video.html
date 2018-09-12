@@ -19,6 +19,25 @@ permalink: /video/
     padding: 2px;
   }
 
+  #container-tags {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .tag {
+    cursor: pointer;
+    border: 1px solid grey;
+    border-radius: 10px;
+    padding: 4px 8px;
+    margin: 4px;
+  }
+  .tag:hover {
+    color: white;
+    background-color: #55F;
+  }
+
   .container-videos {
     display: flex;
     flex-direction: row;
@@ -114,6 +133,10 @@ permalink: /video/
   <input type="text" id="filter" placeholder="filter by title, author, or tag" />
 </p>
 
+<p id="container-tags">
+  loading tags...
+</p>
+
 {% assign videos = site.data.video %}
 <div class="container-videos">
   {% for video in videos %}
@@ -148,15 +171,31 @@ permalink: /video/
 
 <script>
 
-const hiddenClass = 'filtered';
+// setup constants
 const videos = {{ site.data | jsonify }}.video;
+const hiddenClass = 'filtered';
+const searchElm = document.getElementById('filter');
+
+// setup data related to videos
 const videoMeta = videos.map(video => ({
   elm: document.getElementById(video.vid),
-  info: [video.title, video.channel || ''].join(' ').toLowerCase(),
+  info: [
+    video.title,
+    video.channel || '',
+    (video.tags || []).join(' '),
+  ].join(' ').toLowerCase(),
 }));
+const tags = videos.reduce((map, video) => {
+  if (video.tags){
+    video.tags.forEach(tag => {
+      map[tag] = (map[tag] || 0) + 1;
+    })
+  }
+  return map;
+}, {});
 
-const searchElm = document.getElementById('filter');
-searchElm.addEventListener('input', () => {
+// define function to enact filtering
+function renderFilter() {
   const query = searchElm.value.toLowerCase();
   if (query.length === 0){
     // reveal everything
@@ -173,6 +212,25 @@ searchElm.addEventListener('input', () => {
       }
     });
   }
+}
+
+// populate tag buttons
+const tagHtml = Object.keys(tags).map(tag => `
+  <div class="tag" data-tag="${tag}">
+    <span class="tag-name">${tag}</span>
+    <span class="tag-count">${tags[tag]}</span>
+  </div>
+`).join('');
+document.getElementById('container-tags').innerHTML = tagHtml;
+
+// setup listeners
+searchElm.addEventListener('input', renderFilter);
+Array.from(document.getElementsByClassName('tag')).forEach(tagElm => {
+  tagElm.addEventListener('click', () => {
+    const tagName = tagElm.getAttribute('data-tag');
+    searchElm.value = tagName;
+    renderFilter();
+  });
 });
 
 </script>
