@@ -20,6 +20,7 @@ permalink: /video/
   .chunk {
     width: 25vw;
     height: 12.5vw;
+    font-size: 1vw;
 
     padding: 5px;
     box-sizing: border-box;
@@ -46,7 +47,6 @@ permalink: /video/
     text-align: center;
     color: white;
     background-color: rgba(0,0,0,0.7);
-    font-size: 30px;
 
     border-radius: 5px;
 
@@ -59,30 +59,32 @@ permalink: /video/
     color: white;
     text-decoration: underline;
   }
+  .video-title {
+    font-size: 1.2em;
+  }
   .thumbnail:hover > .video-details {
     opacity: 1;
-  }
-  .container-play img {
-    width: 20%;
-    height: auto;
   }
 
   @media (max-width: 1400px) {
     .chunk {
       width: 33vw;
       height: 16.5vw;
+      font-size: 2vw;
     }
   }
   @media (max-width: 800px) {
     .chunk {
       width: 50vw;
       height: 25vw;
+      font-size: 3vw;
     }
   }
   @media (max-width: 600px) {
     .chunk {
       width: 100vw;
       height: 50vw;
+      font-size: 4vw;
     }
   }
 </style>
@@ -100,25 +102,23 @@ permalink: /video/
       <div class="thumbnail" style="background-image: url(https://i.ytimg.com/vi/{{video.vid}}/hqdefault.jpg);">
         <div class="video-details">
           <div>
-            <div>{{video.channel}}</div>
-            <div>
+            <div class="video-channel">{{video.channel}}</div>
+            <div class="video-title">
               <a target="_blank" href="https://youtube.com/watch?v={{video.vid}}">
                 {{video.title}}
               </a>
             </div>
           </div>
-          <div class="container-play">
-            {% if video.timestamps %}
-              <div>
-                jump to:
-                {% for stamp in video.timestamps %}
-                  <a target="_blank" href="https://youtube.com/watch?v={{video.vid}}&t={{stamp}}">
-                    {{stamp}}
-                  </a>
-                {% endfor %}
-              </div>
-            {% endif %}
-          </div>
+          {% if video.timestamps %}
+            <div class="video-timestamps">
+              jump to:
+              {% for stamp in video.timestamps %}
+                <a target="_blank" href="https://youtube.com/watch?v={{video.vid}}&t={{stamp}}">
+                  {{stamp}}
+                </a>
+              {% endfor %}
+            </div>
+          {% endif %}
         </div>
       </div>
     </div>
