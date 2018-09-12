@@ -78,9 +78,9 @@ permalink: /video/
 
     border-radius: 5px;
 
-    /*opacity: 0;*/
+    opacity: 0;
     /*temp for offline testing*/
-    opacity: 1;
+    /*opacity: 1;*/
   }
   .video-details > div {
     width: 100%;
@@ -119,6 +119,9 @@ permalink: /video/
       width: 100vw;
       height: 50vw;
       font-size: 4vw;
+    }
+    .mobile-focus {
+      opacity: 1;
     }
   }
 </style>
@@ -214,6 +217,23 @@ function renderFilter() {
   }
 }
 
+// define function for mobile focus
+function isCentered(elm) {
+  const { top, bottom } = elm.getBoundingClientRect();
+  const midpoint = window.innerHeight / 2;
+  return top < midpoint && midpoint < bottom;
+}
+function focusMobile() {
+  videoMeta.forEach(vm => {
+    const childDetails = vm.elm.getElementsByClassName('video-details')[0];
+    if (isCentered(childDetails)){
+      childDetails.classList.add('mobile-focus');
+    } else {
+      childDetails.classList.remove('mobile-focus');
+    }
+  });
+}
+
 // populate tag buttons
 const tagHtml = Object.keys(tags).map(tag => `
   <div class="tag" data-tag="${tag}">
@@ -224,6 +244,7 @@ const tagHtml = Object.keys(tags).map(tag => `
 document.getElementById('container-tags').innerHTML = tagHtml;
 
 // setup listeners
+window.addEventListener('scroll', focusMobile);
 searchElm.addEventListener('input', renderFilter);
 Array.from(document.getElementsByClassName('tag')).forEach(tagElm => {
   tagElm.addEventListener('click', () => {
