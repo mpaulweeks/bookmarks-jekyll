@@ -33,22 +33,22 @@ permalink: /video/
 
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
+    justify-content: space-around;
     align-items: center;
 
+    text-align: center;
     color: white;
-    background-color: black;
+    background-color: rgba(0,0,0,0.7);
     font-size: 30px;
-    text-shadow:
-      -1px -1px 0 #000,
-      1px -1px 0 #000,
-      -1px 1px 0 #000,
-      1px 1px 0 #000;
 
     opacity: 0;
   }
   .thumbnail:hover > .video-details {
-    opacity: 0.7;
+    opacity: 1;
+  }
+  .container-play img {
+    width: 30%;
+    height: auto;
   }
 
   @media (max-width: 800px) {
@@ -68,8 +68,15 @@ permalink: /video/
   {% for video in videos %}
     <div class="thumbnail" style="background-image: url(https://i.ytimg.com/vi/{{video.vid}}/hqdefault.jpg);">
       <div class="video-details">
-        <div>{{video.channel}}</div>
-        <div>{{video.title}}</div>
+        <div>
+          <div>{{video.channel}}</div>
+          <div>{{video.title}}</div>
+        </div>
+        <div class="container-play">
+          <a target="_blank" href="https://www.youtube.com/watch?v={{video.vid}}">
+            <img src="/images/play_white.png" />
+          </a>
+        </div>
       </div>
     </div>
   {% endfor %}
