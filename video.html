@@ -50,7 +50,9 @@ permalink: /video/
 
     border-radius: 5px;
 
-    opacity: 0;
+    /*opacity: 0;*/
+    /*temp for offline testing*/
+    opacity: 1;
   }
   .video-details > div {
     width: 100%;
@@ -64,6 +66,10 @@ permalink: /video/
   }
   .thumbnail:hover > .video-details {
     opacity: 1;
+  }
+
+  .filtered {
+    display: none;
   }
 
   @media (max-width: 1400px) {
@@ -95,10 +101,14 @@ permalink: /video/
   Videos
 </h1>
 
+<div>
+  <input type="text" id="filter" placeholder="filter by title, author, or tag" />
+</div>
+
 {% assign videos = site.data.video %}
 <div class="container-videos">
   {% for video in videos %}
-    <div class="chunk">
+    <div class="chunk" id="{{video.vid}}">
       <div class="thumbnail" style="background-image: url(https://i.ytimg.com/vi/{{video.vid}}/hqdefault.jpg);">
         <div class="video-details">
           <div>
@@ -129,7 +139,31 @@ permalink: /video/
 
 <script>
 
-var siteData = {{ site.data | jsonify }}.video;
-console.log(siteData);
+const hiddenClass = 'filtered';
+const videos = {{ site.data | jsonify }}.video;
+const videoMeta = videos.map(video => ({
+  elm: document.getElementById(video.vid),
+  info: [video.title, video.channel || ''].join(' ').toLowerCase(),
+}));
+
+const searchElm = document.getElementById('filter');
+searchElm.addEventListener('input', () => {
+  const query = searchElm.value.toLowerCase();
+  if (query.length === 0){
+    // reveal everything
+    videoMeta.forEach(vm => vm.elm.classList.remove(hiddenClass));
+  } else {
+    const queryParts = query.split(' ').map(p => p.trim());
+    videoMeta.forEach(vm => {
+      // if it overlaps each query term: show. else: hide
+      const match = queryParts.every(qp => vm.info.includes(qp));
+      if (match){
+        vm.elm.classList.remove(hiddenClass);
+      } else {
+        vm.elm.classList.add(hiddenClass);
+      }
+    });
+  }
+});
 
 </script>
