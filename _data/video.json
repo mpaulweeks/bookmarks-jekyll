@@ -10,6 +10,14 @@
   },
   {
     "tags": [
+      "video_games",
+      "funny"
+    ],
+    "title": "cat mario 64",
+    "vid": "aiM5KDuHrR4"
+  },
+  {
+    "tags": [
       "funny"
     ],
     "channel": "exurb1a",
@@ -195,7 +203,7 @@
   {
     "tags": [
       "essay",
-      "film",
+      "movies_and_tv",
       "social_commentary",
       "media_critique"
     ],
@@ -206,7 +214,7 @@
   {
     "tags": [
       "essay",
-      "film",
+      "movies_and_tv",
       "media_critique"
     ],
     "channel": "Lindsay Ellis",
@@ -216,7 +224,7 @@
   {
     "tags": [
       "essay",
-      "film",
+      "movies_and_tv",
       "social_commentary",
       "media_critique"
     ],
@@ -227,7 +235,7 @@
   {
     "tags": [
       "essay",
-      "film",
+      "movies_and_tv",
       "social_commentary",
       "media_critique"
     ],
@@ -238,7 +246,7 @@
   {
     "tags": [
       "essay",
-      "film",
+      "movies_and_tv",
       "media_critique"
     ],
     "channel": "Lindsay Ellis",
@@ -248,7 +256,7 @@
   {
     "tags": [
       "essay",
-      "film",
+      "movies_and_tv",
       "social_commentary",
       "media_critique"
     ],
@@ -259,7 +267,7 @@
   {
     "tags": [
       "essay",
-      "film",
+      "movies_and_tv",
       "social_commentary",
       "media_critique"
     ],
@@ -270,7 +278,7 @@
   {
     "tags": [
       "essay",
-      "film",
+      "youtube",
       "social_commentary",
       "media_critique"
     ],
@@ -280,7 +288,78 @@
   },
   {
     "tags": [
-      "film",
+      "essay",
+      "movies_and_tv",
+      "media_critique"
+    ],
+    "channel": "Folding Ideas",
+    "title": "A Lukewarm Defence of Fifty Shades of Grey (The Movie)",
+    "vid": "qzk9N7dJBec"
+  },
+  {
+    "tags": [
+      "essay",
+      "movies_and_tv",
+      "media_critique"
+    ],
+    "channel": "Folding Ideas",
+    "title": "The Art of Storytelling and The Book of Henry",
+    "vid": "GMb7-6eg4Zo"
+  },
+  {
+    "tags": [
+      "essay",
+      "youtube",
+      "media_critique"
+    ],
+    "channel": "Folding Ideas",
+    "title": "Weird Kids' Videos and Gaming the Algorithm",
+    "vid": "LKp2gikIkD8"
+  },
+  {
+    "tags": [
+      "essay",
+      "video_games",
+      "media_critique"
+    ],
+    "channel": "Folding Ideas",
+    "title": "The Stanley Parable, Dark Souls, and Intended Play",
+    "vid": "ZHmivGmkjJw"
+  },
+  {
+    "tags": [
+      "essay",
+      "video_games",
+      "media_critique"
+    ],
+    "channel": "Folding Ideas",
+    "title": "Ludonarrative Dissonance",
+    "vid": "04zaTjuV60A"
+  },
+  {
+    "tags": [
+      "essay",
+      "youtube",
+      "media_critique"
+    ],
+    "channel": "Folding Ideas",
+    "title": "VidMe or Why Platforms Aren't Your Friends",
+    "vid": "r3snVCRo_bI"
+  },
+  {
+    "tags": [
+      "essay",
+      "social_commentary",
+      "youtube",
+      "media_critique"
+    ],
+    "channel": "Folding Ideas",
+    "title": "React World",
+    "vid": "a49fipjglyc"
+  },
+  {
+    "tags": [
+      "movies_and_tv",
       "media_critique"
     ],
     "channel": "RedLetterMedia",
@@ -289,7 +368,7 @@
   },
   {
     "tags": [
-      "film",
+      "movies_and_tv",
       "media_critique"
     ],
     "channel": "RedLetterMedia",
@@ -299,7 +378,7 @@
   {
     "tags": [
       "essay",
-      "film",
+      "movies_and_tv",
       "social_commentary",
       "media_critique"
     ],
@@ -310,6 +389,7 @@
   {
     "tags": [
       "essay",
+      "youtube",
       "coding"
     ],
     "channel": "CGP Grey",
