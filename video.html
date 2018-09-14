@@ -147,7 +147,7 @@ permalink: /video/
   loading tags...
 </p>
 
-{% assign videos = site.data.video %}
+{% assign videos = site.data.youtube-generated %}
 <div class="container-videos">
   {% for video in videos %}
     <div class="chunk" id="{{video.vid}}">
@@ -192,7 +192,7 @@ permalink: /video/
 <script>
 
 // setup constants
-const videos = {{ site.data | jsonify }}.video;
+const videos = {{ site.data.youtube-generated | jsonify }};
 const hiddenClass = 'filtered';
 const filterInputElm = document.getElementById('filter');
 const filterClearElm = document.getElementById('clear-filter');
