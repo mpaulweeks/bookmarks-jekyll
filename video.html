@@ -173,6 +173,16 @@ permalink: /video/
               {% endfor %}
             </div>
           {% endif %}
+          {% if video.related %}
+            <div class="video-timestamps">
+              see also:
+              {% for related in video.related %}
+                <a target="_blank" href="https://youtube.com/watch?v={{related.vid}}">
+                  {{related.name}}
+                </a>
+              {% endfor %}
+            </div>
+          {% endif %}
         </div>
       </div>
     </div>
