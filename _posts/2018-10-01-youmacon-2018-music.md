@@ -18,3 +18,13 @@ descrip: Resources for a panel hosted at Youmacon 2018
 <!-- {% include links.html links=data.preshow %} -->
 
 More info coming soon...
+
+<!--
+<div class="manga-header">
+  Clips
+</div>
+{% include links.html links=data.clips %}
+
+<div class="manga-header"> Sources, Inspiration, and Further Reading </div>
+{% include links.html links=data.articles %}
+ -->
