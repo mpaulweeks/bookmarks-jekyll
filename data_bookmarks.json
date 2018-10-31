@@ -1,0 +1,6 @@
+---
+layout: null
+permalink: /data/bookmarks.json
+---
+
+{{ site.data.bookmarks | jsonify }}
