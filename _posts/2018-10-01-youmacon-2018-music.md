@@ -2,7 +2,7 @@
 layout: panel
 title: Music That Moves You
 convention: Youmacon 2018
-location: Saturday 8:00PM in Panel Room 330 A
+location: Saturday 8:00PM in Panel Room 320/321 (MOVED)
 type: panel
 isLive: true
 permalink: /youmacon-2018/music
