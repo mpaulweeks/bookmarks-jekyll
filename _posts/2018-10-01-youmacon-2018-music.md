@@ -17,9 +17,6 @@ descrip: Resources for a panel hosted at Youmacon 2018
 <!-- <div class="manga-header">Preshow</div> -->
 <!-- {% include links.html links=data.preshow %} -->
 
-More info coming soon...
-
-<!--
 <div class="manga-header">
   Clips
 </div>
@@ -27,4 +24,3 @@ More info coming soon...
 
 <div class="manga-header"> Sources, Inspiration, and Further Reading </div>
 {% include links.html links=data.articles %}
- -->
