@@ -13,217 +13,231 @@
     "description": "Everything we watch has a background score: thematic music that is specifically written for a scene or a character or a mood. In this panel, we survey soundtracks from many popular shows to analyze and celebrate how music creates contrast, elevates emotions, and in some cases, drives the narrative.",
     "preshow": [],
     "clips": [
-
       {
-        "title": "sirius_06_hook",
+        "title": "Part 1 - What is score vs soundtrack?"
+      },
+      {
+        "title": "Sirius the Jaeger",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/120_sirius_06_hook.mp4"
       },
       {
-        "title": "danganronpa_ed",
+        "title": "Danganronpa",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/130_danganronpa_ed.mp4"
       },
       {
-        "title": "plastic_hero",
+        "title": "Plastic Nee-san",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/140_plastic_hero.mp4"
       },
       {
-        "title": "turnagundam_felicity",
+        "title": "Turn A Gundam",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/160_turnagundam_felicity.mp4"
       },
       {
-        "title": "halo_composer",
+        "buffer": true,
+        "title": "Behind the Scenes: Halo",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/190_halo_composer.mp4"
       },
       {
-        "title": "evangelion_10_p1_fun",
+        "title": "Part 2 - Creating Emotion via Tone and Contrast"
+      },
+      {
+        "title": "Neon Genesis Evangelion (adventurous scoring)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/215_evangelion_10_p1_fun.mp4"
       },
       {
-        "title": "evangelion_10_p2_suspense",
+        "title": "Neon Genesis Evangelion (tense scoring)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/216_evangelion_10_p2_suspense.mp4"
       },
       {
-        "title": "nichijou_01_wiener",
+        "title": "Nichijou",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/217_nichijou_01_wiener.mp4"
       },
       {
-        "title": "kyousougiga_07_mood",
+        "title": "Kyousougiga",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/218_kyousougiga_07_mood.mp4"
       },
       {
-        "title": "ttgl_15_silence",
+        "title": "Gurren Lagann",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/219_ttgl_15_silence.mp4"
       },
       {
-        "title": "parasyte_16_organ",
+        "title": "Parasyte",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/225_parasyte_16_organ.mp4"
       },
       {
-        "title": "flcl_04_pillows",
+        "title": "FLCL (Pillows)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/230_flcl_04_pillows.mp4"
       },
       {
-        "title": "flcl_03_classical",
+        "title": "FLCL (classical)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/232_flcl_03_classical.mp4"
       },
       {
-        "title": "titan_op1",
+        "title": "Attach on Titan (op1)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/251_titan_op1.mp4"
       },
       {
-        "title": "titan_op2",
+        "title": "Attack on Titan (op2)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/252_titan_op2.mp4"
       },
       {
-        "title": "titan_op3",
+        "title": "Attack on Titan (op3)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/253_titan_op3.mp4"
       },
       {
-        "title": "titan_op4",
+        "buffer": true,
+        "title": "Attack on Titan (op4)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/254_titan_op4.mp4"
       },
       {
-        "title": "evangelion_22_hallelujah",
+        "title": "Part 3 - World Building via Cultural Shorthand"
+      },
+      {
+        "title": "Neon Genesis Evangelion (hallelujah)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/330_evangelion_22_hallelujah.mp4"
       },
       {
-        "title": "champloo_op",
+        "title": "Samurai Champloo (op)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/350_champloo_op.mp4"
       },
       {
-        "title": "champloo_18_graffiti",
+        "title": "Samurai Champloo (graffiti)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/351_champloo_18_graffiti.mp4"
       },
       {
-        "title": "champloo_08_beatbox",
+        "buffer": true,
+        "title": "Samurai Champloo (beatbox)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/352_champloo_08_beatbox.mp4"
       },
       {
-        "title": "gatchaman_crowds_01_transform",
+        "title": "Part 4 - Leitmotif"
+      },
+      {
+        "title": "Gatchaman Crowds",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/410_gatchaman_crowds_01_transform.mp4"
       },
       {
-        "title": "penguindrum_01_transform",
+        "title": "Mawaru Penguindrum",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/420_penguindrum_01_transform.mp4"
       },
       {
-        "title": "klk_01_lose_your_way",
+        "title": "Kill la Kill (Ryuko motif)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/450_klk_01_lose_your_way.mp4"
       },
       {
-        "title": "klk_06_lose_your_way",
+        "title": "Kill la Kill (Ryuko motif instrumental)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/451_klk_06_lose_your_way.mp4"
       },
       {
-        "title": "klk_01_satsuki",
+        "title": "Kill la Kill (Satsuki motif)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/453_klk_01_satsuki.mp4"
       },
       {
-        "title": "klk_11_ragyou",
+        "title": "Kill la Kill (Ragyou motif)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/454_klk_11_ragyou.mp4"
       },
       {
-        "title": "klk_11_harime_nui",
+        "title": "Kill la Kill (Harime Nui motif)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/455_klk_11_harime_nui.mp4"
       },
       {
-        "title": "klk_13_nagita",
+        "title": "Kill la Kill (fakeout character motif)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/456_klk_13_nagita.mp4"
       },
       {
-        "title": "klk_13_nui",
+        "title": "Kill la Kill (Harime Nui reveal)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/457_klk_13_nui.mp4"
       },
       {
-        "title": "ttgl_01_stars",
+        "title": "Gurren Lagann (introduction of motif)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/511_ttgl_01_stars.mp4"
       },
       {
-        "title": "ttgl_03_misc",
+        "title": "Gurren Lagann (alternative action music)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/512_ttgl_03_misc.mp4"
       },
       {
-        "title": "ttgl_08_rip",
+        "title": "Gurren Lagann (reinforcement of motif)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/521_ttgl_08_rip.mp4"
       },
       {
-        "title": "ttgl_07_peptalk",
+        "title": "Gurren Lagann (alternative use case of motif)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/531_ttgl_07_peptalk.mp4"
       },
       {
-        "title": "ttgl_12_family",
+        "title": "Gurren Lagann (softer arrangement of motif)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/532_ttgl_12_family.mp4"
       },
       {
-        "title": "ttgl_18_piano",
+        "title": "Gurren Lagann (melancholhy arrangement of motif)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/533_ttgl_18_piano.mp4"
       },
       {
-        "title": "ttgl_23_return",
+        "buffer": true,
+        "title": "Gurren Lagann (return of the original motif)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/541_ttgl_23_return.mp4"
       },
       {
-        "title": "yourlieapril_04_concert",
+        "title": "Part 5 - Diegesis"
+      },
+      {
+        "title": "Your Lie in April (diegetic)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/611_yourlieapril_04_concert.mp4"
       },
       {
-        "title": "yourlieapril_04_score",
+        "title": "Your Lie in APril (non-diegetic)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/612_yourlieapril_04_score.mp4"
       },
       {
-        "title": "lindsayellis_diegesis",
+        "title": "Lindsay Ellis clip about Diegesis",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/620_lindsayellis_diegesis.mp4"
       },
       {
-        "title": "bebop_06_jcut",
+        "title": "Cowboy Bebop (diegetic transition)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/630_bebop_06_jcut.mp4"
       },
       {
-        "title": "valvrave_05_montage",
+        "title": "Valvrave (montage)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/640_valvrave_05_montage.mp4"
       },
       {
-        "title": "eurekaseven_43_waltz",
+        "title": "Eureka seveN (diegetic music with metaphor)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/650_eurekaseven_43_waltz.mp4"
       },
       {
-        "title": "bloodplus_12_children",
+        "title": "Blood+ (introduction of diegetic motif)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/730_bloodplus_12_children.mp4"
       },
       {
-        "title": "bloodplus_12_song",
+        "title": "Blood+ (hearing the motif first hand)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/731_bloodplus_12_song.mp4"
       },
       {
-        "title": "bloodplus_24_humming",
+        "title": "Blood+ (hearing it vocalized differently)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/732_bloodplus_24_humming.mp4"
       },
       {
-        "title": "bloodplus_31_scene",
+        "title": "Blood+ (using the motif as introduction)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/733_bloodplus_31_scene.mp4"
       },
       {
-        "title": "bloodplus_24_orchestral",
+        "title": "Blood+ (non-diegetic adaptation of motif)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/734_bloodplus_24_orchestral.mp4"
       },
       {
-        "title": "bloodplus_48_concert",
+        "title": "Blood+ (synthesis of diegetic and non-diegetic versions)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/735_bloodplus_48_concert.mp4"
       },
       {
-        "title": "pingpong_01_hero_theme",
+        "title": "Ping Pong the Animation (diegetic introduction of hero motif)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/750_pingpong_01_hero_theme.mp4"
       },
       {
-        "title": "pingpong_03_humming",
+        "title": "Ping Pong the Animation (reinforcement of motif)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/751_pingpong_03_humming.mp4"
       },
       {
-        "title": "pingpong_03_yelling_zoom",
-        "s3": "mpaulweeks-presentation/Youmacon+2018/Music/752_pingpong_03_yelling_zoom.mp4"
-      },
-      {
-        "title": "pingpong_10_peco_theme",
+        "title": "Ping Pong the Animation (payoff of motif, now used non-diegetically)",
         "s3": "mpaulweeks-presentation/Youmacon+2018/Music/753_pingpong_10_peco_theme.mp4"
       },
     ]
