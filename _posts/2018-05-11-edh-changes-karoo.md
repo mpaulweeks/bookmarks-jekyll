@@ -187,7 +187,7 @@ Piloting the deck, and seeing essentially the best possible game, I realized thr
 2. Really long solitaire turns. I'm going to blame this on the "untappers", which really complicated the mana math. Even though they're clearly good for my deck, I'm looking to remove them + similar cards to reduce the amount of play decisions
 3. Mana flood. Early on, I accomplished a nice one-sided lockout by casting <auto-card>Cyclonic Rift</auto-card> and <auto-card>Sunder</auto-card> in the same turn. As hoped, I was able to dump my lands back in quickly, only to discover that I had literally no other plays for about 5 turns. I nearly killed one player with Jodah, but we should be able to do better
 
-All of my changes seek to fix these problems. The broad strokes, the solutions are:
+All of my changes seek to fix these problems. In broad strokes, the solutions are:
 
 1. Swap Jodah for the efficient win condition known as <auto-card>Progenitus</auto-card>
 2. Remove all untappers and tutors (except for one card that I'll explain below)
