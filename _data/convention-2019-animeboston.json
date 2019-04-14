@@ -1,0 +1,340 @@
+{
+  "motivated-camera": {
+    "articles": [
+      {
+        "title": "Sakuga Panel from Anime Central 2013",
+        "youtube": "LLNHSrJoqFM?list=PLuPNSyztkHPqV-M4ePSmN_2BLhONu0WLg"
+      },
+      {
+        "title": "Why over sixty years of animation history still remains obscure",
+        "url": "https://wavemotioncannon.com/2016/01/08/why-over-sixty-years-of-animation-history-still-remains-obscure/"
+      },
+      {
+        "title": "No Necks Allowed",
+        "url": "http://nowiknow.com/no-necks-allowed/"
+      },
+      {
+        "title": "The Dolly Zoom: More Than A Cheap Trick",
+        "youtube": "u5JBlwlnJX0"
+      },
+      {
+        "title": "David Fincher - And the Other Way is Wrong",
+        "youtube": "QPAloq5MCUA"
+      }
+    ],
+    "clips": [
+      {
+        "title": "Part 1 - Why the camera?"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p1 01 cowboy bebop movie.mp4",
+        "title": "Cowboy Bebop: The Movie"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p1 02 k-on character.mp4",
+        "title": "K-On!"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p1 03 hero academia.mp4",
+        "title": "My Hero Acamedia"
+      },
+      {
+        "buffer": true,
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p1 04 end of evangelion struggle.mp4",
+        "title": "The End of Evangelion"
+      },
+      {
+        "title": "Part 2 - Why Anime?"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p2 01 snow white.mp4",
+        "title": "Snow White and the Seven Dwarfs"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p2 02 daffy duck.mp4",
+        "title": "Baby Bottleneck (Daffy Duck)"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p2 03 sweatbox p1.mp4",
+        "title": "The Sweatbox (clip 1)"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p2 04 sweatbox p2.mp4",
+        "title": "The Sweatbox (clip 2)"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p2 05 star driver.mp4",
+        "title": "Star Driver"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p2 06 comedy spongebob.mp4",
+        "title": "Spongebob Squarepants"
+      },
+      {
+        "buffer": true,
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p2 07 comedy azumanga.mp4",
+        "title": "Azumanga Daioh"
+      },
+      {
+        "title": "Part 3 - Budgetary Constraints"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p3 01 scoobydoo door.mp4",
+        "title": "Scooby-Doo, Where Are You! (Background vs Foreground)"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p3 02 scoobydoo necks.mp4",
+        "title": "Scooby-Doo, Where Are You! (Limited Acting)"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p3 03 dbz neckline.mp4",
+        "title": "Dragonball Z"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p3 04 steven universe.mp4",
+        "title": "Steven Universe"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p3 05 hack sign.mp4",
+        "title": ".hack//Sign"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p3 06 titan horse cg.mp4",
+        "title": "Attack on Titan (horse CG)"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p3 07 revolutionary girl utena.mp4",
+        "title": "Revolutionary Girl Utena"
+      },
+      {
+        "buffer": true,
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p3 08 kill la kill still.mp4",
+        "title": "Kill la Kill (limited animation)"
+      },
+      {
+        "title": "Part 4 - Visual Language"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p4 01 jojo.mp4",
+        "title": "JoJo's Bizarre Adventure: Stardust Crusaders"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p4 02 hyouka fisheye.mp4",
+        "title": "Hyouka (fisheye lens)"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p4 03 dollyzoom examples.mp4",
+        "title": "The Dolly Zoom: More Than A Cheap Trick (excerpt)"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p4 04 hyouka dollyzoom.mp4",
+        "title": "Hyouka (dolly zoom)"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p4 05 neon genesis evangelion.mp4",
+        "title": "Neon Genesis Evangelion (pov)"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p4 06 kill la kill punch.mp4",
+        "title": "Kill la Kill (pov)"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p4 07 yuri kuma arashi parallax.mp4",
+        "title": "Yurikuma Arashi"
+      },
+      {
+        "buffer": true,
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p4 08 mob psycho.mp4",
+        "title": "Mob Psycho 100"
+      },
+      {
+        "title": "Part 5 - Serving the Narrative"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p5 01 sound euphonium.mp4",
+        "title": "Sound! Euphonium"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p5 02 terror in resonance pov.mp4",
+        "title": "Terror in Resonance (pov)"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p5 03 terror in resonance external.mp4",
+        "title": "Terror in Resonance (following action)"
+      },
+      {
+        "buffer": true,
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p5 04 terror in resonance exposition.mp4",
+        "title": "Terror in Resonance (exposition"
+      },
+      {
+        "title": "Part 6 - Dynamic Movement"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p6 01 titan wagon.mp4",
+        "title": "Attack on Titan (integration)"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p6 02 kill la kill cg.mp4",
+        "title": "Kill la Kill (distracting CG)"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p6 03 lustrous fight.mp4",
+        "title": "Land of the Lustrous (following action)"
+      },
+      {
+        "buffer": true,
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p6 04 lustrous monologue.mp4",
+        "title": "Land of the Lustrous (establishing shot)"
+      },
+      {
+        "title": "Part 7 - Synthesis"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p7 01 cowboy bebop.mp4",
+        "title": "Cowboy Bebop"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p7 02 end of evangelion struggle.mp4",
+        "title": "The End of Evangelion (struggle)"
+      },
+      {
+        "s3": "mpaulweeks-presentation/Anime+Boston+2019/Camera/p7 03 end of evangelion triumph.mp4",
+        "title": "The End of Evangelion (triumph)"
+      },
+    ],
+    "description": "Animation can display anything, from any angle, but to what end? We cover the history of anime director as auteur, animating on a budget, and basic visual storytelling. We explore how a motivated camera can drive empathy and create new meaning.",
+  },
+  "taste-is-subjective": {
+    "articles": [
+      {
+        "author": "Film Crit Hulk",
+        "title": "4 Levels of How We Consume Art",
+        "url": "http://birthmoviesdeath.com/2013/06/05/film-crit-hulk-smash-hulk-vs.-spoilers-and-the-4-levels-of-how-we-consume-a"
+      },
+      {
+        "author": "Wrong Every Time",
+        "title": "Your Taste Is Bad and So Are You",
+        "url": "http://wrongeverytime.com/2014/09/08/your-taste-is-bad-and-so-are-you/"
+      },
+      {
+        "author": "Wave Motion Cannon",
+        "title": "Anime Guilt",
+        "url": "https://wavemotioncannon.com/2016/04/26/anime-guilt/"
+      },
+      {
+        "author": "Now I Know",
+        "title": "No Necks Allowed",
+        "url": "http://nowiknow.com/no-necks-allowed/"
+      }
+    ],
+    "description": "Why do we like what we like? In this panel, we discuss the different ways people approach and appreciate anime. Together, we can foster better self-awareness and improve the dialogue!",
+    "preshow": [
+      {
+        "title": "I can Friday by day!",
+        "url": "http://animatorexpo.com/icanfridaybyday/"
+      },
+      {
+        "title": "BUBU & BUBULINA",
+        "url": "http://animatorexpo.com/bubuandbubulina/"
+      }
+    ],
+    "recommendations": [
+      {
+        "author": "ThePedanticRomantic",
+        "title": "Koe No Katachi - It's Okay To Feel (A Silent Voice)",
+        "youtube": "atgTsLv1e-A"
+      },
+      {
+        "author": "Super Eyepatch Wolf",
+        "buffer": true,
+        "title": "The Genius of Dragon Ball",
+        "youtube": "jJK7oysHoMw"
+      },
+      {
+        "author": "Mother's Basement",
+        "title": "What's in a Scene? - How SAO Became the Worst Anime Ever",
+        "youtube": "qZ9NlThB3SY"
+      },
+      {
+        "author": "Movies with Mikey",
+        "buffer": true,
+        "title": "Princess Mononoke",
+        "youtube": "rLibXEawkTI"
+      },
+      {
+        "author": "Wisecrack",
+        "title": "Philosophy of Attack on Titan",
+        "youtube": "1XJhZVmORlM"
+      },
+      {
+        "author": "Folding Ideas",
+        "title": "End of Evangelion and the Audience Author Membrane",
+        "youtube": "NAMAwErYRpQ"
+      },
+      {
+        "author": "Folding Ideas",
+        "buffer": true,
+        "title": "End of Evangelion Follow Up",
+        "youtube": "YTAQhgXD75I"
+      },
+      {
+        "author": "Anime Everyday",
+        "title": "The Stylistic Evolution of Anime",
+        "youtube": "dwj2ahYnci4"
+      },
+      {
+        "author": "The Canipa Effect",
+        "title": "The Importance of New Anime Character Designs",
+        "youtube": "rrBH3IYRjaw"
+      },
+      {
+        "author": "Every Frame a Painting",
+        "title": "Wolf Children (2012) - The Lateral Tracking Shot",
+        "youtube": "pdSKot0psNg"
+      }
+    ],
+    "resources": [
+      {
+        "buffer": true,
+        "title": "Slides",
+        "url": "https://drive.google.com/open?id=1RCuMwQG02rMIGgBar0eSjUGujmQzDZtO"
+      },
+      {
+        "title": "End of Evangelion clip #1",
+        "url": "https://sakugabooru.com/post/show/17072"
+      },
+      {
+        "title": "End of Evangelion clip #2",
+        "url": "https://sakugabooru.com/post/show/17081"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Sakuga Panel from Anime Central 2013",
+        "youtube": "LLNHSrJoqFM?list=PLuPNSyztkHPqV-M4ePSmN_2BLhONu0WLg"
+      },
+      {
+        "author": "ANNCast",
+        "buffer": true,
+        "title": "Kyousougiga (Episode 290)",
+        "url": "https://youtu.be/09vYrqz4hZ4?t=1h13m"
+      },
+      {
+        "author": "Shaun and Jen",
+        "title": "Everything Wrong with CinemaSins",
+        "url": "https://www.youtube.com/playlist?list=PLB8NXe_on1cV3bJvw_FA1FX-FI7PGZnV_"
+      },
+      {
+        "author": "bobvids",
+        "title": "Everything Wrong With \"Everything Wrong With\"",
+        "url": "https://www.youtube.com/playlist?list=PLlLOd9IiBWLE3pl_dxB3hASeSOvguJE_6"
+      },
+      {
+        "author": "RedLetterMedia",
+        "title": "Plinkett Review of Star Wars: The Phantom Menace",
+        "youtube": "FxKtZmQgxrI?list=PL5919C8DE6F720A2D"
+      }
+    ]
+  }
+}
