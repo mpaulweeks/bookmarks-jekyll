@@ -4,7 +4,7 @@ title: Music That Moves You
 convention: Castle Point 2019
 location: Sunday 11:45AM in TBD
 type: panel
-isLive: true
+isLive: false
 permalink: /castlepoint-2019/music
 descrip: Resources for a panel hosted at Castle Point Anime Convention 2019
 ---
