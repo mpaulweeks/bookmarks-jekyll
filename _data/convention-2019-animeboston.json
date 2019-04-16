@@ -241,15 +241,25 @@
     ],
     "recommendations": [
       {
+        "buffer": true,
+        "title": "Level 1: Emotional Engagement"
+      },
+      {
         "author": "ThePedanticRomantic",
         "title": "Koe No Katachi - It's Okay To Feel (A Silent Voice)",
         "youtube": "atgTsLv1e-A"
       },
       {
         "author": "Super Eyepatch Wolf",
-        "buffer": true,
         "title": "The Genius of Dragon Ball",
         "youtube": "jJK7oysHoMw"
+      },
+      {
+        "buffer": true
+      },
+      {
+        "buffer": true,
+        "title": "Level 2: Within the Context of the Medium"
       },
       {
         "author": "Mother's Basement",
@@ -258,14 +268,25 @@
       },
       {
         "author": "Movies with Mikey",
-        "buffer": true,
         "title": "Princess Mononoke",
         "youtube": "rLibXEawkTI"
       },
       {
+        "buffer": true
+      },
+      {
+        "buffer": true,
+        "title": "Level 3: Exploring Themes and Subtext"
+      },
+      {
         "author": "Wisecrack",
-        "title": "Philosophy of Attack on Titan",
+        "title": "The Philosophy of Attack on Titan",
         "youtube": "1XJhZVmORlM"
+      },
+      {
+        "author": "Wisecrack",
+        "title": "The Philosophy of ONE PUNCH MAN",
+        "youtube": "EQB6ctBXNzs"
       },
       {
         "author": "Folding Ideas",
@@ -274,9 +295,15 @@
       },
       {
         "author": "Folding Ideas",
-        "buffer": true,
         "title": "End of Evangelion Follow Up",
         "youtube": "YTAQhgXD75I"
+      },
+      {
+        "buffer": true
+      },
+      {
+        "buffer": true,
+        "title": "Level 0: Nuts & Bolts"
       },
       {
         "author": "Anime Everyday",
@@ -292,6 +319,11 @@
         "author": "Every Frame a Painting",
         "title": "Wolf Children (2012) - The Lateral Tracking Shot",
         "youtube": "pdSKot0psNg"
+      },
+      {
+        "author": "Core Ideas",
+        "title": "In Defense of Dragon Ball GT - The Importance of Musical Tone",
+        "youtube": "ydhDBRS6Fms"
       }
     ],
     "resources": [
