@@ -13,7 +13,7 @@ descrip: Resources for a panel hosted at Anime Boston 2019
 
 View current schedule and additional info on the <a href="http://www.animeboston.com/coninfo/schedule_panel/3408">Anime Boston website</a>
 
-An earlier version of this panel: <a href="/youmacon-2018/taste/">Youmacon 2018 - Taste is Subjective!</a>
+<!-- An earlier version of this panel: <a href="/youmacon-2018/taste/">Youmacon 2018 - Taste is Subjective!</a> -->
 
 <div class="manga-header">Panel Description</div>
 <div class="panel-description">{{data.description}}</div>
@@ -21,6 +21,14 @@ An earlier version of this panel: <a href="/youmacon-2018/taste/">Youmacon 2018 
 <!-- <div class="manga-header">Preshow</div> -->
 <!-- {% include links.html links=data.preshow %} -->
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+More info coming soon...
+
+<!--
 <div class="manga-header">Resources</div>
 {% include links.html links=data.resources %}
 
@@ -32,3 +40,4 @@ An earlier version of this panel: <a href="/youmacon-2018/taste/">Youmacon 2018 
 
 <div class="manga-header"> Some Recommended Channels </div>
 {% include links.html links=data.recommendations %}
+-->

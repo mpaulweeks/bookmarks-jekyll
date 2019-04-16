@@ -17,6 +17,14 @@ descrip: Resources for a panel hosted at Castle Point Anime Convention 2019
 <!-- <div class="manga-header">Preshow</div> -->
 <!-- {% include links.html links=data.preshow %} -->
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+More info coming soon...
+
+<!--
 <div class="manga-header">
   Clips
 </div>
@@ -24,3 +32,4 @@ descrip: Resources for a panel hosted at Castle Point Anime Convention 2019
 
 <div class="manga-header"> Sources, Inspiration, and Further Reading </div>
 {% include links.html links=data.articles %}
+-->
