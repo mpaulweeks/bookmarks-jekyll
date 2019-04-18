@@ -21,14 +21,6 @@ View current schedule and additional info on the <a href="http://www.animeboston
 <!-- <div class="manga-header">Preshow</div> -->
 <!-- {% include links.html links=data.preshow %} -->
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-More info coming soon...
-
-<!--
 <div class="manga-header">Resources</div>
 {% include links.html links=data.resources %}
 
@@ -40,4 +32,4 @@ More info coming soon...
 
 <div class="manga-header"> Some Recommended Channels </div>
 {% include links.html links=data.recommendations %}
--->
+

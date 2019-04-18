@@ -18,14 +18,6 @@ View current schedule and additional info on the <a href="http://www.animeboston
 <div class="manga-header">Panel Description</div>
 <div class="panel-description">{{data.description}}</div>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-More info coming soon...
-
-<!--
 <div class="manga-header">
   Clips
 </div>
@@ -33,4 +25,3 @@ More info coming soon...
 
 <div class="manga-header"> Sources and Inspiration </div>
 {% include links.html links=data.articles %}
--->
