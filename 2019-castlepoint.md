@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Castle Point Anime Convention 2019
+title: Castle Point 2019
 permalink: /castlepoint-2019/
 ---
 
-Schedule TBD
+
+<a href="https://www.castlepointanime.com/events/panels.html">Castle Point Panel Schedule</a>
 
 {% include convention.html convention=page.title %}
