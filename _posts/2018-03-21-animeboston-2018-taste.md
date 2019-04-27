@@ -13,8 +13,6 @@ descrip: Resources for a panel hosted at Anime Boston 2018
 
 View current schedule and additional info on the <a href="http://www.animeboston.com/coninfo/schedule_panel/2970">Anime Boston website</a>
 
-An earlier version of this panel: <a href="/acen-2017/diagnosing-taste/">Anime Central 2017 - How to Diagnose Your Anime Taste</a>
-
 <div class="manga-header">Panel Description</div>
 <div class="panel-description">{{data.description}}</div>
 
@@ -32,3 +30,5 @@ An earlier version of this panel: <a href="/acen-2017/diagnosing-taste/">Anime C
 
 <div class="manga-header"> Some Recommended Channels </div>
 {% include links.html links=data.recommendations %}
+
+*See also: an earlier version of this panel from <a href="/acen-2017/diagnosing-taste/">Anime Central 2017</a>*

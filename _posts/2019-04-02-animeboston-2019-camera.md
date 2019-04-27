@@ -13,8 +13,6 @@ descrip: Resources for a panel hosted at Anime Boston 2019
 
 View current schedule and additional info on the <a href="http://www.animeboston.com/coninfo/schedule_panel/3157">Anime Boston website</a>
 
-<!-- An earlier version of this panel: <a href="/youmacon-2018/camera/">Youmacon 2018 - The Motivated Camera</a> -->
-
 <div class="manga-header">Panel Description</div>
 <div class="panel-description">{{data.description}}</div>
 
@@ -25,3 +23,5 @@ View current schedule and additional info on the <a href="http://www.animeboston
 
 <div class="manga-header"> Sources and Inspiration </div>
 {% include links.html links=data.articles %}
+
+*See also: an earlier version of this panel from <a href="/youmacon-2018/camera/">Youmacon 2018</a>*

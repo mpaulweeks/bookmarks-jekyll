@@ -11,8 +11,6 @@ descrip: Resources for a panel hosted at Youmacon 2018
 
 {% assign data = site.data.convention-2018-youmacon.motivated-camera %}
 
-An earlier version of this panel from <a href="/acen-2018/camera">Anime Central 2018</a>
-
 <div class="manga-header">Panel Description</div>
 <div class="panel-description">{{data.description}}</div>
 
@@ -30,3 +28,5 @@ An earlier version of this panel from <a href="/acen-2018/camera">Anime Central 
 
 <div class="manga-header"> Sources and Inspiration </div>
 {% include links.html links=data.articles %}
+
+*See also: an earlier version of this panel from <a href="/acen-2018/camera">Anime Central 2018</a>*

@@ -11,8 +11,6 @@ descrip: Resources for a panel hosted at Youmacon 2018
 
 {% assign data = site.data.convention-2018-youmacon.taste %}
 
-An earlier version of this panel from <a href="/acen-2018/taste">Anime Central 2018</a>
-
 <div class="manga-header">Panel Description</div>
 <div class="panel-description">{{data.description}}</div>
 
@@ -30,3 +28,5 @@ An earlier version of this panel from <a href="/acen-2018/taste">Anime Central 2
 
 <div class="manga-header"> Some Recommended Channels </div>
 {% include links.html links=data.recommendations %}
+
+*See also: an earlier version of this panel from <a href="/acen-2018/taste">Anime Central 2018</a>*

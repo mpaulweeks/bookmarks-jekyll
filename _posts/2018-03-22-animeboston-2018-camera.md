@@ -13,8 +13,6 @@ descrip: Resources for a panel hosted at Anime Boston 2018
 
 View current schedule and additional info on the <a href="http://www.animeboston.com/coninfo/schedule_panel/2634">Anime Boston website</a>
 
-An earlier version of this panel: <a href="/animenyc-2017/simulated-camera/">AnimeNYC 2017 - The Simulated Camera</a>
-
 <div class="manga-header">Panel Description</div>
 <div class="panel-description">{{data.description}}</div>
 
@@ -32,3 +30,5 @@ An earlier version of this panel: <a href="/animenyc-2017/simulated-camera/">Ani
 
 <div class="manga-header"> Sources and Inspiration </div>
 {% include links.html links=data.articles %}
+
+*See also: an earlier version of this panel from <a href="/animenyc-2017/simulated-camera/">AnimeNYC 2017</a>*

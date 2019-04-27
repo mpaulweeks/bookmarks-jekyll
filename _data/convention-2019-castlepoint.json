@@ -1,0 +1,181 @@
+{
+  "music": {
+    "articles": [
+      {
+        "title": "Lindsay Ellis - Joel Schumacher's Phantom of the Opera (source of Diegesis clip)",
+        "url": "https://www.youtube.com/watch?v=-m5I_5Vnh6A&t=373"
+      },
+      {
+        "title": "In Defense of Dragon Ball GT - The Importance of Musical Tone",
+        "url": "https://www.youtube.com/watch?v=ydhDBRS6Fms"
+      }
+    ],
+    "description": "Everything we watch has a background score: thematic music that is specifically written for a scene or a character or a mood. In this panel, we survey soundtracks from many popular shows to analyze and celebrate how music creates contrast, elevates emotions, and in some cases, drives the narrative.",
+    "preshow": [],
+    "clips": [
+      {
+        "title": "Part 1 - Why music?"
+      },
+      {
+        "title": "Death Parade",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/110_death_parade_op.mp4"
+      },
+      {
+        "title": "Plastic Nee-san",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/140_plastic_hero.mp4"
+      },
+      {
+        "title": "Turn A Gundam",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/160_turnagundam_felicity.mp4"
+      },
+      {
+        "buffer": true,
+        "title": "Behind the Scenes: Halo",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/190_halo_composer.mp4"
+      },
+      {
+        "title": "Part 2 - Creating Emotion via Tone and Contrast"
+      },
+      {
+        "title": "Neon Genesis Evangelion (adventurous scoring)",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/215_evangelion_10_p1_fun.mp4"
+      },
+      {
+        "title": "Neon Genesis Evangelion (tense scoring)",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/216_evangelion_10_p2_suspense.mp4"
+      },
+      {
+        "title": "Nichijou",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/217_nichijou_01_wiener.mp4"
+      },
+      {
+        "title": "Gurren Lagann",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/219_ttgl_15_silence.mp4"
+      },
+      {
+        "title": "Parasyte",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/225_parasyte_16_organ.mp4"
+      },
+      {
+        "title": "FLCL (Pillows)",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/230_flcl_04_pillows.mp4"
+      },
+      {
+        "title": "FLCL (classical)",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/232_flcl_03_classical.mp4"
+      },
+      {
+        "title": "Attach on Titan (op1)",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/251_titan_op1.mp4"
+      },
+      {
+        "title": "Attach on Titan (op2)",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/252_titan_op2_trimmed.mp4"
+      },
+      {
+        "title": "Attach on Titan (op3)",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/253_titan_op3_trimmed.mp4"
+      },
+      {
+        "buffer": true,
+        "title": "Attach on Titan (op4)",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/254_titan_op4.mp4"
+      },
+      {
+        "title": "Part 3 - World Building via Association and Motif"
+      },
+      {
+        "title": "Neon Genesis Evangelion (hallelujah)",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/330_evangelion_22_hallelujah.mp4"
+      },
+      {
+        "title": "Samurai Champloo",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/351_champloo_18_graffiti.mp4"
+      },
+      {
+        "title": "Mawaru Penguindrum",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/420_penguindrum_01_transform.mp4"
+      },
+      {
+        "title": "Kill la Kill (Ryuko motif)",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/450_klk_01_lose_your_way.mp4"
+      },
+      {
+        "title": "Kill la Kill (Ryuko motif instrumental)",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/451_klk_06_lose_your_way.mp4"
+      },
+      {
+        "title": "Kill la Kill (Satsuki motif)",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/453_klk_01_satsuki.mp4"
+      },
+      {
+        "title": "Kill la Kill (fakeout character motif)",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/456_klk_13_nagita.mp4"
+      },
+      {
+        "title": "Gurren Lagann (Team Gurren motif)",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/521_ttgl_08_rip.mp4"
+      },
+      {
+        "buffer": true,
+        "title": "Gurren Lagann (melancholy piano arrangement)",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/533_ttgl_18_piano.mp4"
+      },
+      {
+        "title": "Part 4 - Diegetic Music"
+      },
+      {
+        "title": "Your Lie in April (diegetic)",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/611_yourlieapril_04_concert.mp4"
+      },
+      {
+        "title": "Your Lie in April (non-diegetic)",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/612_yourlieapril_04_score.mp4"
+      },
+      {
+        "title": "Lindsay Ellis clip about Diegesis",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/620_lindsayellis_diegesis.mp4"
+      },
+      {
+        "title": "Yuri on Ice",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/629_yuri_05.mp4"
+      },
+      {
+        "title": "Cowboy Bebop (diegetic transition)",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/630_bebop_06_jcut.mp4"
+      },
+      {
+        "buffer": true,
+        "title": "Eureka seveN (diegetic music with metaphor)",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/650_eurekaseven_43_waltz.mp4"
+      },
+      {
+        "title": "Part 5 - Synthesis"
+      },
+      {
+        "title": "Ping Pong the Animation (diegetic introduction of hero motif)",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/721_pingpong_03_humming.mp4"
+      },
+      {
+        "title": "Ping Pong the Animation (non-diegetic payoff of motif)",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/723_pingpong_10_peco_theme.mp4"
+      },
+      {
+        "title": "Blood+ (diegetic introduction of Diva motif)",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/730_bloodplus_12_children.mp4"
+      },
+      {
+        "title": "Blood+ (using the motif for context)",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/733_bloodplus_31_scene.mp4"
+      },
+      {
+        "title": "Blood+ (non-diegetic adaptation of motif)",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/734_bloodplus_24_orchestral.mp4"
+      },
+      {
+        "title": "Blood+ (synthesis of diegetic and non-diegetic versions)",
+        "s3": "mpaulweeks-presentation/Castle+Point+2019/Music/735_bloodplus_48_concert.mp4"
+      }
+    ]
+  }
+}

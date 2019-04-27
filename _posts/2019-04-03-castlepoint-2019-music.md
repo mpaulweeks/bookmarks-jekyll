@@ -2,9 +2,9 @@
 layout: panel
 title: Music That Moves You
 convention: Castle Point 2019
-location: Sunday 11:45AM in TBD
+location: Sunday 4:30PM in Panels 3
 type: panel
-isLive: false
+isLive: true
 permalink: /castlepoint-2019/music
 descrip: Resources for a panel hosted at Castle Point Anime Convention 2019
 ---
@@ -17,14 +17,6 @@ descrip: Resources for a panel hosted at Castle Point Anime Convention 2019
 <!-- <div class="manga-header">Preshow</div> -->
 <!-- {% include links.html links=data.preshow %} -->
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-More info coming soon...
-
-<!--
 <div class="manga-header">
   Clips
 </div>
@@ -32,4 +24,5 @@ More info coming soon...
 
 <div class="manga-header"> Sources, Inspiration, and Further Reading </div>
 {% include links.html links=data.articles %}
--->
+
+*See also: an earlier version of this panel from <a href="/youmacon-2018/music/">Youmacon 2018</a>*
