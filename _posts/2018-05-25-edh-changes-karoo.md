@@ -269,7 +269,7 @@ Progenitus's signature "protection from everything" prevents the damage dealt by
   <auto-card-image>Sire of Insanity</auto-card-image>
 </div>
 
-Sire of Insanity feels like a big missed opportunity on my first pass. If the idea it to get ahead then lock out my opponents, Sire does double duty by removing any big hands I gave my opponents from wheels and then keeping them that way.
+Sire of Insanity feels like a big missed opportunity on my first pass. If the idea is to get ahead then lock out my opponents, Sire does double duty by removing any big hands I gave my opponents from wheels and then keeping them that way.
 
 <div class="center">
   <auto-card-image>Finest Hour</auto-card-image>
